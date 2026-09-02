@@ -3,9 +3,17 @@ name: BAR RADAR - Manual Venue Import
 on:
   workflow_dispatch:
     inputs:
-      file:
-        description: "Path to CSV file in the repo (default: data/manual_import/venues_template.csv)"
+      sheet_url:
+        description: "Google Sheets 'publish to web' CSV export URL (leave blank to use the SHEET_CSV_URL repo variable, or a file in the repo)"
         default: ""
+      file:
+        description: "Path to CSV file in the repo, used only if sheet_url is blank AND no SHEET_CSV_URL repo variable is set (default: data/manual_import/venues_template.csv)"
+        default: ""
+  # Uncomment to auto-sync from your Google Sheet on a schedule instead of
+  # (or in addition to) running it manually - requires SHEET_CSV_URL to be
+  # set as a repo variable (see Settings > Secrets and variables > Actions).
+  # schedule:
+  #   - cron: "0 8 * * *"  # daily at 08:00 UTC
 
 jobs:
   import:
@@ -34,7 +42,7 @@ jobs:
       - name: Import venues
         run: >
           python -m src.pipeline.import_manual_venues
-          ${{ github.event.inputs.file != '' && format('--file {0}', github.event.inputs.file) || '' }}
+          ${{ (github.event.inputs.sheet_url != '' && format('--sheet-url "{0}"', github.event.inputs.sheet_url)) || (vars.SHEET_CSV_URL != '' && format('--sheet-url "{0}"', vars.SHEET_CSV_URL)) || (github.event.inputs.file != '' && format('--file {0}', github.event.inputs.file)) || '' }}
 
       - name: Export CSVs
         run: python -m src.pipeline.export
