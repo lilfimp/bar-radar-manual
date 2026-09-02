@@ -1,0 +1,54 @@
+name: BAR RADAR - Discovery Batch
+
+on:
+  workflow_dispatch:
+    inputs:
+      cities:
+        description: "Specific cities to run, space-separated (e.g. 'Berlin'). Leave blank to run the automatic next-N-cities selection below."
+        default: ""
+      limit:
+        description: "Limit to first N cities from config order (ignored if 'cities' is set)"
+        default: "5"
+  schedule:
+    # Twice a day - discovery is cheap (Overpass only) but stays polite.
+    - cron: "0 6,18 * * *"
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - run: pip install -r requirements.txt
+
+      - name: Restore database
+        uses: actions/cache@v4
+        with:
+          path: data/bar_radar.db
+          key: bar-radar-db-${{ github.run_id }}
+          restore-keys: |
+            bar-radar-db-
+
+      - name: Apply database migrations
+        run: python -m db.migrate
+
+      - name: Run discovery batch
+        run: >
+          python -m src.pipeline.run_discovery
+          ${{ github.event.inputs.cities != '' && format('--cities {0}', github.event.inputs.cities) || format('--limit {0}', github.event.inputs.limit || '5') }}
+
+      - name: Export CSVs
+        run: python -m src.pipeline.export
+
+      - name: Commit updated exports + DB
+        run: |
+          git config user.name "bar-radar-bot"
+          git config user.email "actions@github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "chore: discovery batch [skip ci]"
+          git push
