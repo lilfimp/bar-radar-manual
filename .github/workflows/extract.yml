@@ -1,0 +1,68 @@
+name: BAR RADAR - Menu Extraction Batch (Phase 2)
+
+on:
+  workflow_dispatch:
+    inputs:
+      discovery_batch_size:
+        description: "Venues to scan for all menu links this run"
+        default: "50"
+      extraction_batch_size:
+        description: "Menu sources to extract this run"
+        default: "150"
+  schedule:
+    - cron: "30 */4 * * *"  # offset 30 min from the enrichment workflow
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install Tesseract OCR (English + German)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y tesseract-ocr tesseract-ocr-deu
+
+      - run: pip install -r requirements.txt
+
+      - name: Restore database
+        uses: actions/cache@v4
+        with:
+          path: data/bar_radar.db
+          key: bar-radar-db-${{ github.run_id }}
+          restore-keys: |
+            bar-radar-db-
+
+      - name: Restore evidence files
+        uses: actions/cache@v4
+        with:
+          path: data/evidence
+          key: bar-radar-evidence-${{ github.run_id }}
+          restore-keys: |
+            bar-radar-evidence-
+
+      - name: Apply database migrations
+        run: python -m db.migrate
+
+      - name: Run extraction batch
+        run: >
+          python -m src.pipeline.run_extraction
+          --discovery-batch-size ${{ github.event.inputs.discovery_batch_size || 50 }}
+          --extraction-batch-size ${{ github.event.inputs.extraction_batch_size || 150 }}
+
+      - name: Export CSVs
+        run: python -m src.pipeline.export
+
+      - name: Commit updated exports
+        run: |
+          git config user.name "bar-radar-bot"
+          git config user.email "actions@github.com"
+          git add data/exports/ data/manual_review/
+          git diff --cached --quiet || git commit -m "chore: menu extraction batch [skip ci]"
+          git push
