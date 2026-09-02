@@ -1,0 +1,48 @@
+name: BAR RADAR - Manual Venue Import
+
+on:
+  workflow_dispatch:
+    inputs:
+      file:
+        description: "Path to CSV file in the repo (default: data/manual_import/venues_template.csv)"
+        default: ""
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - run: pip install -r requirements.txt
+
+      - name: Restore database
+        uses: actions/cache@v4
+        with:
+          path: data/bar_radar.db
+          key: bar-radar-db-${{ github.run_id }}
+          restore-keys: |
+            bar-radar-db-
+
+      - name: Apply database migrations
+        run: python -m db.migrate
+
+      - name: Import venues
+        run: >
+          python -m src.pipeline.import_manual_venues
+          ${{ github.event.inputs.file != '' && format('--file {0}', github.event.inputs.file) || '' }}
+
+      - name: Export CSVs
+        run: python -m src.pipeline.export
+
+      - name: Commit updated exports
+        run: |
+          git config user.name "bar-radar-bot"
+          git config user.email "actions@github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "chore: manual venue import [skip ci]"
+          git push
