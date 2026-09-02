@@ -8,19 +8,30 @@ whatever Overpass happens to surface. Because you're supplying the URLs
 yourself, there's no dependency on the (currently unreliable) DuckDuckGo/
 Bing search fallback at all.
 
-CSV shape: ONE ROW PER MENU SOURCE, not one row per venue. Rows sharing the
-same (venue_name, city) are grouped into a single venue automatically - this
-is how you attach multiple menus (drinks, wine, happy hour, a 4-page photo
-menu, etc.) to one bar. See data/manual_import/venues_template.csv.
+Two CSV shapes are accepted - the file is auto-detected, no flag needed:
 
-Columns:
+WIDE FORMAT (recommended - one row per bar, easiest to fill in in Excel):
+    venue_name, city, tier, address, website_url,
+    menu_url_1, menu_name_1, menu_category_1, menu_source_type_1,
+    menu_url_2, menu_name_2, menu_category_2, menu_source_type_2,
+    ... up to menu_url_5. menu_url_1 is always treated as the primary menu.
+    Leave any slot's URL blank if a bar has fewer than 5 menus.
+    See data/manual_import/venues_template.csv.
+
+LONG FORMAT (one row per menu source; multiple rows with the same
+venue_name+city attach multiple menus to one bar - useful for bulk/
+programmatic generation rather than manual spreadsheet editing):
+    venue_name, city, tier, address, website_url, menu_url, menu_name,
+    menu_category, menu_source_type, is_primary
+
+Column meanings (same for both formats, just repeated per-slot in wide format):
     venue_name        required
     city              required
-    tier              optional, default 1 (only needs to be set on one row per venue)
-    address            optional (only needs to be set on one row per venue)
-    website_url        optional (only needs to be set on one row per venue)
-    menu_url            optional - if blank, this row just registers the venue
-                        with no menu source (rare; usually every row has one)
+    tier              optional, default 1 (only needs to be set once per venue)
+    address            optional (only needs to be set once per venue)
+    website_url        optional (only needs to be set once per venue)
+    menu_url            optional - if blank, this row/slot just registers the
+                        venue with no menu source
     menu_name            optional label, e.g. "Cocktail Menu", "Wine List",
                           "Drinks Menu (2/4)" for a multi-image menu
     menu_category         optional - one of COCKTAIL, DRINKS, WINE, BEER,
@@ -31,10 +42,15 @@ Columns:
                             EXTERNAL_PLATFORM. Auto-detected from the URL's
                             file extension if left blank (.pdf -> PDF,
                             .jpg/.png/etc -> IMAGE, otherwise HTML_PAGE).
-    is_primary               optional - "true"/"1"/"yes" for the ONE row that
-                              is this venue's main/representative menu. If no
-                              row marks this, the first menu row for that
-                              venue is used as primary automatically.
+    is_primary (long format only) - "true"/"1"/"yes" for the ONE row that is
+                              this venue's main menu. Defaults to the first
+                              menu row for that venue if none is marked.
+
+The CSV delimiter (comma or semicolon) is auto-detected. This matters
+because Excel's "CSV UTF-8" export uses your Windows region's list
+separator regardless of what the menu option is named - German-locale
+Windows produces semicolons even though the option says "comma delimited".
+Don't fight this in Excel; the import just handles either.
 
 Every menu row is created with discovery_method='manual_curated' and
 extraction_status='PENDING' - exactly the state Phase 2's extraction batch
@@ -54,6 +70,7 @@ from __future__ import annotations
 import argparse
 import csv
 import hashlib
+import io
 import uuid
 from collections import defaultdict
 from pathlib import Path
@@ -71,6 +88,7 @@ log = get_logger(__name__)
 DEFAULT_IMPORT_PATH = REPO_ROOT / "data/manual_import/venues_template.csv"
 
 TRUE_VALUES = {"1", "true", "yes", "y"}
+MAX_WIDE_MENU_SLOTS = 5
 
 
 def _venue_id(name: str, city: str) -> str:
@@ -91,6 +109,86 @@ def _find_possible_duplicate(name: str, city: str) -> str | None:
         if is_likely_duplicate(candidate, existing):
             return row["venue_name"]
     return None
+
+
+def _sniff_delimiter(sample: str) -> str:
+    """Excel's UTF-8 CSV export uses the OS region's list separator
+    regardless of the option's label - German-locale Windows produces
+    semicolons even from 'CSV UTF-8 (comma delimited)'. Try to sniff it
+    properly; fall back to whichever of , or ; appears more often, since
+    csv.Sniffer occasionally misfires on short/simple files."""
+    try:
+        return csv.Sniffer().sniff(sample, delimiters=",;\t").delimiter
+    except csv.Error:
+        comma_count = sample.count(",")
+        semicolon_count = sample.count(";")
+        return ";" if semicolon_count > comma_count else ","
+
+
+def _parse_csv_content(content: str) -> list[dict]:
+    content = content.lstrip("\ufeff")  # strip BOM if present, regardless of source
+    delimiter = _sniff_delimiter(content[:4096])
+    reader = csv.DictReader(io.StringIO(content), delimiter=delimiter)
+    return list(reader)
+
+
+def _read_csv_rows(path: Path) -> list[dict]:
+    with open(path, "r", encoding="utf-8-sig") as f:
+        content = f.read()
+    return _parse_csv_content(content)
+
+
+def _read_csv_rows_from_url(url: str) -> list[dict]:
+    """Fetches a CSV from a URL - designed for a Google Sheets 'publish to
+    web' CSV export link, but works with any plain CSV URL. This is the
+    no-upload-step path: edit the sheet, re-run the import, nothing to
+    download or re-upload by hand."""
+    from src.utils.http_utils import get
+
+    resp = get(url, max_retries=1)
+    if resp is None or resp.status_code != 200:
+        status = resp.status_code if resp is not None else "no response"
+        raise RuntimeError(f"Could not fetch CSV from {url} (status {status})")
+    return _parse_csv_content(resp.text)
+
+
+def _is_wide_format(rows: list[dict]) -> bool:
+    if not rows:
+        return False
+    return "menu_url_1" in rows[0]
+
+
+def _wide_row_to_long_rows(row: dict) -> list[dict]:
+    """Expands one wide-format row (up to 5 menu_url_N slots) into the
+    equivalent list of long-format row dicts, all sharing the same venue
+    identity fields. menu_url_1's slot is always the primary."""
+    shared = {k: row.get(k) for k in ("venue_name", "city", "tier", "address", "website_url")}
+    long_rows = []
+    for i in range(1, MAX_WIDE_MENU_SLOTS + 1):
+        menu_url = (row.get(f"menu_url_{i}") or "").strip()
+        if not menu_url:
+            continue
+        long_rows.append({
+            **shared,
+            "menu_url": menu_url,
+            "menu_name": row.get(f"menu_name_{i}"),
+            "menu_category": row.get(f"menu_category_{i}"),
+            "menu_source_type": row.get(f"menu_source_type_{i}"),
+            "is_primary": "true" if i == 1 else "",
+        })
+    if not long_rows:
+        # No menu URLs at all in this row - still register the venue itself.
+        long_rows.append({**shared, "menu_url": "", "menu_name": "", "menu_category": "", "menu_source_type": "", "is_primary": ""})
+    return long_rows
+
+
+def _normalize_rows(rows: list[dict]) -> list[dict]:
+    if _is_wide_format(rows):
+        normalized = []
+        for row in rows:
+            normalized.extend(_wide_row_to_long_rows(row))
+        return normalized
+    return rows
 
 
 def _group_rows_by_venue(rows: list[dict]) -> "list[tuple[tuple[str, str], list[dict]]]":
@@ -209,18 +307,25 @@ def import_venue_group(name: str, city: str, venue_rows: list[dict]) -> dict:
     return {"status": "OK", "venue_name": name, "detail": detail}
 
 
-def run(csv_path: Path | None = None) -> None:
+def run(csv_path: Path | None = None, sheet_url: str | None = None) -> None:
     run_migrations()
-    path = csv_path or DEFAULT_IMPORT_PATH
-    if not path.exists():
-        log.error("Import file not found: %s", path)
-        return
 
-    with open(path, "r", encoding="utf-8") as f:
-        rows = list(csv.DictReader(f))
+    if sheet_url:
+        raw_rows = _read_csv_rows_from_url(sheet_url)
+        source_label = sheet_url
+    else:
+        path = csv_path or DEFAULT_IMPORT_PATH
+        if not path.exists():
+            log.error("Import file not found: %s", path)
+            return
+        raw_rows = _read_csv_rows(path)
+        source_label = str(path)
+
+    format_label = "wide (menu_url_1..5)" if _is_wide_format(raw_rows) else "long (one row per menu)"
+    rows = _normalize_rows(raw_rows)
 
     groups = _group_rows_by_venue(rows)
-    log.info("Importing %d venue(s) from %d row(s) in %s", len(groups), len(rows), path)
+    log.info("Importing %d venue(s) from %d source row(s) in %s [%s format]", len(groups), len(raw_rows), source_label, format_label)
 
     results = [import_venue_group(name, city, venue_rows) for (name, city), venue_rows in groups]
 
@@ -238,9 +343,10 @@ def run(csv_path: Path | None = None) -> None:
 
 def main():
     parser = argparse.ArgumentParser(description="BAR RADAR manual venue import")
-    parser.add_argument("--file", type=str, default=None, help="Path to CSV file (default: data/manual_import/venues_template.csv)")
+    parser.add_argument("--file", type=str, default=None, help="Path to a CSV file in the repo (default: data/manual_import/venues_template.csv)")
+    parser.add_argument("--sheet-url", type=str, default=None, help="A Google Sheets 'publish to web' CSV export URL - fetched live, no upload step needed. Overrides --file if both are given.")
     args = parser.parse_args()
-    run(csv_path=Path(args.file) if args.file else None)
+    run(csv_path=Path(args.file) if args.file else None, sheet_url=args.sheet_url)
 
 
 if __name__ == "__main__":
