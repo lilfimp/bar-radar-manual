@@ -1,0 +1,19 @@
+requests>=2.31
+beautifulsoup4>=4.12
+pyyaml>=6.0
+pypdf>=4.0
+pytest>=8.0
+
+# Phase 2: menu extraction engine
+pdfplumber>=0.11        # direct PDF text extraction
+PyMuPDF>=1.24            # renders PDF pages to images for OCR fallback (imported as `fitz`)
+Pillow>=10.0              # image handling for OCR
+pytesseract>=0.3.10       # OCR wrapper - requires the `tesseract-ocr` system package too
+                          # (Windows: https://github.com/UB-Mannheim/tesseract/wiki,
+                          #  Ubuntu/GitHub Actions: apt-get install tesseract-ocr tesseract-ocr-deu)
+
+# Optional: only needed if you enable the Playwright fallback for
+# JS-rendered sites / JS-only menu pages (src/enrichment/menu_crawler.py,
+# src/extraction/playwright_fallback.py). Uncomment and run
+# `playwright install chromium` if you turn that on.
+# playwright>=1.44

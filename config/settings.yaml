@@ -1,0 +1,105 @@
+# BAR RADAR — pipeline settings
+
+database:
+  path: "data/bar_radar.db"
+
+http:
+  user_agent: "BarRadarBot/1.0 (+https://github.com/YOUR_USERNAME/bar-radar; research/menu-discovery)"
+  timeout_seconds: 12
+  max_retries: 2
+  request_delay_seconds: 1.0   # politeness delay between requests to the same host
+
+batching:
+  discovery_batch_cities: 5      # how many cities to run discovery for per invocation
+  enrichment_batch_size: 75      # how many NEW venues to enrich per invocation (50-100 target)
+
+# OSM tags considered "in scope". Kept intentionally narrow to avoid cafés/
+# fast food/supermarkets pulling into the dataset.
+osm_venue_filters:
+  include_amenity: ["bar", "pub"]
+  include_cuisine_contains: ["cocktail"]
+  exclude_name_contains:
+    - "café"
+    - "cafe"
+    - "backerei"
+    - "bäckerei"
+    - "supermarkt"
+    - "imbiss"
+    - "kiosk"
+    - "mcdonald"
+    - "burger king"
+    - "starbucks"
+
+# Keywords used to (a) find candidate menu links on a site and
+# (b) validate that a fetched page/PDF is actually a drinks menu.
+menu_link_keywords:
+  - "menu"
+  - "drinks"
+  - "cocktail"
+  - "cocktails"
+  - "bar menu"
+  - "karte"
+  - "getränkekarte"
+  - "getraenkekarte"
+  - "drinkkarte"
+  - "speisekarte"
+  - "weinkarte"
+
+menu_content_keywords:
+  # presence of several of these in fetched content => likely a real drinks menu
+  - "cocktail"
+  - "gin"
+  - "vodka"
+  - "wodka"
+  - "whisky"
+  - "whiskey"
+  - "rum"
+  - "tequila"
+  - "aperitif"
+  - "longdrink"
+  - "spirituosen"
+  - "wein"
+  - "bier"
+  - "sekt"
+  - "prosecco"
+  - "hausbar"
+  - "signature drink"
+  - "mocktail"
+  # specific drink names - real menus very often list these directly instead
+  # of using generic category words, so relying on the words above alone
+  # under-detects a lot of genuine menus
+  - "negroni"
+  - "aperol"
+  - "spritz"
+  - "mojito"
+  - "margarita"
+  - "martini"
+  - "moscow mule"
+  - "old fashioned"
+  - "gimlet"
+  - "daiquiri"
+  - "campari"
+  - "tonic"
+  - "sour"
+  - "highball"
+  - "shot"
+  - "alkoholfrei"
+  - "alkoholisch"
+
+common_menu_paths:
+  - "/menu"
+  - "/drinks"
+  - "/drinks-menu"
+  - "/cocktails"
+  - "/cocktail-menu"
+  - "/bar-menu"
+  - "/karte"
+  - "/getraenkekarte"
+  - "/getränkekarte"
+  - "/speisekarte"
+  - "/weinkarte"
+
+confidence_thresholds:
+  valid_menu: 0.6       # menu_confidence >= this -> VALID_MENU
+  possible_menu: 0.3    # >= this and < valid -> POSSIBLE_MENU
+                          # below this -> NO_MENU_FOUND

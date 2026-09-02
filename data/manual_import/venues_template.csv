@@ -1,0 +1,10 @@
+venue_name,city,tier,address,website_url,menu_url,menu_name,menu_category,menu_source_type,is_primary
+Buck and Breck,Berlin,1,Brunnenstrasse 177,https://buckandbreck.com,https://buckandbreck.com/menu.pdf,Cocktail Menu,COCKTAIL,PDF,true
+Le Lion - Bar de Paris,Hamburg,1,Rathausstrasse 3,https://lelion.net,https://lelion.net/drinks,Drinks Menu,DRINKS,HTML_PAGE,true
+Le Lion - Bar de Paris,Hamburg,,,,https://lelion.net/wine-list.pdf,Wine List,WINE,PDF,
+Le Lion - Bar de Paris,Hamburg,,,,https://lelion.net/happy-hour,Happy Hour,HAPPY_HOUR,HTML_PAGE,
+Example Photo Menu Bar,Munich,2,Beispielstrasse 12,https://example-bar.de,https://example-bar.de/img/menu1.jpg,Drinks Menu (1/4),DRINKS,IMAGE,true
+Example Photo Menu Bar,Munich,,,,https://example-bar.de/img/menu2.jpg,Drinks Menu (2/4),DRINKS,IMAGE,
+Example Photo Menu Bar,Munich,,,,https://example-bar.de/img/menu3.jpg,Drinks Menu (3/4),DRINKS,IMAGE,
+Example Photo Menu Bar,Munich,,,,https://example-bar.de/img/menu4.jpg,Drinks Menu (4/4),DRINKS,IMAGE,
+Auto Detect Example Bar,Cologne,1,,https://autodetect-bar.de,https://autodetect-bar.de/cocktails,,,,

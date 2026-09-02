@@ -1,0 +1,42 @@
+# BAR RADAR — city quotas
+# "quota" = target number of VALID_MENU venues (not raw candidates).
+# Discovery over-collects ~1.3-1.5x quota to absorb dropout during enrichment.
+# Stop discovery for a city once venues.status='ENRICHED' AND menu_status='VALID_MENU'
+# reaches quota (see src/pipeline/run_enrichment.py).
+
+tier_1:
+  candidate_multiplier: 1.4   # discover ~40% more candidates than quota
+  cities:
+    Berlin:    250
+    Hamburg:   100
+    Munich:    100
+    Cologne:    75
+    Frankfurt:  75
+
+tier_2:
+  candidate_multiplier: 1.35
+  cities:
+    Düsseldorf: 42
+    Stuttgart:  42
+    Leipzig:    42
+    Dresden:    42
+    Nuremberg:  41
+    Hanover:    41
+  # totals 250
+
+tier_3:
+  candidate_multiplier: 1.3
+  cities:
+    Freiburg:   13
+    Münster:    13
+    Bonn:       13
+    Mainz:      12
+    Karlsruhe:  12
+    Heidelberg: 12
+    Bremen:     12
+    Kiel:       12
+    Aachen:     12
+    Regensburg: 12
+    Würzburg:   13
+    Potsdam:    14
+  # totals 150
