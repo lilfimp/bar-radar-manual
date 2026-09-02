@@ -74,6 +74,16 @@ def run() -> None:
     extracted_path = REPO_ROOT / "data/exports/bar_radar_menu_sources_extracted.csv"
     _write_csv(extracted_path, extracted_rows, menu_columns)
 
+    # Same rows, but with the actual extracted menu text included - this is
+    # the file to open when you want to read what was actually pulled from
+    # each PDF/page/image, not just confirm that extraction succeeded.
+    text_columns = [
+        "menu_source_id", "venue_name", "city", "menu_name", "menu_category",
+        "menu_url", "extraction_status", "extracted_text",
+    ]
+    text_path = REPO_ROOT / "data/exports/bar_radar_menu_text.csv"
+    _write_csv(text_path, extracted_rows, text_columns)
+
     log.info(
         "Export summary: %d total venues, %d VALID_MENU, %d in manual review, "
         "%d menu sources discovered (%d successfully extracted)",
