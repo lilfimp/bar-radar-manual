@@ -338,14 +338,13 @@ def export_menu_sources_rows() -> list[sqlite3.Row]:
                    ms.menu_url, ms.menu_name, ms.menu_category, ms.menu_source_type,
                    ms.is_primary, ms.discovery_method, ms.retrieval_method,
                    ms.raw_file_path, ms.extraction_status, ms.extraction_confidence,
-                   ms.content_hash, ms.checked_at
+                   ms.content_hash, ms.checked_at, ms.extracted_text
             FROM menu_sources ms
             JOIN venues v ON v.venue_id = ms.venue_id
             WHERE ms.discovery_method IS NOT NULL
             ORDER BY v.city, v.venue_name, ms.is_primary DESC, ms.menu_category
             """
         ).fetchall()
-
 
 # ---------------------------------------------------------------------------
 # Phase 1 recheck: reprocess venues whose enrichment result predates a
