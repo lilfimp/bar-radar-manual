@@ -1,0 +1,63 @@
+name: BAR RADAR - Enrichment Batch
+
+on:
+  workflow_dispatch:
+    inputs:
+      batch_size:
+        description: "Venues to enrich this run"
+        default: "75"
+      recheck:
+        description: "Requeue already-enriched venues at NO_MENU_FOUND/POSSIBLE_MENU/WEBSITE_UNAVAILABLE/BLOCKED for re-processing with current logic"
+        type: boolean
+        default: false
+      recheck_city:
+        description: "Limit recheck to one city (blank = all cities)"
+        default: ""
+  schedule:
+    # Every 4 hours. GitHub Actions free tier: 2,000 min/month on private
+    # repos (unlimited on public repos) - a 75-venue batch typically takes
+    # a few minutes, well within budget at this cadence.
+    - cron: "0 */4 * * *"
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - run: pip install -r requirements.txt
+
+      - name: Restore database
+        uses: actions/cache@v4
+        with:
+          path: data/bar_radar.db
+          key: bar-radar-db-${{ github.run_id }}
+          restore-keys: |
+            bar-radar-db-
+
+      - name: Apply database migrations
+        run: python -m db.migrate
+
+      - name: Run enrichment batch
+        run: >
+          python -m src.pipeline.run_enrichment
+          --batch-size ${{ github.event.inputs.batch_size || 75 }}
+          ${{ github.event.inputs.recheck == 'true' && '--recheck' || '' }}
+          ${{ github.event.inputs.recheck_city != '' && format('--recheck-city {0}', github.event.inputs.recheck_city) || '' }}
+
+      - name: Export CSVs
+        run: python -m src.pipeline.export
+
+      - name: Commit updated exports
+        run: |
+          git config user.name "bar-radar-bot"
+          git config user.email "actions@github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "chore: enrichment batch [skip ci]"
+          git push
