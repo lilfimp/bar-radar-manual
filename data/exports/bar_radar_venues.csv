@@ -2,7 +2,7 @@ venue_id,venue_name,city,address,website_url,menu_url,menu_source_type,tier,disc
 1cdc5cb7fcb85f62,AVCI Cocktail-Bar,Berlin,,,,,1,overpass_osm,,
 1e847aa10ceb7f4f,Abstand,Berlin,"Rigaer Straße 78, 10247 Berlin",,,,1,overpass_osm,,
 13fc6e491fedbbb1,Adam's Eck,Berlin,"Germaniastraße 150a, 12099 Berlin",,,,1,overpass_osm,,
-a2a470e8b2545afe,Albert's,Berlin,"Scharnweberstraße 16, 13405 Berlin",https://www.alberts-restaurants.de/,https://www.alberts-restaurants.de/cocktails,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-02 20:10:08
+a2a470e8b2545afe,Albert's,Berlin,"Scharnweberstraße 16, 13405 Berlin",https://www.alberts-restaurants.de/,https://www.alberts-restaurants.de/cocktails,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-02 20:55:36
 feb6c2f4e700d831,Alois S.,Berlin,"Senefelderstraße 18, 10437 Berlin",https://www.aloiss.de/,,,1,overpass_osm,,
 fee4da8926b641f8,Alte Wäscherei,Berlin,"Naugarder Straße 11, 10409 Berlin",http://altewäscherei.de/,,,1,overpass_osm,,
 e483602c24bcda37,Alter Roter Löwe Rein,Berlin,"Richardstraße 31, 12043 Berlin",https://redlion.berlin/,,,1,overpass_osm,,
@@ -37,7 +37,7 @@ bbd7ee38dde844a9,Bar at Hotel am Steinplatz,Berlin,,,,NONE,1,manual_curated,WEBS
 b3d1a0b93beb5075,Bar at SO/Berlin Das Stue,Berlin,,,,NONE,1,manual_curated,WEBSITE_UNAVAILABLE,2026-09-02 12:13:41
 49ecaf4a5033a5e7,Bar at Sir Savigny,Berlin,,,,NONE,1,manual_curated,WEBSITE_UNAVAILABLE,2026-09-02 12:13:41
 e2e8369110489b6f,Bar at The Mandala Hotel,Berlin,,,,NONE,1,manual_curated,WEBSITE_UNAVAILABLE,2026-09-02 12:13:41
-666a88293805e115,Bar im Wasserturm,Berlin,"Waldowstraße 20, 13053 Berlin",http://www.berlin-wasserturm.de/,https://www.berlin-wasserturm.de/getraenkekarte/,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-02 20:13:50
+666a88293805e115,Bar im Wasserturm,Berlin,"Waldowstraße 20, 13053 Berlin",http://www.berlin-wasserturm.de/,https://www.berlin-wasserturm.de/getraenkekarte/,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-02 20:56:24
 aa47145230e555cb,Basalt,Berlin,,,,NONE,1,manual_curated,WEBSITE_UNAVAILABLE,2026-09-02 12:13:41
 b432c634edaacef0,Bebel Bar & Lounge,Berlin,,,,NONE,1,manual_curated,WEBSITE_UNAVAILABLE,2026-09-02 12:13:41
 d5cde34330d7bb00,Becketts Kopf,Berlin,,,https://becketts-kopf.de/new/wp-content/uploads/2026/07/becketts_karte_06_26.pdf,PDF,1,manual_curated,MANUAL_REVIEW,2026-09-02 11:29:44
@@ -54,7 +54,7 @@ f0fd1417f116be95,Bierbaum 1,Berlin,"Thomasstraße 9, 12053 Berlin",,,,1,overpass
 949cdef98325333c,Bierkiste 136,Berlin,"Marienfelder Allee 136, 12277 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-02 20:17:07
 4cfb00bfc4d7694b,Bierpause,Berlin,"Willibald-Alexis-Straße 31, 10965 Berlin",,,,1,overpass_osm,,
 f792862efff8cd93,Billard Company Salon Treptow,Berlin,"Bouchéstraße 12, 12435 Berlin",http://www.billard-company.de/,,,1,overpass_osm,,
-9b909896fa1626bb,Billardsalon Köh,Berlin,"Sophienstraße 6, 10178 Berlin",http://www.billardkoeh.de,https://billardkoeh.de/wp-content/uploads/2021/01/postkarte-heilig.jpg,IMAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-02 20:14:29
+9b909896fa1626bb,Billardsalon Köh,Berlin,"Sophienstraße 6, 10178 Berlin",http://www.billardkoeh.de,https://billardkoeh.de/wp-content/uploads/2021/01/postkarte-heilig.jpg,IMAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-02 20:56:28
 e24319701e0a5fbf,Bistro Melody,Berlin,"Goebelstraße 113, 13627 Berlin",http://bistromelody.blogspot.com/,,,1,overpass_osm,,
 288c434ed60edc34,Bistro Nord,Berlin,"Schönwalder Straße 30, 13347 Berlin",,,,1,overpass_osm,,
 b009468c9b52a598,Blaumilchkanal,Berlin,"Schivelbeiner Straße 23, 10439 Berlin",https://www.blaumilchkanal.com/,https://www.blaumilchkanal.com/karte,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-02 20:14:03
@@ -71,9 +71,9 @@ a738de94300ea9d2,Bärenklause,Berlin,"Kirchhainer Damm 10, 12309 Berlin",,,,1,ov
 03994448293fd5d2,Böse Buben Bar,Berlin,"Marienstraße 18, 10117 Berlin",http://www.boesebubenbar.de,http://www.boesebubenbar.de,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-02 20:17:54
 322f84b7735b46bc,Capital Beach,Berlin,"Ludwig-Erhard-Ufer, 10557 Berlin",,,,1,overpass_osm,,
 38145c452be93e18,Celo Privat Bar,Berlin,"Ohlauer Straße 37, 10999 Berlin",,,,1,overpass_osm,,
-97a26169fe9b6d08,Charlotte,Berlin,"Charlottenstraße 14a, 13597 Berlin",http://www.cbb-charlotte.de,http://www.cbb-charlotte.de/speisekarte/#cocktails-best-of,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-02 20:12:21
+97a26169fe9b6d08,Charlotte,Berlin,"Charlottenstraße 14a, 13597 Berlin",http://www.cbb-charlotte.de,http://www.cbb-charlotte.de/speisekarte/#cocktails-best-of,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-02 20:56:20
 5feebba39172d6fb,Chila X,Berlin,,,,,1,overpass_osm,,
-a23d4c0cc0558f7c,ChillOut Bar,Berlin,"General-Barby-Straße 25, 13403 Berlin",http://www.chillout-berlin.de/,http://www.chillout-berlin.de/menu,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-02 20:10:43
+a23d4c0cc0558f7c,ChillOut Bar,Berlin,"General-Barby-Straße 25, 13403 Berlin",http://www.chillout-berlin.de/,http://www.chillout-berlin.de/menu,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-02 20:55:37
 35ebc3b6fd0adc6e,Château Royal Bar,Berlin,,,,NONE,1,manual_curated,WEBSITE_UNAVAILABLE,2026-09-02 12:13:41
 f0ae60a52296a084,Clash,Berlin,"Gneisenaustraße 2, 10961 Berlin",https://clash-berlin.de/,,,1,overpass_osm,,
 ffcfefb2eafd1003,Country Cheers,Berlin,"Karl-Marx-Allee 63, 10243 Berlin",,,,1,overpass_osm,,
@@ -85,7 +85,7 @@ cb592ba811484563,Dachkammer,Berlin,"Simon-Dach-Straße 39, 10245 Berlin",http://
 c961f9fa33d3bb12,Deck 5,Berlin,Greifenhagener Straße 47,http://www.freiluftrebellen.de/en/,http://www.freiluftrebellen.de/en/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-02 20:15:43
 3c791f0325211e47,Deichgraf,Berlin,"Nordufer 10, 13353 Berlin",https://gaststaette-deichgraf.de/,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-02 20:09:50
 8309f5dd9cf567a2,Der Weinlobbyist,Berlin,"Kolonnenstraße 62, 10827 Berlin",https://www.derweinlobbyist.de/,,,1,overpass_osm,,
-ad5da1760caf5073,Dicke Wirtin,Berlin,"Carmerstraße 9, 10623 Berlin",http://www.dicke-wirtin.de/,http://www.dicke-wirtin.de/karten/pfifferlingskarte.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-02 20:12:28
+ad5da1760caf5073,Dicke Wirtin,Berlin,"Carmerstraße 9, 10623 Berlin",http://www.dicke-wirtin.de/,http://www.dicke-wirtin.de/karten/pfifferlingskarte.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-02 20:56:23
 3d3f566c63e4ba39,Die Bar,Berlin,"Greifenhagener Straße 54, 10437 Berlin",http://die-bar-berlins.de/,,,1,overpass_osm,,
 1e4fdf2e2c537878,Die Berliner Republik,Berlin,"Schiffbauerdamm 8, 10117 Berlin",https://www.die-berliner-republik.de/,,,1,overpass_osm,,
 9935bfd4334a5432,Die Wampe,Berlin,,,,,1,overpass_osm,,
@@ -142,7 +142,7 @@ a357e5e6bb93701a,Hopfenreich,Berlin,"Sorauer Straße 31, 10997 Berlin",http://ho
 8ceb50464610cc56,Höschen,Berlin,,,http://menu.hoeschenbar.de/menu.pdf,PDF,1,manual_curated,MANUAL_REVIEW,2026-09-02 11:30:25
 1d4dcd0e1aba8733,Höschen,Berlin,"Dunckerstraße 9, 10437 Berlin",,,,1,overpass_osm,,
 8d7f3d6cd732db35,"Ick koof mir Dave Lombardo, wenn ick reich bin",Berlin,"Zionskirchstraße 34, 10119 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-02 20:17:54
-7a61e280febc6fe7,Immertreu,Berlin,"Christburger Straße 6, 10405 Berlin",http://www.bar-immertreu.de/,http://www.bar-immertreu.de/,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-02 20:11:49
+7a61e280febc6fe7,Immertreu,Berlin,"Christburger Straße 6, 10405 Berlin",http://www.bar-immertreu.de/,http://www.bar-immertreu.de/,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-02 20:55:41
 a92e71fbd0cc7b56,Joker,Berlin,"Sprengelstraße 25, 13353 Berlin",,,,1,overpass_osm,,
 df1b4012c42d4474,K9,Berlin,"Kinzigstraße 9, 10247 Berlin",http://www.kinzig9.de,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-02 20:13:09
 759ffe79b1a81cfc,KINK Bar & Restaurant,Berlin,,,,NONE,1,manual_curated,WEBSITE_UNAVAILABLE,2026-09-02 12:13:41
@@ -210,6 +210,7 @@ ee9c47f8cf5a125d,Ooh-ase,Berlin,,https://www.spandauerbierbar.de/,,,1,overpass_o
 676dfce7b01a661d,Palm Lounge,Berlin,"Britzer Damm 144, 12347 Berlin",,,,1,overpass_osm,,
 e28ce21e645b9977,Paule's Metal Eck,Berlin,"Krossener Straße 15, 10245 Berlin",https://www.paules-metal-eck.de,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-02 20:12:04
 dc9db5440514f802,Pawn Dot Com Bar,Berlin,,,,NONE,1,manual_curated,WEBSITE_UNAVAILABLE,2026-09-02 12:13:41
+471e5783abf23eba,Perlin,Berlin,"Griebenowstraße 5, 10435 Berlin",https://www.weinerei.com/#!/location-perlin,https://www.weinerei.com/,HTML_PAGE,1,overpass_osm,MANUAL_REVIEW,2026-09-02 20:56:37
 471e5783abf23eba,Perlin,Berlin,"Griebenowstraße 5, 10435 Berlin",https://www.weinerei.com/#!/location-perlin,https://www.weinerei.com/#!/location-perlin,HTML_PAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-02 20:17:27
 aa6fbdbc2bfa7538,Peters,Berlin,,,https://static1.squarespace.com/static/66cf086c0108b675bf9e43ee/t/6798ceb85330ba162b7d04ff/1738067641512/Peter%27s+Menu.pdf,PDF,1,manual_curated,MANUAL_REVIEW,2026-09-02 11:30:05
 c8489009216b361c,Pk Bar,Berlin,"Kreutzigerstraße 22, 10247 Berlin",,,,1,overpass_osm,,
@@ -239,7 +240,7 @@ ae3c3eae8388d58d,Roter Rabe,Berlin,"Kottbusser Straße 13, 10999 Berlin",https:/
 909eeaabe35cd401,Runde Ecke,Berlin,"Britzer Damm 83, 12347 Berlin",,,,1,overpass_osm,,
 0a035dfc73abfa74,SECO Kiezkneipe,Berlin,"Schöneicher Straße 18, 13055 Berlin",,,,1,overpass_osm,,
 41d5665183d16f19,STUE Bar,Berlin,,,https://dq5r178u4t83b.cloudfront.net/wp-content/uploads/sites/133/2026/05/20090616/Barkarte-drinks-ab-20.05.2026.pdf,PDF,1,manual_curated,MANUAL_REVIEW,2026-09-02 11:30:30
-136f9c6d016a8aed,Salamas Bar,Berlin,"Niederbarnimstraße 24, 10247 Berlin",http://www.salamas-bar.de,http://www.salamas-bar.de,HTML_PAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-02 20:12:18
+136f9c6d016a8aed,Salamas Bar,Berlin,"Niederbarnimstraße 24, 10247 Berlin",http://www.salamas-bar.de,http://www.salamas-bar.de,HTML_PAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-02 20:56:19
 df525fb654a4df7b,Salon Babette,Berlin,"Karl-Marx-Allee 36, 10178 Berlin",https://www.cafemoskau.com/salon-babette,https://www.cafemoskau.com/salon-babette,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-02 20:17:07
 e0eb0a42defe72ed,Salut! Classic Bar,Berlin,,,,NONE,1,manual_curated,WEBSITE_UNAVAILABLE,2026-09-02 12:13:41
 6361ab72d8198449,Sandmann,Berlin,"Reuterstraße 7, 12053 Berlin",,,,1,overpass_osm,,
@@ -277,7 +278,7 @@ e1a6483a84452010,Tante Grete,Berlin,Stargarder Straße 10,,,,1,overpass_osm,,
 198c20456834fe6f,The Curtain Club,Berlin,,,,NONE,1,manual_curated,WEBSITE_UNAVAILABLE,2026-09-02 12:13:41
 9ffdc880f7728101,The Double Inn,Berlin,"Wilhelminenhofstraße 89, 12459 Berlin",http://www.drink-irish.de,,,1,overpass_osm,,
 809b170856391118,The Hat Bar Berlin,Berlin,,,https://thehatbar.de/drink-with-us/#1587814264829-e564b9ce-a0ba,HTML_PAGE,1,manual_curated,MANUAL_REVIEW,2026-09-02 11:31:01
-48318bd804179eb1,The Lir,Berlin,"Flensburger Straße 7, 10557 Berlin",https://www.thelir.de/,https://www.thelir.de/fileadmin/thelir/Document/Menu_AUGUST2025.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-02 20:14:19
+48318bd804179eb1,The Lir,Berlin,"Flensburger Straße 7, 10557 Berlin",https://www.thelir.de/,https://www.thelir.de/fileadmin/thelir/Document/Menu_AUGUST2025.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-02 20:56:27
 36dd5184405e57e5,The Nautilus Lounge,Berlin,"Karl-Marx-Straße 258, 12057 Berlin",,,,1,overpass_osm,,
 1a91d97d738aa5bd,The Reed,Berlin,,,,NONE,1,manual_curated,WEBSITE_UNAVAILABLE,2026-09-02 12:13:41
 4a129498d358c2a1,The Rooftop Terrace at Hotel de Rome,Berlin,,,https://www.hotelderomeberlin.com/content/dam/berlin/images/web/pdfs/Hotel-de%20Rome-Rooftop-Menu.pdf,PDF,1,manual_curated,MANUAL_REVIEW,2026-09-02 11:31:24
@@ -301,7 +302,7 @@ cb596d2305d04031,Velvet,Berlin,,,,NONE,1,manual_curated,WEBSITE_UNAVAILABLE,2026
 83a3c1f8a1e5cbac,Vesper Bar,Berlin,,,,NONE,1,manual_curated,WEBSITE_UNAVAILABLE,2026-09-02 12:13:41
 a5296c6b176c07f4,Vettern Bar,Berlin,"Hobrechtstraße 61, 12047 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-02 20:12:43
 1878d040b0471fd3,Victoria Bar,Berlin,,,https://victoriabar.de/fileadmin/daten/downloads/victoriabar-2024-dl.pdf,PDF,1,manual_curated,MANUAL_REVIEW,2026-09-02 11:29:57
-eedac532b02140e9,Vincent Piano Bar,Berlin,"Schiffbauerdamm 6, 10117 Berlin",http://vincent-bar.de/hauptseite/,https://vincent-bar.de/wp-content/uploads/sites/2/2026/01/vincent-getraenkekarte-januar-2026-2-1.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-02 20:17:38
+eedac532b02140e9,Vincent Piano Bar,Berlin,"Schiffbauerdamm 6, 10117 Berlin",http://vincent-bar.de/hauptseite/,https://vincent-bar.de/wp-content/uploads/sites/2/2026/01/vincent-getraenkekarte-januar-2026-2-1.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-02 20:56:31
 982ad018da7bf8dc,Voulez Vous,Berlin,,,https://www.voulezvous-bar.com/karte,HTML_PAGE,1,manual_curated,MANUAL_REVIEW,2026-09-02 11:30:51
 c1608ab9e2310e90,Warthe-Eck,Berlin,"Hermannstraße 95, 12051 Berlin",,,,1,overpass_osm,,
 c67c52ff74112daa,Wax On,Berlin,,,,NONE,1,manual_curated,WEBSITE_UNAVAILABLE,2026-09-02 12:13:37
@@ -315,7 +316,7 @@ aef90ddc466920c7,X-Bar,Berlin,"Raumerstraße 17, 10437 Berlin",,,,1,overpass_osm
 caa3119dfdd9cd52,Yard,Berlin,"Rykestraße 8, 10405 Berlin",http://www.yard-musikkneipe.de/,http://www.yard-musikkneipe.de/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-02 20:11:00
 ece206b84e31ba61,Yolanda,Berlin,"Senefelderstraße 27, 10437 Berlin",,,,1,overpass_osm,,
 3fdb1bdf98db6fa0,Ysy,Berlin,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-02 20:12:18
-a4282292b45957c1,Z-Bar,Berlin,"Bergstraße 2, 10115 Berlin",https://zbarberlin.com,https://zbarberlin.com/getraenkekarte/,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-02 20:10:47
+a4282292b45957c1,Z-Bar,Berlin,"Bergstraße 2, 10115 Berlin",https://zbarberlin.com,https://zbarberlin.com/getraenkekarte/,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-02 20:55:37
 0cdc8c548f5b67e6,ZGK,Berlin,"Scharnweberstraße 38, 10247 Berlin",http://www.myspace.com/scharni38,,,1,overpass_osm,,
 bb4a438821d5c2d2,Zart,Berlin,"Schinkestraße 14, 12047 Berlin",,,,1,overpass_osm,,
 55a326e8a5263084,Zeitgeist,Berlin,"Gärtnerstraße 15, 10245 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-02 20:12:18
