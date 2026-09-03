@@ -562,105 +562,105 @@ a2a7460af603d921,Zum Tannenbaum,Frankfurt,,,,,1,overpass_osm,,
 0ee99f74a5fc8e75,Zur Post,Frankfurt,"Willibrachtstraße 1, 60431 Frankfurt am Main",,,,1,overpass_osm,,
 13cf7d056bbb4c4f,feelgood,Frankfurt,,,,,1,overpass_osm,,
 ed9a627cd9442d9a,o'reilly's irish pub,Frankfurt,"Am Hauptbahnhof 4, 60329 Frankfurt am Main",https://oreillys.com/frankfurt/,,,1,overpass_osm,,
-2e2d997533dbdce8,1 & Dreißig,Hamburg,,,,,1,overpass_osm,,
+2e2d997533dbdce8,1 & Dreißig,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:14:12
 dc3e4b278776f8b0,20 Flight Rock,Hamburg,Hans-Albers-Platz 1,,,,1,overpass_osm,,
 71e2b91050badf04,Amer's,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:13:20
 e8ff35bea2cc191f,Antik,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:16:18
-e2c0c08cf068e041,Arcotel Rubin,Hamburg,"Steindamm 63, 20099 Hamburg",,,,1,overpass_osm,,
-9bad0132310ec4c6,Astra,Hamburg,,,,,1,overpass_osm,,
-c943b3debe3153ea,Astro Drink Bombe,Hamburg,"Bartelsstraße 55, 20357 Hamburg",,,,1,overpass_osm,,
+e2c0c08cf068e041,Arcotel Rubin,Hamburg,"Steindamm 63, 20099 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:15:37
+9bad0132310ec4c6,Astra,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:17:17
+c943b3debe3153ea,Astro Drink Bombe,Hamburg,"Bartelsstraße 55, 20357 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:17:17
 43b954c0067f9a84,Bar 380,Hamburg,"Finkenwerder Norderdeich 18a, 21129 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:13:20
 94f3b025c16c9f7f,Bar Wohlzimmer,Hamburg,Wohlwillstraße 2,,,,1,overpass_osm,,
-79e0267fa0b83ddc,Bar du Nord,Hamburg,"Dorotheenstraße 33, 22301 Hamburg",https://www.bardunord.de/,,,1,overpass_osm,,
+79e0267fa0b83ddc,Bar du Nord,Hamburg,"Dorotheenstraße 33, 22301 Hamburg",https://www.bardunord.de/,https://bardunord.de/sites/default/files/LAY_Barkarte-BDN_10-2019_V6.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-03 12:17:36
 f80fabf28e2a952a,Baradona,Hamburg,"Bismarckstraße 95, 20253 Hamburg",http://baradona.com/,http://baradona.com/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 08:15:51
-f5fdfbcc2c7b7603,BeerPONG BAR,Hamburg,"Reeperbahn 102, 20359 Hamburg",https://beerpongbar.de/,,,1,overpass_osm,,
-3a8833cc6eddded0,Bellini Bar,Hamburg,,,,,1,overpass_osm,,
+f5fdfbcc2c7b7603,BeerPONG BAR,Hamburg,"Reeperbahn 102, 20359 Hamburg",https://beerpongbar.de/,https://beerpongbar.de/getraenkekarte,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 12:14:22
+3a8833cc6eddded0,Bellini Bar,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:15:37
 8c0727d428f6b060,Berliner Betrüger,Hamburg,"Juliusstraße 15, 22769 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:13:26
-28ce8dcca2ac6c81,Berner Marktschänke,Hamburg,"Kriegkamp 4, 22147 Hamburg",,,,1,overpass_osm,,
+28ce8dcca2ac6c81,Berner Marktschänke,Hamburg,"Kriegkamp 4, 22147 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:15:37
 402a557db9a0268d,Bertels,Hamburg,"Feldstraße 73, 20359 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:16:56
 25dc3bc790cab9a8,Bistro Europa,Hamburg,"Käkenflur 14a, 22419 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:15:20
 451ee456b274cefc,Blauer Peter,Hamburg,,,,,1,overpass_osm,,
-0342f30b485f8b20,Caipi Colada,Hamburg,,https://caipi-colada.de/,,,1,overpass_osm,,
-1ec65525368d0a1b,Cheers & Sasa,Hamburg,,,,,1,overpass_osm,,
+0342f30b485f8b20,Caipi Colada,Hamburg,,https://caipi-colada.de/,https://caipi-colada.de/de/156534-Cocktailkarte,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 12:16:22
+1ec65525368d0a1b,Cheers & Sasa,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:14:13
 9dcce013a4480d74,Chez Lorsin,Hamburg,Friedrichstraße 29,,,,1,overpass_osm,,
-54e6b88939c7b1c3,Chikago Bar,Hamburg,"Gerhardstraße 10, 20359 Hamburg",,,,1,overpass_osm,,
+54e6b88939c7b1c3,Chikago Bar,Hamburg,"Gerhardstraße 10, 20359 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:15:01
 129f351d3de29ad3,Christiansen's,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:16:36
-5b7c3fc4cbda6396,Club Europa,Hamburg,"Schiffbeker Weg 22, 22111 Hamburg",,,,1,overpass_osm,,
-eb28bbe839b867d7,Cocktrail Bar,Hamburg,"Schürbeker Straße 12, 22087 Hamburg",http://www.cocktrail.de/,,,1,overpass_osm,,
+5b7c3fc4cbda6396,Club Europa,Hamburg,"Schiffbeker Weg 22, 22111 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:17:31
+eb28bbe839b867d7,Cocktrail Bar,Hamburg,"Schürbeker Straße 12, 22087 Hamburg",http://www.cocktrail.de/,,NONE,1,overpass_osm,BLOCKED,2026-09-03 12:15:37
 9aaa5607bfe04af1,Come In,Hamburg,"Hummelsbüttler Hauptstraße 55e, 22339 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:15:20
-122b550c34d69455,Der blaue Engel von St. Pauli,Hamburg,"Gerhardstraße 16, 20359 Hamburg",,,,1,overpass_osm,,
-91bf035686239c0e,Die Glocke,Hamburg,"Klosterallee 65, 20144 Hamburg",,,,1,overpass_osm,,
-2c1cc3d41a8d6190,Die Narzisse,Hamburg,"Friedrich-Ebert-Damm 49, 22047 Hamburg",,,,1,overpass_osm,,
-f9d4cd857dae3c61,Dingsda,Hamburg,,,,,1,overpass_osm,,
-74608deb473a67df,Dorotheen-Eck,Hamburg,,,,,1,overpass_osm,,
-0314bf5eb1d69d01,Downtown Bluesclub,Hamburg,,,,,1,overpass_osm,,
-a6ed6302505ea446,Drei Eichen,Hamburg,,,,,1,overpass_osm,,
+122b550c34d69455,Der blaue Engel von St. Pauli,Hamburg,"Gerhardstraße 16, 20359 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:15:01
+91bf035686239c0e,Die Glocke,Hamburg,"Klosterallee 65, 20144 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:14:46
+2c1cc3d41a8d6190,Die Narzisse,Hamburg,"Friedrich-Ebert-Damm 49, 22047 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:17:17
+f9d4cd857dae3c61,Dingsda,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:17:17
+74608deb473a67df,Dorotheen-Eck,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:16:36
+0314bf5eb1d69d01,Downtown Bluesclub,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:15:37
+a6ed6302505ea446,Drei Eichen,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:17:17
 eaa871f075832ab6,Eier Carl,Hamburg,"Fischmarkt 3, 22767 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:15:20
-f8069552df66c7a2,El Ray,Hamburg,,,,,1,overpass_osm,,
-6ce5725cdbd30fa6,Eldorado,Hamburg,"Wohlwillstraße 50, 20359 Hamburg",,,,1,overpass_osm,,
-5a05f012c3db8dfe,Erste Liebe Bar,Hamburg,,,,,1,overpass_osm,,
-a20b0b6266c08265,Estrilie,Hamburg,,,,,1,overpass_osm,,
+f8069552df66c7a2,El Ray,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:15:37
+6ce5725cdbd30fa6,Eldorado,Hamburg,"Wohlwillstraße 50, 20359 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:17:17
+5a05f012c3db8dfe,Erste Liebe Bar,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:15:36
+a20b0b6266c08265,Estrilie,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:16:36
 b31577661e572626,Familien-Eck,Hamburg,"Friedensallee 2 - 4, 22765 Hamburg",https://www.familieneck.de/,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:13:57
-8e6fcacd3a3b4ce1,Feierabend,Hamburg,,,,,1,overpass_osm,,
-b2645055b0c5e2f2,Fritz Bauch,Hamburg,"Bartelsstraße 6, 20357 Hamburg",http://www.fritzbauch.de/,,,1,overpass_osm,,
-c4a2fdc90bfc441c,Gaststätte Dreyer,Hamburg,"Martin-Luther-Straße 4, 20459 Hamburg",,,,1,overpass_osm,,
+8e6fcacd3a3b4ce1,Feierabend,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:16:22
+b2645055b0c5e2f2,Fritz Bauch,Hamburg,"Bartelsstraße 6, 20357 Hamburg",http://www.fritzbauch.de/,http://www.fritzbauch.de/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 12:17:17
+c4a2fdc90bfc441c,Gaststätte Dreyer,Hamburg,"Martin-Luther-Straße 4, 20459 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:15:36
 52c1f87f53964487,Gaststätte Möller,Hamburg,,,,,1,overpass_osm,,
-a9f2bdd35036babd,Gazoline,Hamburg,"Bahrenfelder Straße 132, 22765 Hamburg",https://gazoline-bar.de/,,,1,overpass_osm,,
+a9f2bdd35036babd,Gazoline,Hamburg,"Bahrenfelder Straße 132, 22765 Hamburg",https://gazoline-bar.de/,https://gazoline-bar.de/,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 12:17:31
 249ebae230c5c653,Gecko-Bar,Hamburg,,https://www.geckobar.hamburg/,https://www.geckobar.hamburg/_files/ugd/88fdf0_24090537f33e4893ba96522d47aa92b2.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-03 08:42:58
 c930bb09ee6776b9,Gloria,Hamburg,"Bellealliancestraße 31-33, 20259 Hamburg",https://gloriabar.de/,https://gloriabar.de/wp-content/uploads/2022/07/menu.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-03 08:43:02
 e746ca11687abee1,Goescheneck,Hamburg,"Marienstraße 37, 21073 Hamburg",https://www.goescheneck-harburg.de/,https://goescheneck-harburg.de/getraenkekarte-3/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 08:16:41
-932609981ef23e7a,Gold Bar's,Hamburg,,,,,1,overpass_osm,,
+932609981ef23e7a,Gold Bar's,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:14:13
 c70893da2d970f0f,Goldfischglas,Hamburg,"Bartelsstraße 30, 20357 Hamburg",https://goldfischglas.de/,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:14:56
 e1fe0443b6938df3,Gondel,Hamburg,,,,,1,overpass_osm,,
-2113b9dfbf12534d,Gurke,Hamburg,,,,,1,overpass_osm,,
-7924175cfd013f57,Haifischbar,Hamburg,"Große Elbstraße 128, 22767 Hamburg",https://haifischbar.hamburg/,,,1,overpass_osm,,
+2113b9dfbf12534d,Gurke,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:16:36
+7924175cfd013f57,Haifischbar,Hamburg,"Große Elbstraße 128, 22767 Hamburg",https://haifischbar.hamburg/,https://haifischbar.hamburg/getraenkekarte,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 12:15:23
 9583090caa961105,Haus 73,Hamburg,"Schulterblatt 73, 20357 Hamburg",https://www.dreiundsiebzig.de/,https://www.dreiundsiebzig.de/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 08:14:10
-0b54f9fbedc8d7fe,Holsten-Eck,Hamburg,"Luruper Hauptstraße 250a, 22547 Hamburg",,,,1,overpass_osm,,
+0b54f9fbedc8d7fe,Holsten-Eck,Hamburg,"Luruper Hauptstraße 250a, 22547 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:14:11
 99076190064b2d32,Holstenstübchen,Hamburg,,,,,1,overpass_osm,,
-b77d1a9662acfb26,Holzmühlen Eck,Hamburg,,,,,1,overpass_osm,,
+b77d1a9662acfb26,Holzmühlen Eck,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:17:36
 d9359379d9280bce,"Ilohh, Bar am Ende der Welt",Hamburg,,,,,1,overpass_osm,,
 0a481ec217ebf160,Im Tivoli,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:14:40
-09714580729af183,Imstedt 4,Hamburg,,,,,1,overpass_osm,,
+09714580729af183,Imstedt 4,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:17:36
 c36f23817ae86986,Janssen's,Hamburg,"Rugenbarg, 22549 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:16:56
-1deb273f7cefc35b,Kamm In,Hamburg,,,,,1,overpass_osm,,
+1deb273f7cefc35b,Kamm In,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:14:09
 7e1aee10f9863574,Katz & Kater,Hamburg,,,,,1,overpass_osm,,
-224946745df23c5d,Kiez Klause,Hamburg,"Gerhardstraße 10, 20359 Hamburg",,,,1,overpass_osm,,
+224946745df23c5d,Kiez Klause,Hamburg,"Gerhardstraße 10, 20359 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:15:01
 43f04a673858e3e2,Klimperkiste,Hamburg,,http://www.die-klimperkiste.de,https://www.klimperkiste.com/wp-content/uploads/Speisekarte-2020.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-03 08:43:04
 ce05e44f82cd4f8c,Komet,Hamburg,,,,,1,overpass_osm,,
-6fca199bebd128a7,Kopps Bar,Hamburg,,,,,1,overpass_osm,,
+6fca199bebd128a7,Kopps Bar,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:17:03
 4dd2ca26d1b3f7ea,Kostbar,Hamburg,"Susannenstraße 36, 20357 Hamburg",http://kostbar-schanze.de,,NONE,1,overpass_osm,BLOCKED,2026-09-03 08:13:26
-12a70a26e6f531a6,Krause Eck,Hamburg,"Krausestraße 46, 22049 Hamburg",,,,1,overpass_osm,,
-12435e82691312ec,Kuhstall,Hamburg,,,,,1,overpass_osm,,
-c6069d8bed99ef0e,KytiVoo,Hamburg,,https://www.kytivoo.com,,,1,overpass_osm,,
+12a70a26e6f531a6,Krause Eck,Hamburg,"Krausestraße 46, 22049 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:17:31
+12435e82691312ec,Kuhstall,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:16:50
+c6069d8bed99ef0e,KytiVoo,Hamburg,,https://www.kytivoo.com,https://www.kytivoo.com/drinks,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 12:15:01
 80ec3fe8f2def0e3,La Belle 2,Hamburg,"Fuhlsbüttler Straße 220, 22307 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:13:57
 61d4206ef2af1b99,Le Fonque,Hamburg,"Juliusstraße 33, 22769 Hamburg",http://fonque.de/,http://fonque.de/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 08:14:55
-28b8dc89212e01bd,Lehmitz,Hamburg,Reeperbahn 22,,,,1,overpass_osm,,
-fe4d5e8d399c1613,Les Pompettes,Hamburg,,,,,1,overpass_osm,,
+28b8dc89212e01bd,Lehmitz,Hamburg,Reeperbahn 22,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:17:36
+fe4d5e8d399c1613,Les Pompettes,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:16:36
 c9cf9da882eb22ce,London Pub,Hamburg,Hans-Albers-Platz 18,https://london-pub.de,,,1,overpass_osm,,
 206864f3d58b9b55,Lunacy,Hamburg,,,,,1,overpass_osm,,
-6d7355bf5a413de0,M&V Gaststätte,Hamburg,"Lange Reihe 22, 20099 Hamburg",,,,1,overpass_osm,,
+6d7355bf5a413de0,M&V Gaststätte,Hamburg,"Lange Reihe 22, 20099 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:15:01
 c93d6a31394c477e,Marien Eck,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:16:41
-2db812edc6d0518f,Marktschänke,Hamburg,,,,,1,overpass_osm,,
+2db812edc6d0518f,Marktschänke,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:14:10
 28bdbdb408a2f5ae,Mathilde Bar,Hamburg,"Bogenstraße 5, 20144 Hamburg",https://www.mathilde-hh.de/mathilde-bar-eimsb%C3%BCttel/,https://www.mathilde-hh.de/mathilde-bar-eimsb%C3%BCttel/,HTML_PAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-03 08:43:07
-47f8a201960aa351,Max und Consorten,Hamburg,"Spadenteich 1, 20099 Hamburg",https://maxundconsorten.de/,,,1,overpass_osm,,
-48a651baeddca523,Metro Bar,Hamburg,"Dehnhaide 2, 22081 Hamburg",,,,1,overpass_osm,,
+47f8a201960aa351,Max und Consorten,Hamburg,"Spadenteich 1, 20099 Hamburg",https://maxundconsorten.de/,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:16:16
+48a651baeddca523,Metro Bar,Hamburg,"Dehnhaide 2, 22081 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:14:13
 b2d66eee230599e7,Molly Malone,Hamburg,,,,,1,overpass_osm,,
-30bf1c6cb8a40632,Monty's,Hamburg,,,,,1,overpass_osm,,
-31dfa10e1c0c0327,Mozaik,Hamburg,,,,,1,overpass_osm,,
+30bf1c6cb8a40632,Monty's,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:16:50
+31dfa10e1c0c0327,Mozaik,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:16:36
 61c02101e35c23c7,Musti,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:16:56
-366f61ed688543ec,Mutter,Hamburg,"Stresemannstraße 11, 22769 Hamburg",,,,1,overpass_osm,,
+366f61ed688543ec,Mutter,Hamburg,"Stresemannstraße 11, 22769 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:17:17
 da1589377ed59536,My Way,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:13:20
-bca460b8b8a5c32d,Mäxx,Hamburg,,,,,1,overpass_osm,,
+bca460b8b8a5c32d,Mäxx,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:17:17
 46a6e5006c83c018,Nick's,Hamburg,"Bahrenfelder Straße 206, 22765 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:13:26
-ad6e9a13b9412923,No Name,Hamburg,"Elligersweg 7, 22307 Hamburg",,,,1,overpass_osm,,
+ad6e9a13b9412923,No Name,Hamburg,"Elligersweg 7, 22307 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:17:17
 da89675f15a3714d,Nostalgia Bar,Hamburg,"Große Brunnenstraße 81, 22763 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:16:36
-603b411d8132b550,Onkel Otto,Hamburg,,,,,1,overpass_osm,,
+603b411d8132b550,Onkel Otto,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:14:46
 183b8e896518e4b3,Oorlam,Hamburg,"Kohlhöfen 29, 20355 Hamburg",https://www.oorlam.de/,https://www.oorlam.de/menu,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 08:16:56
 e558add515e458b5,Ostria,Hamburg,"Peterskampweg 48, 22089 Hamburg",,,,1,overpass_osm,,
-d023f7475318887a,Paolas,Hamburg,,,,,1,overpass_osm,,
-423c8a266c6238fe,Pavlos-Eck,Hamburg,"Oldachstraße 34, 22307 Hamburg",,,,1,overpass_osm,,
+d023f7475318887a,Paolas,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:15:01
+423c8a266c6238fe,Pavlos-Eck,Hamburg,"Oldachstraße 34, 22307 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:14:46
 5088b68c01bddb61,Pony Bar,Hamburg,"Allende-Platz, 20146 Hamburg",http://www.ponybar.com/,http://www.ponybar.com/menu,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 08:15:20
-4252325c824c2c3b,Queen Mum,Hamburg,,,,,1,overpass_osm,,
+4252325c824c2c3b,Queen Mum,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:17:17
 f02ba233990dd9c1,Quer,Hamburg,"Bahrenfelder Straße 180, 22765 Hamburg",https://www.querbar.de/,https://www.querbar.de/menu,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 08:42:55
 21c1747b4e4575e1,Reh-Bar,Hamburg,"Ottenser Hauptstraße 52, 22765 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:13:56
 d0f5db238a7b723a,Reisebar,Hamburg,"Ottenser Hauptstraße 30, 22765 Hamburg",http://www.cafereisebar.de/,http://www.cafereisebar.de/#menu,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 08:42:55
@@ -670,37 +670,37 @@ bb9640334f567392,Rissener Dorfkrug,Hamburg,,,,,1,overpass_osm,,
 efeea51c0cb1d732,Roth,Hamburg,,,,,1,overpass_osm,,
 70237a8ea2738226,Rugen-Eck,Hamburg,"Blomkamp 2, 22549 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:16:56
 551beede3878eb17,Schnulze,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:14:41
-2f4735be8660cca3,Schramme 10,Hamburg,", 20249 Hamburg",https://schramme10.com/,,,1,overpass_osm,,
-6d9464d84cbce5ff,Schweizer Haus,Hamburg,"Hadermanns Weg 57, 22459 Hamburg",https://schweizer-haus.eatbu.com,,,1,overpass_osm,,
+2f4735be8660cca3,Schramme 10,Hamburg,", 20249 Hamburg",https://schramme10.com/,https://schramme10.com/menu,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 12:14:46
+6d9464d84cbce5ff,Schweizer Haus,Hamburg,"Hadermanns Weg 57, 22459 Hamburg",https://schweizer-haus.eatbu.com,https://schweizer-haus.eatbu.com,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 12:16:50
 4d7c406a5256e4df,Shisha Lounge Maya,Hamburg,"Bahrenfelder Straße 142, 22765 Hamburg",,,,1,overpass_osm,,
-1c149efdeee32796,Shovel Road,Hamburg,"Gasstraße 2a, 22761 Hamburg",http://www.shovelroad.de,,,1,overpass_osm,,
-f718b68d48ab608b,SportsBar,Hamburg,,,,,1,overpass_osm,,
+1c149efdeee32796,Shovel Road,Hamburg,"Gasstraße 2a, 22761 Hamburg",http://www.shovelroad.de,http://www.shovelroad.de,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 12:17:03
+f718b68d48ab608b,SportsBar,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:16:36
 1b1cb5ef97e1316b,StrandPauli,Hamburg,"St. Pauli Hafenstraße 89, 20359 Hamburg",https://www.strandpauli.de/,https://www.strandpauli.de/drinks,HTML_PAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-03 08:43:01
-a166f14eb40f2b5e,Sunset Billard,Hamburg,"Walddörferstraße 110, 22041 Hamburg",http://www.sunset-billard-wandsbek.com/,,,1,overpass_osm,,
+a166f14eb40f2b5e,Sunset Billard,Hamburg,"Walddörferstraße 110, 22041 Hamburg",http://www.sunset-billard-wandsbek.com/,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:17:36
 0c618861f0db681f,The Academy,Hamburg,,,,,1,overpass_osm,,
-c0810c99a7cfb2be,The Chug Club,Hamburg,"Taubenstraße 13, 20359 Hamburg",https://www.thechugclub.bar/,,,1,overpass_osm,,
-713226bdbdc1baac,The Irish Rover,Hamburg,"Großneumarkt 8, 20459 Hamburg",http://www.irishrover.de/,,,1,overpass_osm,,
+c0810c99a7cfb2be,The Chug Club,Hamburg,"Taubenstraße 13, 20359 Hamburg",https://www.thechugclub.bar/,,NONE,1,overpass_osm,BLOCKED,2026-09-03 12:17:17
+713226bdbdc1baac,The Irish Rover,Hamburg,"Großneumarkt 8, 20459 Hamburg",http://www.irishrover.de/,http://www.irishrover.de/menu,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 12:16:36
 408eebe893bce561,The Old Dubliner - Irish Pub,Hamburg,,https://www.olddubliner.de/,https://www.olddubliner.de/Menu/,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 08:43:06
-61f1e1b8cea733fa,Tibarg Treff,Hamburg,,,,,1,overpass_osm,,
+61f1e1b8cea733fa,Tibarg Treff,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:16:36
 dc8e91236990b772,Titanic Irish Pub,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:16:36
 1cf597567bcc56b7,Tower Bar,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:13:20
-70c80a5270fa01d1,Victor's Bratkartoffel Restaurant,Hamburg,"Quedlinburger Weg 84, 22455 Hamburg",http://www.victors-niendorf.de,,,1,overpass_osm,,
+70c80a5270fa01d1,Victor's Bratkartoffel Restaurant,Hamburg,"Quedlinburger Weg 84, 22455 Hamburg",http://www.victors-niendorf.de,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:16:50
 16f85d02ff2cb9cb,VielHarmonie,Hamburg,"Markusstraße 17, 20355 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:16:22
 76210106ec9b7335,Wilstorfer Hof,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:14:40
-55e907ea0f727ec3,Windschirm,Hamburg,"Hallerplatz 8, 20146 Hamburg",,,,1,overpass_osm,,
-88e929a3097b289b,Zum Lohhof,Hamburg,"Moorende 27, 20535 Hamburg",,,,1,overpass_osm,,
-39e345e61a715dd6,Zum Schellfischposten,Hamburg,"Carsten-Rehder-Straße 62, 22767 Hamburg",http://www.schellfischposten.de,,,1,overpass_osm,,
-c602fbe6cb701969,Zum Silbersack,Hamburg,"Silbersackstraße 9, 20359 Hamburg",https://zumsilbersack.de/,,,1,overpass_osm,,
-73e2f018c7e078b6,Zum Spritzenhaus,Hamburg,,,,,1,overpass_osm,,
-6195065d735b8023,Zum Wandsetaler,Hamburg,"Walddörferstraße 247, 22047 Hamburg",,,,1,overpass_osm,,
-0fd3235b17488b70,Zum Wilhelmsburger,Hamburg,,,,,1,overpass_osm,,
-85bcfa5efc8c66df,Zum alten Bahnhof,Hamburg,,,,,1,overpass_osm,,
+55e907ea0f727ec3,Windschirm,Hamburg,"Hallerplatz 8, 20146 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:16:36
+88e929a3097b289b,Zum Lohhof,Hamburg,"Moorende 27, 20535 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:17:31
+39e345e61a715dd6,Zum Schellfischposten,Hamburg,"Carsten-Rehder-Straße 62, 22767 Hamburg",http://www.schellfischposten.de,http://www.schellfischposten.de,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 12:15:36
+c602fbe6cb701969,Zum Silbersack,Hamburg,"Silbersackstraße 9, 20359 Hamburg",https://zumsilbersack.de/,,NONE,1,overpass_osm,BLOCKED,2026-09-03 12:14:22
+73e2f018c7e078b6,Zum Spritzenhaus,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:15:37
+6195065d735b8023,Zum Wandsetaler,Hamburg,"Walddörferstraße 247, 22047 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:17:17
+0fd3235b17488b70,Zum Wilhelmsburger,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:17:36
+85bcfa5efc8c66df,Zum alten Bahnhof,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:17:36
 4016181fbe83b569,Zur Mühlenklause,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:16:56
 7b520c85155fabb3,Zur Traube,Hamburg,"Karl-Theodor-Straße 4, 22765 Hamburg",https://www.traube-hamburg.com/,,,1,overpass_osm,,
 855a67d0c97742f8,Zur gemütlichen Ecke,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:16:22
-f2aa46561be893e0,Zur letzten Minute,Hamburg,,,,,1,overpass_osm,,
-cc5c8b14269c85c0,ahoi,Hamburg,,,,,1,overpass_osm,,
-75a04c1db1f14e45,del Vino,Hamburg,,,,,1,overpass_osm,,
+f2aa46561be893e0,Zur letzten Minute,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:17:31
+cc5c8b14269c85c0,ahoi,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:14:46
+75a04c1db1f14e45,del Vino,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:15:37
 a505745836311b8e,wildfang pub,Hamburg,,,,,1,overpass_osm,,
 c3914d9690d5de4c,Abseits,Munich,"Marktstraße 3, 80802 München",https://www.abseits-rockbar.de/,,,1,overpass_osm,,
 30c260d022463b7c,Alessio,Munich,"Naupliastraße 50b, 81547 München",,,,1,overpass_osm,,
