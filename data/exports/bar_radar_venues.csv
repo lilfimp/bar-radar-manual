@@ -714,7 +714,7 @@ c4bbe80b432d48b1,Bar Room München,Munich,,https://www.barroom-muenchen.de/,http
 3c66118e0dc83008,Bar Tapas Teatro,Munich,"Balanstraße 23, 81669 München",https://www.teatro-bar-tapas.de/,https://www.google.com/maps/search/?api=1&query=Balanstraße%2023%2081669%20München%20Bayern%20Deutschland,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 16:12:52
 1a1a8f9972f8779e,Bei Dagmars Herbi,Munich,"Alramstraße 7, 81371 München",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:15:23
 edeac9c359a9471d,Bistro Playhouse Treff,Munich,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:10:38
-7272bc08c35ccdbd,Bodeguita,Munich,"Hohenzollernstraße 120, 80796 München",https://www.bodeguita.bar/,https://www.bodeguita.bar/,HTML_PAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-03 20:14:11
+7272bc08c35ccdbd,Bodeguita,Munich,"Hohenzollernstraße 120, 80796 München",https://www.bodeguita.bar/,https://www.bodeguita.bar/,HTML_PAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-03 20:44:38
 496cba2c9dbbf443,Bogarts,Munich,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:16:29
 e045b6004afbd8bb,Brandner Kaspar,Munich,"Sommerstraße 39, 81543 München",http://www.brandnerkaspar.de/,http://www.brandnerkaspar.de/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 20:17:48
 91a2defb846c8cb6,Buccibar,Munich,"Occamstraße 9, 80802 München",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:12:29
@@ -726,7 +726,7 @@ a6ba2e72301b4ed0,Buena Vista,Munich,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2
 c49477f8178aa753,Cocktailhouse,Munich,"Feilitzschstraße 25, 80802 München",https://www.cocktailhouse-bar.de/,https://www.cocktailhouse-bar.de/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 20:11:21
 15ba4272c232c472,Cohibar City,Munich,"Herzog-Rudolf-Straße 2, 80539 München",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:15:11
 71216f1dbc6466dd,Crönlein,Munich,"Am Nockherberg 8, 81541 München",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:19:32
-375fbf656396bad3,Der kleine Kranich,Munich,"Neureutherstraße 21, 80799 München",https://derkleinekranich.de/,https://derkleinekranich.de/drinks,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 20:17:34
+375fbf656396bad3,Der kleine Kranich,Munich,"Neureutherstraße 21, 80799 München",https://derkleinekranich.de/,https://derkleinekranich.de/drinks,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 20:44:56
 bbb553000e1700c8,Devo's,Munich,"Stadelheimer Straße 19, 81549 München",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:15:11
 f6368d9684e4d171,Die Kneipe 80,Munich,"Theresienstraße 72, 80333 München",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:15:53
 5e58a31910aa4a67,Die Kneipe 80,Munich,"Fraunhoferstraße 19, 80469 München",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:17:34
@@ -748,9 +748,9 @@ effe1b666be0eeb5,Giesinger Stehausschank,Munich,"Ganghoferstraße 23, 80339 Mün
 3294ffb74cb3312d,Graf Arco Stub'n,Munich,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:15:11
 bbbb4c558087add0,Graf Rumford,Munich,", 80469 Munich",https://www.graf-rumford.de/,https://www.graf-rumford.de/_files/ugd/3b1a6c_64798c558a5d48458a9c52a26d106f8e.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-03 16:39:32
 885a38277df0b7c3,Green Room,Munich,"Leopoldstraße 13, 80802 München",https://greenroom-bar.de/,https://greenroom-bar.de/menu,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 20:18:14
-15b62f84028ff279,Heiliggeist 1 Bar,Munich,"Heiliggeiststraße 1, 80331 München",https://heiliggeist1.de/,https://heiliggeist1.de/,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 20:16:45
+15b62f84028ff279,Heiliggeist 1 Bar,Munich,"Heiliggeiststraße 1, 80331 München",https://heiliggeist1.de/,https://heiliggeist1.de/,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 20:44:42
 7d40d32c66ec1571,Herrnbräu-Stüberl,Munich,"Allacher Straße 150, 80997 München",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:10:39
-dcd43110332ce2c7,Hey Luigi,Munich,Holzstraße 29,https://www.heyluigi.de/,https://www.heyluigi.de/,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 20:13:20
+dcd43110332ce2c7,Hey Luigi,Munich,Holzstraße 29,https://www.heyluigi.de/,https://www.heyluigi.de/,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 20:44:24
 ee1232ac5637b235,Hofangerstüberl,Munich,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:10:40
 345e327ff7f0a3c4,Hopfendolde,Munich,"Feilitzschstraße 17, 80802 München",http://www.hopfen-dolde.de/,http://www.hopfen-dolde.de/menu,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 20:11:44
 635654aeaf2c0d38,"Horses, Cars & Stars",Munich,"Schellingstraße 24c, 80799 München",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:15:40
@@ -771,16 +771,16 @@ a3debfd5bcf97e81,Kubaschewski,Munich,"Karlsplatz 5, 80335 München",https://kuba
 b3e5ed07ade56c07,Le Clou,Munich,"Heiliggeiststraße 1, 80331 München",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:16:29
 3357771bcd69278b,Lohengrin's,Munich,"Cosimastraße 97, 81925 München",https://www.lohengrins.de/,https://www.lohengrins.de/karten/Weinkarte.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-03 16:39:31
 35d17ff019d11cd3,Lucky,Munich,"Sankt-Veit-Straße 68, 81673 München",https://www.lucky-bar.de/home/home_main.php,https://www.lucky-bar.de/menu,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 16:15:11
-29ef5a74e00c087c,M. C. Mueller,Munich,"Fraunhoferstraße 2, 80469 München",https://www.mcmueller.org/,https://www.mcmueller.org/wordpress/wp-content/uploads/2026/03/260318_mc_mueller_menu_klein_online_1.jpg,IMAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-03 20:12:51
+29ef5a74e00c087c,M. C. Mueller,Munich,"Fraunhoferstraße 2, 80469 München",https://www.mcmueller.org/,https://www.mcmueller.org/wordpress/wp-content/uploads/2026/03/260318_mc_mueller_menu_klein_online_1.jpg,IMAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-03 20:44:23
 b3f7ad4ae0e76a22,Metz 7,Munich,Metzstraße 7,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:12:26
 664bea94a10e6ff5,Molly Malone's,Munich,Kellerstraße 21,http://www.molly-malones.org/,http://www.molly-malones.org/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 16:13:41
 ec64703a41125097,Monchalant,Munich,"Pariser Straße 15, 81667 München",https://www.monchalant.de,https://monchalant.de/wp-content/uploads/2026/04/GETRAeNKEKARTE-MONCHALANT.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-03 16:39:10
 d410d26fbf39a67d,München '72,Munich,"Holzstraße 14, 80469 München",https://muenchen72.de/,https://muenchen72.de/getränkekarte,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 20:13:35
-af86814bc10631c5,Münchner Bier,Munich,,https://www.viktualienmarkt-muenchen.de/biergarten/,https://www.viktualienmarkt-muenchen.de/karte,HTML_PAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-03 20:19:04
+af86814bc10631c5,Münchner Bier,Munich,,https://www.viktualienmarkt-muenchen.de/biergarten/,https://www.viktualienmarkt-muenchen.de/karte,HTML_PAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-03 20:45:03
 b918bf3f750e000a,Ned Kelly's,Munich,"Frauenplatz 11, 80331 München",https://nedkellysbar.de/,,,1,overpass_osm,,
 2250afba00234d02,Negroni,Munich,"Sedanstraße 9, 81667 München",https://negronibar.de/,https://negronibar.de/drinks,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 16:39:28
-14d4cafb67f677ac,NiL,Munich,"Hans-Sachs-Straße 2, 80469 München",https://www.cafenil.com/,https://www.cafenil.com/,HTML_PAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-03 20:13:07
-389a7cd4f9cb8323,Niederlassung,Munich,"Buttermelcherstraße 6, 80469 München",https://niederlassung.org/,https://niederlassung.org/wp-content/uploads/2025/04/202503_Getraenke-Niederlassung.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-03 20:18:36
+14d4cafb67f677ac,NiL,Munich,"Hans-Sachs-Straße 2, 80469 München",https://www.cafenil.com/,https://www.cafenil.com/,HTML_PAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-03 20:44:24
+389a7cd4f9cb8323,Niederlassung,Munich,"Buttermelcherstraße 6, 80469 München",https://niederlassung.org/,https://niederlassung.org/wp-content/uploads/2025/04/202503_Getraenke-Niederlassung.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-03 20:44:59
 ff4a80d93b712637,No 1,Munich,"Baubergerstraße 19, 80992 München",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:10:40
 737d9fab1e6dc6cc,Nymphenburger Bistro,Munich,"Wotanstraße 89, 80639 München",,,,1,overpass_osm,,
 e2e887f8954ebea4,Orange,Munich,,,,,1,overpass_osm,,
@@ -800,11 +800,11 @@ b8d080fc8ed3464e,ReMo's,Munich,"Irisstraße 1, 80935 Munich",,,NONE,1,overpass_o
 a42ecb504e57f923,Rheinpfalz,Munich,"Kurfürstenstraße 35, 80801 München",https://rheinpfalz-schwabing.de/,https://rheinpfalz-schwabing.de/speisekarte,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 20:15:22
 2189c68c279e491b,Route 51,Munich,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:19:45
 9aa51b5669a566a0,Salon Irkutsk,Munich,"Isabellastraße 4, 80798 München",https://www.salonirkutsk.com/,,NONE,1,overpass_osm,BLOCKED,2026-09-03 20:15:22
-c3ea7a9363939d44,Salve,Munich,"Hohenzollernstraße 124, 80796 München",https://salve-muenchen.de,https://salve-muenchen.de/wp-content/uploads/2025/01/SALVE_Takeawaykarte_20241126_ANSICHT.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-03 20:13:57
+c3ea7a9363939d44,Salve,Munich,"Hohenzollernstraße 124, 80796 München",https://salve-muenchen.de,https://salve-muenchen.de/wp-content/uploads/2025/01/SALVE_Takeawaykarte_20241126_ANSICHT.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-03 20:44:38
 8938b9295f41fda3,Sax,Munich,"Hans-Sachs-Straße 5, 80469 München",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:12:51
 7cbe0f4707768207,Schau ma moi,Munich,"Tegernseer Landstraße 82, 81539 München",https://www.cafeschaumamoi.de/,https://www.cafeschaumamoi.de/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 16:15:37
 fa98f85d5100693e,Schelling-Salon,Munich,"Schellingstraße 54, 80799 München",https://www.schelling-salon.de/,https://www.schelling-salon.de/_files/ugd/88b54e_6df83c452b064746bcf4d90762d184d8.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-03 16:39:32
-b88e5c0a0e964746,Schorsch Bar,Munich,"Georgenstraße 119, 80797 München",https://www.schorschbar.de/,https://www.schorschbar.de/drinks,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 20:15:40
+b88e5c0a0e964746,Schorsch Bar,Munich,"Georgenstraße 119, 80797 München",https://www.schorschbar.de/,https://www.schorschbar.de/drinks,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 20:44:40
 89ca3af968d7622d,Schumann's,Munich,"Odeonsplatz 7, 80539 München",https://schumanns.de/de/index.html,https://schumanns.de/de/index.html,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 16:14:47
 ed6b56cbd14f43da,Schwabinger 7,Munich,"Feilitzschstraße 15, 80802 München",http://www.schwabinger7.de,http://www.schwabinger7.de/menu,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 20:11:58
 7bc4f4f771162c71,Senatore,Munich,"Sendlinger-Tor-Platz 5, 80336 München",https://www.senatore.bar/,https://www.senatore.bar/pdf/getraenkekarte.pdf,PDF,1,overpass_osm,NO_MENU_FOUND,2026-09-03 20:13:39
@@ -812,21 +812,21 @@ c6dab27681d33b94,Shaxe Bar,Munich,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,202
 1aed5d2ebf561080,Soleto,Munich,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:15:26
 dbdf7f2b887744eb,Sprizzeria,Munich,"Occamstraße 5, 80802 München",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:12:29
 7aa65a0ce1b5d4ec,Stadion an der Schleißheimer Straße,Munich,"Schleißheimer Straße 82, 80797 München",http://www.stadionanderschleissheimerstrasse.de,http://www.stadionanderschleissheimerstrasse.de/karte,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 20:14:34
-ce8c8f01002f600d,Stazione di Aperitivo,Munich,"Kaufingerstraße 5, 80331 München",https://stazionediaperitivo.bar,https://stazionediaperitivo.bar/StazioneDiAperitivo_Karte.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-03 20:19:32
-d05c871211829f53,Stehausschank Gärtnerplatz,Munich,"Klenzestraße 47, 80469 München",https://www.giesinger-braeu.de/,https://www.giesinger-braeu.de/,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 20:16:59
+ce8c8f01002f600d,Stazione di Aperitivo,Munich,"Kaufingerstraße 5, 80331 München",https://stazionediaperitivo.bar,https://stazionediaperitivo.bar/StazioneDiAperitivo_Karte.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-03 20:45:04
+d05c871211829f53,Stehausschank Gärtnerplatz,Munich,"Klenzestraße 47, 80469 München",https://www.giesinger-braeu.de/,https://www.giesinger-braeu.de/,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 20:44:44
 b243ebae8eee0c1c,Strobl's Bierstuben,Munich,"Pflaumstraße 10, 80995 München",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:15:11
 9b554f7ec0471a05,Stüberl,Munich,"Sankt-Wolfgangs-Platz 8b,  München",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:15:11
-2c9a21906362dd6d,Substanz,Munich,"Ruppertstraße 28, 80337 München",https://substanz-club.com/,https://substanz-club.com/wp-content/uploads/2025/01/substanz-Auszug-Drinks-2025-final_neu-A4-DRUCK.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-03 20:18:20
+2c9a21906362dd6d,Substanz,Munich,"Ruppertstraße 28, 80337 München",https://substanz-club.com/,https://substanz-club.com/wp-content/uploads/2025/01/substanz-Auszug-Drinks-2025-final_neu-A4-DRUCK.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-03 20:44:57
 dbd4fbfe1fea79d3,Südstadt,Munich,"Thalkirchner Straße 29, 80337 München",,,,1,overpass_osm,,
 26dcad363743ee02,The Moon Bar Lehel,Munich,"Thierschplatz 5, 80538 München",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:15:11
-77487b3a13200d0e,The Old Irish,Munich,"Giselastraße 11, 80802 München",https://www.irish-folk-pub.de/index.php/de/,https://www.irish-folk-pub.de/index.php/de/getraenke/cocktails,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 20:18:39
-df37fe9df3f69a00,The Potting Shed,Munich,"Occamstraße 11, 80802 München",https://www.the-potting-shed.de/,https://www.the-potting-shed.de/kitchen,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 20:12:32
+77487b3a13200d0e,The Old Irish,Munich,"Giselastraße 11, 80802 München",https://www.irish-folk-pub.de/index.php/de/,https://www.irish-folk-pub.de/index.php/de/getraenke/cocktails,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 20:45:00
+df37fe9df3f69a00,The Potting Shed,Munich,"Occamstraße 11, 80802 München",https://www.the-potting-shed.de/,https://www.the-potting-shed.de/kitchen,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 20:44:21
 57d9107dac800c86,Tijuana,Munich,"Leopoldstraße 13a, 80802 München",https://tijuanabar-munich.de/,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:16:01
 cd9ce0bfa0a658b6,Tini's,Munich,,,,,1,overpass_osm,,
-d7f78c0c2f79ebb1,Tony's EssBar,Munich,"Georgenschwaigstraße 42, 80807 München",https://www.tonys-essbar.de,https://www.tonys-essbar.de,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 20:16:29
-ddd2d2f8ed1d874c,Treffpunkt SportBar,Munich,"Schleißheimer Straße 125, 80797 München",https://treffpunkt-sportsbar.de/,https://treffpunkt-sportsbar.de/wp-content/uploads/2025/10/treffpunkt_Sportsbar_Getraenkekarte_02_2025.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-03 20:15:26
-319871972f643cf5,Tumult,Munich,"Blütenstraße 4, 80799 München",https://www.tumultmuc.de/,https://www.tumultmuc.de/getränke-karte,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 20:12:29
-61217c8b57ae05e0,Valentin stüberl,Munich,"Dreimühlenstraße 28, 80469 München",https://www.valentinstueberl.com/,https://www.valentinstueberl.com/,HTML_PAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-03 20:13:53
+d7f78c0c2f79ebb1,Tony's EssBar,Munich,"Georgenschwaigstraße 42, 80807 München",https://www.tonys-essbar.de,https://www.tonys-essbar.de,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 20:44:41
+ddd2d2f8ed1d874c,Treffpunkt SportBar,Munich,"Schleißheimer Straße 125, 80797 München",https://treffpunkt-sportsbar.de/,https://treffpunkt-sportsbar.de/wp-content/uploads/2025/10/treffpunkt_Sportsbar_Getraenkekarte_02_2025.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-03 20:44:40
+319871972f643cf5,Tumult,Munich,"Blütenstraße 4, 80799 München",https://www.tumultmuc.de/,https://www.tumultmuc.de/getränke-karte,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 20:44:21
+61217c8b57ae05e0,Valentin stüberl,Munich,"Dreimühlenstraße 28, 80469 München",https://www.valentinstueberl.com/,https://www.valentinstueberl.com/,HTML_PAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-03 20:44:26
 08ac46532a569eb6,Vega Bar,Munich,"Georgenstraße 56, 80799 München",https://www.vega-bar.de/,https://www.vega-bar.de/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 20:10:36
 834e42464858884b,Ver o Peso,Munich,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:15:53
 cad781d7344e62fb,Vereinsheim,Munich,,https://www.vereinsheim.net/,,NONE,1,overpass_osm,BLOCKED,2026-09-03 20:12:29
@@ -840,5 +840,5 @@ a72b5068af235763,Zum Dachs,Munich,"Säbener Straße 173, 81547 München",,,NONE,
 a7934fd8637bec94,Zum neuen Hut,Munich,"Feilitzschstraße 11, 80802 München",https://zumneuenhut.de/,https://zumneuenhut.de/Getraenke/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 20:11:08
 fb35a875261dd63f,Zur Glocke,Munich,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:17:34
 245e994099c91226,bei Vaia,Munich,"Ruppertstraße 30, 80337 München",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:18:36
-5a38f66fcfab9b82,freebird Bar & Food,Munich,,http://www.freebird-munich.com/,http://www.freebird-munich.com/#section_4,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 20:10:23
+5a38f66fcfab9b82,freebird Bar & Food,Munich,,http://www.freebird-munich.com/,http://www.freebird-munich.com/#section_4,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 20:44:21
 85456c592f3edff1,s'Zwölferl,Munich,"Seitzstraße 12, 80538 München",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:15:11
