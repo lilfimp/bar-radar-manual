@@ -563,14 +563,14 @@ a2a7460af603d921,Zum Tannenbaum,Frankfurt,,,,,1,overpass_osm,,
 13cf7d056bbb4c4f,feelgood,Frankfurt,,,,,1,overpass_osm,,
 ed9a627cd9442d9a,o'reilly's irish pub,Frankfurt,"Am Hauptbahnhof 4, 60329 Frankfurt am Main",https://oreillys.com/frankfurt/,,,1,overpass_osm,,
 2e2d997533dbdce8,1 & Dreißig,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:14:12
-dc3e4b278776f8b0,20 Flight Rock,Hamburg,Hans-Albers-Platz 1,,,,1,overpass_osm,,
+dc3e4b278776f8b0,20 Flight Rock,Hamburg,Hans-Albers-Platz 1,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:11:22
 71e2b91050badf04,Amer's,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:13:20
 e8ff35bea2cc191f,Antik,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:16:18
 e2c0c08cf068e041,Arcotel Rubin,Hamburg,"Steindamm 63, 20099 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:15:37
 9bad0132310ec4c6,Astra,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:17:17
 c943b3debe3153ea,Astro Drink Bombe,Hamburg,"Bartelsstraße 55, 20357 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:17:17
 43b954c0067f9a84,Bar 380,Hamburg,"Finkenwerder Norderdeich 18a, 21129 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:13:20
-94f3b025c16c9f7f,Bar Wohlzimmer,Hamburg,Wohlwillstraße 2,,,,1,overpass_osm,,
+94f3b025c16c9f7f,Bar Wohlzimmer,Hamburg,Wohlwillstraße 2,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:11:50
 79e0267fa0b83ddc,Bar du Nord,Hamburg,"Dorotheenstraße 33, 22301 Hamburg",https://www.bardunord.de/,https://bardunord.de/sites/default/files/LAY_Barkarte-BDN_10-2019_V6.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-03 12:41:58
 f80fabf28e2a952a,Baradona,Hamburg,"Bismarckstraße 95, 20253 Hamburg",http://baradona.com/,http://baradona.com/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 08:15:51
 f5fdfbcc2c7b7603,BeerPONG BAR,Hamburg,"Reeperbahn 102, 20359 Hamburg",https://beerpongbar.de/,https://beerpongbar.de/getraenkekarte,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 12:41:48
@@ -579,10 +579,10 @@ f5fdfbcc2c7b7603,BeerPONG BAR,Hamburg,"Reeperbahn 102, 20359 Hamburg",https://be
 28ce8dcca2ac6c81,Berner Marktschänke,Hamburg,"Kriegkamp 4, 22147 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:15:37
 402a557db9a0268d,Bertels,Hamburg,"Feldstraße 73, 20359 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:16:56
 25dc3bc790cab9a8,Bistro Europa,Hamburg,"Käkenflur 14a, 22419 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:15:20
-451ee456b274cefc,Blauer Peter,Hamburg,,,,,1,overpass_osm,,
+451ee456b274cefc,Blauer Peter,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:11:22
 0342f30b485f8b20,Caipi Colada,Hamburg,,https://caipi-colada.de/,https://caipi-colada.de/de/156534-Cocktailkarte,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 12:41:52
 1ec65525368d0a1b,Cheers & Sasa,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:14:13
-9dcce013a4480d74,Chez Lorsin,Hamburg,Friedrichstraße 29,,,,1,overpass_osm,,
+9dcce013a4480d74,Chez Lorsin,Hamburg,Friedrichstraße 29,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:11:23
 54e6b88939c7b1c3,Chikago Bar,Hamburg,"Gerhardstraße 10, 20359 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:15:01
 129f351d3de29ad3,Christiansen's,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:16:36
 5b7c3fc4cbda6396,Club Europa,Hamburg,"Schiffbeker Weg 22, 22111 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:17:31
@@ -604,29 +604,29 @@ b31577661e572626,Familien-Eck,Hamburg,"Friedensallee 2 - 4, 22765 Hamburg",https
 8e6fcacd3a3b4ce1,Feierabend,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:16:22
 b2645055b0c5e2f2,Fritz Bauch,Hamburg,"Bartelsstraße 6, 20357 Hamburg",http://www.fritzbauch.de/,http://www.fritzbauch.de/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 12:17:17
 c4a2fdc90bfc441c,Gaststätte Dreyer,Hamburg,"Martin-Luther-Straße 4, 20459 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:15:36
-52c1f87f53964487,Gaststätte Möller,Hamburg,,,,,1,overpass_osm,,
+52c1f87f53964487,Gaststätte Möller,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:11:50
 a9f2bdd35036babd,Gazoline,Hamburg,"Bahrenfelder Straße 132, 22765 Hamburg",https://gazoline-bar.de/,https://gazoline-bar.de/,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 12:41:53
 249ebae230c5c653,Gecko-Bar,Hamburg,,https://www.geckobar.hamburg/,https://www.geckobar.hamburg/_files/ugd/88fdf0_24090537f33e4893ba96522d47aa92b2.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-03 08:42:58
 c930bb09ee6776b9,Gloria,Hamburg,"Bellealliancestraße 31-33, 20259 Hamburg",https://gloriabar.de/,https://gloriabar.de/wp-content/uploads/2022/07/menu.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-03 08:43:02
 e746ca11687abee1,Goescheneck,Hamburg,"Marienstraße 37, 21073 Hamburg",https://www.goescheneck-harburg.de/,https://goescheneck-harburg.de/getraenkekarte-3/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 08:16:41
 932609981ef23e7a,Gold Bar's,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:14:13
 c70893da2d970f0f,Goldfischglas,Hamburg,"Bartelsstraße 30, 20357 Hamburg",https://goldfischglas.de/,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:14:56
-e1fe0443b6938df3,Gondel,Hamburg,,,,,1,overpass_osm,,
+e1fe0443b6938df3,Gondel,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:11:21
 2113b9dfbf12534d,Gurke,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:16:36
 7924175cfd013f57,Haifischbar,Hamburg,"Große Elbstraße 128, 22767 Hamburg",https://haifischbar.hamburg/,https://haifischbar.hamburg/getraenkekarte,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 12:41:51
 9583090caa961105,Haus 73,Hamburg,"Schulterblatt 73, 20357 Hamburg",https://www.dreiundsiebzig.de/,https://www.dreiundsiebzig.de/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 08:14:10
 0b54f9fbedc8d7fe,Holsten-Eck,Hamburg,"Luruper Hauptstraße 250a, 22547 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:14:11
-99076190064b2d32,Holstenstübchen,Hamburg,,,,,1,overpass_osm,,
+99076190064b2d32,Holstenstübchen,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:11:20
 b77d1a9662acfb26,Holzmühlen Eck,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:17:36
-d9359379d9280bce,"Ilohh, Bar am Ende der Welt",Hamburg,,,,,1,overpass_osm,,
+d9359379d9280bce,"Ilohh, Bar am Ende der Welt",Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:11:18
 0a481ec217ebf160,Im Tivoli,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:14:40
 09714580729af183,Imstedt 4,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:17:36
 c36f23817ae86986,Janssen's,Hamburg,"Rugenbarg, 22549 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:16:56
 1deb273f7cefc35b,Kamm In,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:14:09
-7e1aee10f9863574,Katz & Kater,Hamburg,,,,,1,overpass_osm,,
+7e1aee10f9863574,Katz & Kater,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:11:50
 224946745df23c5d,Kiez Klause,Hamburg,"Gerhardstraße 10, 20359 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:15:01
 43f04a673858e3e2,Klimperkiste,Hamburg,,http://www.die-klimperkiste.de,https://www.klimperkiste.com/wp-content/uploads/Speisekarte-2020.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-03 08:43:04
-ce05e44f82cd4f8c,Komet,Hamburg,,,,,1,overpass_osm,,
+ce05e44f82cd4f8c,Komet,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:11:36
 6fca199bebd128a7,Kopps Bar,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:17:03
 4dd2ca26d1b3f7ea,Kostbar,Hamburg,"Susannenstraße 36, 20357 Hamburg",http://kostbar-schanze.de,,NONE,1,overpass_osm,BLOCKED,2026-09-03 08:13:26
 12a70a26e6f531a6,Krause Eck,Hamburg,"Krausestraße 46, 22049 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:17:31
@@ -636,15 +636,15 @@ c6069d8bed99ef0e,KytiVoo,Hamburg,,https://www.kytivoo.com,https://www.kytivoo.co
 61d4206ef2af1b99,Le Fonque,Hamburg,"Juliusstraße 33, 22769 Hamburg",http://fonque.de/,http://fonque.de/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 08:14:55
 28b8dc89212e01bd,Lehmitz,Hamburg,Reeperbahn 22,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:17:36
 fe4d5e8d399c1613,Les Pompettes,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:16:36
-c9cf9da882eb22ce,London Pub,Hamburg,Hans-Albers-Platz 18,https://london-pub.de,,,1,overpass_osm,,
-206864f3d58b9b55,Lunacy,Hamburg,,,,,1,overpass_osm,,
+c9cf9da882eb22ce,London Pub,Hamburg,Hans-Albers-Platz 18,https://london-pub.de,https://london-pub.de,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 16:11:36
+206864f3d58b9b55,Lunacy,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:11:23
 6d7355bf5a413de0,M&V Gaststätte,Hamburg,"Lange Reihe 22, 20099 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:15:01
 c93d6a31394c477e,Marien Eck,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:16:41
 2db812edc6d0518f,Marktschänke,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:14:10
 28bdbdb408a2f5ae,Mathilde Bar,Hamburg,"Bogenstraße 5, 20144 Hamburg",https://www.mathilde-hh.de/mathilde-bar-eimsb%C3%BCttel/,https://www.mathilde-hh.de/mathilde-bar-eimsb%C3%BCttel/,HTML_PAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-03 08:43:07
 47f8a201960aa351,Max und Consorten,Hamburg,"Spadenteich 1, 20099 Hamburg",https://maxundconsorten.de/,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:16:16
 48a651baeddca523,Metro Bar,Hamburg,"Dehnhaide 2, 22081 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:14:13
-b2d66eee230599e7,Molly Malone,Hamburg,,,,,1,overpass_osm,,
+b2d66eee230599e7,Molly Malone,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:11:22
 30bf1c6cb8a40632,Monty's,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:16:50
 31dfa10e1c0c0327,Mozaik,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:16:36
 61c02101e35c23c7,Musti,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:16:56
@@ -656,7 +656,7 @@ ad6e9a13b9412923,No Name,Hamburg,"Elligersweg 7, 22307 Hamburg",,,NONE,1,overpas
 da89675f15a3714d,Nostalgia Bar,Hamburg,"Große Brunnenstraße 81, 22763 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:16:36
 603b411d8132b550,Onkel Otto,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:14:46
 183b8e896518e4b3,Oorlam,Hamburg,"Kohlhöfen 29, 20355 Hamburg",https://www.oorlam.de/,https://www.oorlam.de/menu,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 08:16:56
-e558add515e458b5,Ostria,Hamburg,"Peterskampweg 48, 22089 Hamburg",,,,1,overpass_osm,,
+e558add515e458b5,Ostria,Hamburg,"Peterskampweg 48, 22089 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:11:19
 d023f7475318887a,Paolas,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:15:01
 423c8a266c6238fe,Pavlos-Eck,Hamburg,"Oldachstraße 34, 22307 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:14:46
 5088b68c01bddb61,Pony Bar,Hamburg,"Allende-Platz, 20146 Hamburg",http://www.ponybar.com/,http://www.ponybar.com/menu,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 08:15:20
@@ -664,20 +664,20 @@ d023f7475318887a,Paolas,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-
 f02ba233990dd9c1,Quer,Hamburg,"Bahrenfelder Straße 180, 22765 Hamburg",https://www.querbar.de/,https://www.querbar.de/menu,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 08:42:55
 21c1747b4e4575e1,Reh-Bar,Hamburg,"Ottenser Hauptstraße 52, 22765 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:13:56
 d0f5db238a7b723a,Reisebar,Hamburg,"Ottenser Hauptstraße 30, 22765 Hamburg",http://www.cafereisebar.de/,http://www.cafereisebar.de/#menu,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 08:42:55
-bb9640334f567392,Rissener Dorfkrug,Hamburg,,,,,1,overpass_osm,,
+bb9640334f567392,Rissener Dorfkrug,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:11:22
 0cf81c7f58e58652,Robi's Island,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:16:56
-2b4609caa902b685,Roschinsky's,Hamburg,,,,,1,overpass_osm,,
-efeea51c0cb1d732,Roth,Hamburg,,,,,1,overpass_osm,,
+2b4609caa902b685,Roschinsky's,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:11:22
+efeea51c0cb1d732,Roth,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:11:36
 70237a8ea2738226,Rugen-Eck,Hamburg,"Blomkamp 2, 22549 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:16:56
 551beede3878eb17,Schnulze,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:14:41
 2f4735be8660cca3,Schramme 10,Hamburg,", 20249 Hamburg",https://schramme10.com/,https://schramme10.com/menu,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 12:14:46
 6d9464d84cbce5ff,Schweizer Haus,Hamburg,"Hadermanns Weg 57, 22459 Hamburg",https://schweizer-haus.eatbu.com,https://schweizer-haus.eatbu.com,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 12:16:50
-4d7c406a5256e4df,Shisha Lounge Maya,Hamburg,"Bahrenfelder Straße 142, 22765 Hamburg",,,,1,overpass_osm,,
+4d7c406a5256e4df,Shisha Lounge Maya,Hamburg,"Bahrenfelder Straße 142, 22765 Hamburg",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:11:50
 1c149efdeee32796,Shovel Road,Hamburg,"Gasstraße 2a, 22761 Hamburg",http://www.shovelroad.de,http://www.shovelroad.de,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 12:17:03
 f718b68d48ab608b,SportsBar,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:16:36
 1b1cb5ef97e1316b,StrandPauli,Hamburg,"St. Pauli Hafenstraße 89, 20359 Hamburg",https://www.strandpauli.de/,https://www.strandpauli.de/drinks,HTML_PAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-03 08:43:01
 a166f14eb40f2b5e,Sunset Billard,Hamburg,"Walddörferstraße 110, 22041 Hamburg",http://www.sunset-billard-wandsbek.com/,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:17:36
-0c618861f0db681f,The Academy,Hamburg,,,,,1,overpass_osm,,
+0c618861f0db681f,The Academy,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:11:23
 c0810c99a7cfb2be,The Chug Club,Hamburg,"Taubenstraße 13, 20359 Hamburg",https://www.thechugclub.bar/,,NONE,1,overpass_osm,BLOCKED,2026-09-03 12:17:17
 713226bdbdc1baac,The Irish Rover,Hamburg,"Großneumarkt 8, 20459 Hamburg",http://www.irishrover.de/,http://www.irishrover.de/menu,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 12:16:36
 408eebe893bce561,The Old Dubliner - Irish Pub,Hamburg,,https://www.olddubliner.de/,https://www.olddubliner.de/Menu/,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 08:43:06
@@ -696,57 +696,57 @@ c602fbe6cb701969,Zum Silbersack,Hamburg,"Silbersackstraße 9, 20359 Hamburg",htt
 0fd3235b17488b70,Zum Wilhelmsburger,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:17:36
 85bcfa5efc8c66df,Zum alten Bahnhof,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:17:36
 4016181fbe83b569,Zur Mühlenklause,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:16:56
-7b520c85155fabb3,Zur Traube,Hamburg,"Karl-Theodor-Straße 4, 22765 Hamburg",https://www.traube-hamburg.com/,,,1,overpass_osm,,
+7b520c85155fabb3,Zur Traube,Hamburg,"Karl-Theodor-Straße 4, 22765 Hamburg",https://www.traube-hamburg.com/,https://www.traube-hamburg.com/,HTML_PAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-03 16:11:50
 855a67d0c97742f8,Zur gemütlichen Ecke,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:16:22
 f2aa46561be893e0,Zur letzten Minute,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:17:31
 cc5c8b14269c85c0,ahoi,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:14:46
 75a04c1db1f14e45,del Vino,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:15:37
-a505745836311b8e,wildfang pub,Hamburg,,,,,1,overpass_osm,,
+a505745836311b8e,wildfang pub,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:11:50
 c3914d9690d5de4c,Abseits,Munich,"Marktstraße 3, 80802 München",https://www.abseits-rockbar.de/,,,1,overpass_osm,,
-30c260d022463b7c,Alessio,Munich,"Naupliastraße 50b, 81547 München",,,,1,overpass_osm,,
-b3e438cded1fb424,Alter Ofen,Munich,"Zieblandstraße 41, 80798 München",http://www.alter-ofen.de,,,1,overpass_osm,,
+30c260d022463b7c,Alessio,Munich,"Naupliastraße 50b, 81547 München",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:15:23
+b3e438cded1fb424,Alter Ofen,Munich,"Zieblandstraße 41, 80798 München",http://www.alter-ofen.de,http://www.alter-ofen.de/menu,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 16:14:34
 b65523a839e7dc0b,Alter Simpl,Munich,"Türkenstraße 57, 80799 München",https://www.alter-simpl.de/,,,1,overpass_osm,,
 2548afaa4eceae71,American Bar,Munich,,,,,1,overpass_osm,,
 09aa962a0cc407aa,Arena,Munich,,,,,1,overpass_osm,,
-1a1329e8643866c8,Auerfeld,Munich,,,,,1,overpass_osm,,
+1a1329e8643866c8,Auerfeld,Munich,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:12:26
 940bb71ff527256a,Auroom,Munich,"Hans-Sachs-Straße 20, 80469 München",,,,1,overpass_osm,,
-c4bbe80b432d48b1,Bar Room München,Munich,,https://www.barroom-muenchen.de/,,,1,overpass_osm,,
-3c66118e0dc83008,Bar Tapas Teatro,Munich,"Balanstraße 23, 81669 München",https://www.teatro-bar-tapas.de/,,,1,overpass_osm,,
-1a1a8f9972f8779e,Bei Dagmars Herbi,Munich,"Alramstraße 7, 81371 München",,,,1,overpass_osm,,
+c4bbe80b432d48b1,Bar Room München,Munich,,https://www.barroom-muenchen.de/,https://www.barroom-muenchen.de/,HTML_PAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-03 16:14:10
+3c66118e0dc83008,Bar Tapas Teatro,Munich,"Balanstraße 23, 81669 München",https://www.teatro-bar-tapas.de/,https://www.google.com/maps/search/?api=1&query=Balanstraße%2023%2081669%20München%20Bayern%20Deutschland,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 16:12:52
+1a1a8f9972f8779e,Bei Dagmars Herbi,Munich,"Alramstraße 7, 81371 München",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:15:23
 edeac9c359a9471d,Bistro Playhouse Treff,Munich,,,,,1,overpass_osm,,
 7272bc08c35ccdbd,Bodeguita,Munich,"Hohenzollernstraße 120, 80796 München",https://www.bodeguita.bar/,,,1,overpass_osm,,
 496cba2c9dbbf443,Bogarts,Munich,,,,,1,overpass_osm,,
 e045b6004afbd8bb,Brandner Kaspar,Munich,"Sommerstraße 39, 81543 München",http://www.brandnerkaspar.de/,,,1,overpass_osm,,
 91a2defb846c8cb6,Buccibar,Munich,"Occamstraße 9, 80802 München",,,,1,overpass_osm,,
-a6ba2e72301b4ed0,Buena Vista,Munich,,,,,1,overpass_osm,,
-8ab7a52555aef751,Buon Gusto,Munich,,,,,1,overpass_osm,,
+a6ba2e72301b4ed0,Buena Vista,Munich,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:15:53
+8ab7a52555aef751,Buon Gusto,Munich,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:12:26
 8682690015995086,Cabane,Munich,"Theresienstraße 40, 80333 München",http://www.cabanebar.de/,,,1,overpass_osm,,
-7e17e7bf8ad58a21,Cantina,Munich,"August-Exter-Straße 1, 81245 München",https://www.cantina-pasing.de/,,,1,overpass_osm,,
-463a570a355d0df1,Caracciolastüberl,Munich,,,,,1,overpass_osm,,
+7e17e7bf8ad58a21,Cantina,Munich,"August-Exter-Straße 1, 81245 München",https://www.cantina-pasing.de/,https://www.cantina-pasing.de/blick-in-die-karte/abendkarte/,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 16:12:12
+463a570a355d0df1,Caracciolastüberl,Munich,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:12:25
 c49477f8178aa753,Cocktailhouse,Munich,"Feilitzschstraße 25, 80802 München",https://www.cocktailhouse-bar.de/,,,1,overpass_osm,,
-15ba4272c232c472,Cohibar City,Munich,"Herzog-Rudolf-Straße 2, 80539 München",,,,1,overpass_osm,,
+15ba4272c232c472,Cohibar City,Munich,"Herzog-Rudolf-Straße 2, 80539 München",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:15:11
 71216f1dbc6466dd,Crönlein,Munich,"Am Nockherberg 8, 81541 München",,,,1,overpass_osm,,
 375fbf656396bad3,Der kleine Kranich,Munich,"Neureutherstraße 21, 80799 München",https://derkleinekranich.de/,,,1,overpass_osm,,
-bbb553000e1700c8,Devo's,Munich,"Stadelheimer Straße 19, 81549 München",,,,1,overpass_osm,,
-f6368d9684e4d171,Die Kneipe 80,Munich,"Theresienstraße 72, 80333 München",,,,1,overpass_osm,,
+bbb553000e1700c8,Devo's,Munich,"Stadelheimer Straße 19, 81549 München",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:15:11
+f6368d9684e4d171,Die Kneipe 80,Munich,"Theresienstraße 72, 80333 München",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:15:53
 5e58a31910aa4a67,Die Kneipe 80,Munich,"Fraunhoferstraße 19, 80469 München",,,,1,overpass_osm,,
-a081703dadbb5d12,Echardinger Gartenlaube,Munich,"Echardinger Straße 10, 81673 München",https://echardingergartenlaube.de/,,,1,overpass_osm,,
+a081703dadbb5d12,Echardinger Gartenlaube,Munich,"Echardinger Straße 10, 81673 München",https://echardingergartenlaube.de/,https://echardingergartenlaube.de/assets/menu.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-03 16:12:55
 aca234346cd719f6,Edelheiss,Munich,"Pestalozzistraße 6, 80469 München",,,,1,overpass_osm,,
-289aee5b2bc14b60,EscoBar,Munich,"Breisacher Straße 19, 81667 München",https://escobar-muenchen.de/,,,1,overpass_osm,,
+289aee5b2bc14b60,EscoBar,Munich,"Breisacher Straße 19, 81667 München",https://escobar-muenchen.de/,https://escobar-muenchen.de/menu.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-03 16:13:28
 d5e8207b5cea07c1,Este Bar,Munich,"Feilitzschstraße 19, 80802 München",,,,1,overpass_osm,,
 55c318af88e0cce4,Fendstüberl,Munich,"Fendstraße 4, 80802 München",,,,1,overpass_osm,,
-bae2e9ac3b705d57,Filmcasino,Munich,"Odeonsplatz 8, 80539 München",https://filmcasino.net/,,,1,overpass_osm,,
+bae2e9ac3b705d57,Filmcasino,Munich,"Odeonsplatz 8, 80539 München",https://filmcasino.net/,https://filmcasino.net/wp-content/uploads/Service.pdf,PDF,1,overpass_osm,NO_MENU_FOUND,2026-09-03 16:15:20
 aa9ca81aec147878,Fox Bar,Munich,"Barer Straße 47, 80799 München",,,,1,overpass_osm,,
 4a36af59ce2ad1e2,Gambrinus Stüberl,Munich,,,,,1,overpass_osm,,
 a1d5f296fb458882,Gaststätte Mittersendling,Munich,,,,,1,overpass_osm,,
 4d28e55f0f2296b9,Georg's,Munich,"Georgenstraße 48, 80799 München",,,,1,overpass_osm,,
 d841cd77a1b32eb6,Giasinga Schlümpfe,Munich,Humboldtstraße 12,,,,1,overpass_osm,,
-2fb90a2439b223e8,Giesinger Stehausschank,Munich,"Schellingstraße 27, 80799 München",https://www.giesinger-braeu.de/,,,1,overpass_osm,,
-effe1b666be0eeb5,Giesinger Stehausschank,Munich,"Ganghoferstraße 23, 80339 München",,,,1,overpass_osm,,
+2fb90a2439b223e8,Giesinger Stehausschank,Munich,"Schellingstraße 27, 80799 München",https://www.giesinger-braeu.de/,https://www.giesinger-braeu.de/,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 16:15:51
+effe1b666be0eeb5,Giesinger Stehausschank,Munich,"Ganghoferstraße 23, 80339 München",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:15:53
 72a6af519d16d8d3,Giesinger Stehausschank,Munich,"Sendlinger-Tor-Platz 10, 80336 München",https://giesinger-braeu.de/pages/stehausschanke,,,1,overpass_osm,,
 3ff9d8cdc5812c19,Gmiatliches Eck,Munich,"Säbener Straße 7, 81547 München",,,,1,overpass_osm,,
-3294ffb74cb3312d,Graf Arco Stub'n,Munich,,,,,1,overpass_osm,,
-bbbb4c558087add0,Graf Rumford,Munich,", 80469 Munich",https://www.graf-rumford.de/,,,1,overpass_osm,,
+3294ffb74cb3312d,Graf Arco Stub'n,Munich,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:15:11
+bbbb4c558087add0,Graf Rumford,Munich,", 80469 Munich",https://www.graf-rumford.de/,https://www.graf-rumford.de/_files/ugd/3b1a6c_64798c558a5d48458a9c52a26d106f8e.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-03 16:16:04
 885a38277df0b7c3,Green Room,Munich,"Leopoldstraße 13, 80802 München",https://greenroom-bar.de/,,,1,overpass_osm,,
 15b62f84028ff279,Heiliggeist 1 Bar,Munich,"Heiliggeiststraße 1, 80331 München",https://heiliggeist1.de/,,,1,overpass_osm,,
 7d40d32c66ec1571,Herrnbräu-Stüberl,Munich,"Allacher Straße 150, 80997 München",,,,1,overpass_osm,,
@@ -755,90 +755,90 @@ ee1232ac5637b235,Hofangerstüberl,Munich,,,,,1,overpass_osm,,
 345e327ff7f0a3c4,Hopfendolde,Munich,"Feilitzschstraße 17, 80802 München",http://www.hopfen-dolde.de/,,,1,overpass_osm,,
 635654aeaf2c0d38,"Horses, Cars & Stars",Munich,"Schellingstraße 24c, 80799 München",,,,1,overpass_osm,,
 115a3f7817102108,Irmgard Stüberl,Munich,"Milbertshofener Straße 29,  München",,,,1,overpass_osm,,
-35cdcbabc57d244c,Isarflimmern,Munich,,,,,1,overpass_osm,,
+35cdcbabc57d244c,Isarflimmern,Munich,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:14:34
 345db122c90a88aa,Isarflimmern,Munich,"Fallstraße 24, 81369 München",,,,1,overpass_osm,,
-e264d5d2894264b0,Juicy Shisha Lounge,Munich,"Berg-am-Laim-Straße 91,  München",,,,1,overpass_osm,,
+e264d5d2894264b0,Juicy Shisha Lounge,Munich,"Berg-am-Laim-Straße 91,  München",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:15:53
 ab01c51a1b867fe0,Kathi's Quelle,Munich,"Wasserburger Landstraße 108, 81827 München",,,,1,overpass_osm,,
-9643d8aa788fe154,Kauz,Munich,,,,,1,overpass_osm,,
+9643d8aa788fe154,Kauz,Munich,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:15:11
 ab479bd6bd19111b,Kilians,Munich,"Frauenplatz 11, 80331 München",https://kiliansirishpub.de/,,,1,overpass_osm,,
 a26efef852c593b6,Kleine Rose,Munich,Gaßnerstraße 3,,,,1,overpass_osm,,
 f560c56fe0861727,Kongressbar,Munich,"Theresienhöhe 15, 80339 München",https://kongressbar.de/,,,1,overpass_osm,,
 72d473ecd1f1af08,Kr@ftwerk,Munich,"Thalkirchner Straße 4, 80337 München",,,,1,overpass_osm,,
-a3debfd5bcf97e81,Kubaschewski,Munich,"Karlsplatz 5, 80335 München",https://kubaschewski.bar/,,,1,overpass_osm,,
-63f63eeabc8c02d2,La Bodeguita,Munich,,,,,1,overpass_osm,,
-00fd353f6528a3ad,La Cantina,Munich,,,,,1,overpass_osm,,
+a3debfd5bcf97e81,Kubaschewski,Munich,"Karlsplatz 5, 80335 München",https://kubaschewski.bar/,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:15:11
+63f63eeabc8c02d2,La Bodeguita,Munich,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:13:56
+00fd353f6528a3ad,La Cantina,Munich,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:15:53
 11a28107a04df14c,Late Nights,Munich,,,,,1,overpass_osm,,
 b3e5ed07ade56c07,Le Clou,Munich,"Heiliggeiststraße 1, 80331 München",,,,1,overpass_osm,,
-3357771bcd69278b,Lohengrin's,Munich,"Cosimastraße 97, 81925 München",https://www.lohengrins.de/,,,1,overpass_osm,,
-35d17ff019d11cd3,Lucky,Munich,"Sankt-Veit-Straße 68, 81673 München",https://www.lucky-bar.de/home/home_main.php,,,1,overpass_osm,,
+3357771bcd69278b,Lohengrin's,Munich,"Cosimastraße 97, 81925 München",https://www.lohengrins.de/,https://www.lohengrins.de/karten/Weinkarte.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-03 16:15:23
+35d17ff019d11cd3,Lucky,Munich,"Sankt-Veit-Straße 68, 81673 München",https://www.lucky-bar.de/home/home_main.php,https://www.lucky-bar.de/menu,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 16:15:11
 29ef5a74e00c087c,M. C. Mueller,Munich,"Fraunhoferstraße 2, 80469 München",https://www.mcmueller.org/,,,1,overpass_osm,,
-b3f7ad4ae0e76a22,Metz 7,Munich,Metzstraße 7,,,,1,overpass_osm,,
-664bea94a10e6ff5,Molly Malone's,Munich,Kellerstraße 21,http://www.molly-malones.org/,,,1,overpass_osm,,
-ec64703a41125097,Monchalant,Munich,"Pariser Straße 15, 81667 München",https://www.monchalant.de,,,1,overpass_osm,,
+b3f7ad4ae0e76a22,Metz 7,Munich,Metzstraße 7,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:12:26
+664bea94a10e6ff5,Molly Malone's,Munich,Kellerstraße 21,http://www.molly-malones.org/,http://www.molly-malones.org/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 16:13:41
+ec64703a41125097,Monchalant,Munich,"Pariser Straße 15, 81667 München",https://www.monchalant.de,https://monchalant.de/wp-content/uploads/2026/04/GETRAeNKEKARTE-MONCHALANT.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-03 16:12:37
 d410d26fbf39a67d,München '72,Munich,"Holzstraße 14, 80469 München",https://muenchen72.de/,,,1,overpass_osm,,
 af86814bc10631c5,Münchner Bier,Munich,,https://www.viktualienmarkt-muenchen.de/biergarten/,,,1,overpass_osm,,
 b918bf3f750e000a,Ned Kelly's,Munich,"Frauenplatz 11, 80331 München",https://nedkellysbar.de/,,,1,overpass_osm,,
-2250afba00234d02,Negroni,Munich,"Sedanstraße 9, 81667 München",https://negronibar.de/,,,1,overpass_osm,,
+2250afba00234d02,Negroni,Munich,"Sedanstraße 9, 81667 München",https://negronibar.de/,https://negronibar.de/drinks,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-03 16:13:56
 14d4cafb67f677ac,NiL,Munich,"Hans-Sachs-Straße 2, 80469 München",https://www.cafenil.com/,,,1,overpass_osm,,
 389a7cd4f9cb8323,Niederlassung,Munich,"Buttermelcherstraße 6, 80469 München",https://niederlassung.org/,,,1,overpass_osm,,
 ff4a80d93b712637,No 1,Munich,"Baubergerstraße 19, 80992 München",,,,1,overpass_osm,,
 737d9fab1e6dc6cc,Nymphenburger Bistro,Munich,"Wotanstraße 89, 80639 München",,,,1,overpass_osm,,
 e2e887f8954ebea4,Orange,Munich,,,,,1,overpass_osm,,
-00bd50f6123cf5e4,Ortakahve,Munich,,,,,1,overpass_osm,,
-582aaa7632af2506,Paalma,Munich,"Burgkmairstraße 60, 80686 München",,,,1,overpass_osm,,
-7f4352650ba8b147,Palm Lounge,Munich,"Ständlerstraße 42, 81549 München",,,,1,overpass_osm,,
-950695d716cbc9ff,Paradiso Tanzbar,Munich,"Rumfordstraße 2, 80469 München",,,,1,overpass_osm,,
+00bd50f6123cf5e4,Ortakahve,Munich,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:13:28
+582aaa7632af2506,Paalma,Munich,"Burgkmairstraße 60, 80686 München",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:16:04
+7f4352650ba8b147,Palm Lounge,Munich,"Ständlerstraße 42, 81549 München",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:15:23
+950695d716cbc9ff,Paradiso Tanzbar,Munich,"Rumfordstraße 2, 80469 München",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:15:11
 f642a71cf48bc790,Patolli,Munich,"Sendlinger Straße 62, 80331 München",https://patolli.net/,,,1,overpass_osm,,
 ba48deca26264421,Peppermint Lounge,Munich,"Wasserburger Landstraße 108, 81827 München",https://www.peppermint-lounge.de,,,1,overpass_osm,,
 a4594a8f359de13d,Pils- & Cocktailbar HappyCorner,Munich,"Franz-Marc-Straße 10, 80637 München",,,,1,overpass_osm,,
-6c5885927fae6254,Pils-Pub,Munich,,,,,1,overpass_osm,,
-6cd0321f3db5d597,Pils-Pub Royal,Munich,,https://pilspubroyal.eatbu.com/?lang=de,,,1,overpass_osm,,
-b9458fcb19e6a1e4,Pizza Manufaktur,Munich,"Wenzelstraße 2, 80937 München",,,,1,overpass_osm,,
+6c5885927fae6254,Pils-Pub,Munich,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:15:53
+6cd0321f3db5d597,Pils-Pub Royal,Munich,,https://pilspubroyal.eatbu.com/?lang=de,https://pilspubroyal.eatbu.com/?lang=de,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 16:12:25
+b9458fcb19e6a1e4,Pizza Manufaktur,Munich,"Wenzelstraße 2, 80937 München",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:12:25
 a1c69f8932d6af1e,Ratskeller Weinstube,Munich,",  München",,,,1,overpass_osm,,
-b8d080fc8ed3464e,ReMo's,Munich,"Irisstraße 1, 80935 Munich",,,,1,overpass_osm,,
+b8d080fc8ed3464e,ReMo's,Munich,"Irisstraße 1, 80935 Munich",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:15:11
 944d26f78fec475f,Rennbahn,Munich,"Feilitzschstraße 12, 80802 München",https://www.bar-rennbahn-schwabing.de/,,,1,overpass_osm,,
 a42ecb504e57f923,Rheinpfalz,Munich,"Kurfürstenstraße 35, 80801 München",https://rheinpfalz-schwabing.de/,,,1,overpass_osm,,
 2189c68c279e491b,Route 51,Munich,,,,,1,overpass_osm,,
 9aa51b5669a566a0,Salon Irkutsk,Munich,"Isabellastraße 4, 80798 München",https://www.salonirkutsk.com/,,,1,overpass_osm,,
 c3ea7a9363939d44,Salve,Munich,"Hohenzollernstraße 124, 80796 München",https://salve-muenchen.de,,,1,overpass_osm,,
 8938b9295f41fda3,Sax,Munich,"Hans-Sachs-Straße 5, 80469 München",,,,1,overpass_osm,,
-7cbe0f4707768207,Schau ma moi,Munich,"Tegernseer Landstraße 82, 81539 München",https://www.cafeschaumamoi.de/,,,1,overpass_osm,,
-fa98f85d5100693e,Schelling-Salon,Munich,"Schellingstraße 54, 80799 München",https://www.schelling-salon.de/,,,1,overpass_osm,,
+7cbe0f4707768207,Schau ma moi,Munich,"Tegernseer Landstraße 82, 81539 München",https://www.cafeschaumamoi.de/,https://www.cafeschaumamoi.de/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 16:15:37
+fa98f85d5100693e,Schelling-Salon,Munich,"Schellingstraße 54, 80799 München",https://www.schelling-salon.de/,https://www.schelling-salon.de/_files/ugd/88b54e_6df83c452b064746bcf4d90762d184d8.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-03 16:15:53
 b88e5c0a0e964746,Schorsch Bar,Munich,"Georgenstraße 119, 80797 München",https://www.schorschbar.de/,,,1,overpass_osm,,
-89ca3af968d7622d,Schumann's,Munich,"Odeonsplatz 7, 80539 München",https://schumanns.de/de/index.html,,,1,overpass_osm,,
+89ca3af968d7622d,Schumann's,Munich,"Odeonsplatz 7, 80539 München",https://schumanns.de/de/index.html,https://schumanns.de/de/index.html,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 16:14:47
 ed6b56cbd14f43da,Schwabinger 7,Munich,"Feilitzschstraße 15, 80802 München",http://www.schwabinger7.de,,,1,overpass_osm,,
 7bc4f4f771162c71,Senatore,Munich,"Sendlinger-Tor-Platz 5, 80336 München",https://www.senatore.bar/,,,1,overpass_osm,,
-c6dab27681d33b94,Shaxe Bar,Munich,,,,,1,overpass_osm,,
+c6dab27681d33b94,Shaxe Bar,Munich,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:12:12
 1aed5d2ebf561080,Soleto,Munich,,,,,1,overpass_osm,,
 dbdf7f2b887744eb,Sprizzeria,Munich,"Occamstraße 5, 80802 München",,,,1,overpass_osm,,
 7aa65a0ce1b5d4ec,Stadion an der Schleißheimer Straße,Munich,"Schleißheimer Straße 82, 80797 München",http://www.stadionanderschleissheimerstrasse.de,,,1,overpass_osm,,
 ce8c8f01002f600d,Stazione di Aperitivo,Munich,"Kaufingerstraße 5, 80331 München",https://stazionediaperitivo.bar,,,1,overpass_osm,,
 d05c871211829f53,Stehausschank Gärtnerplatz,Munich,"Klenzestraße 47, 80469 München",https://www.giesinger-braeu.de/,,,1,overpass_osm,,
-b243ebae8eee0c1c,Strobl's Bierstuben,Munich,"Pflaumstraße 10, 80995 München",,,,1,overpass_osm,,
-9b554f7ec0471a05,Stüberl,Munich,"Sankt-Wolfgangs-Platz 8b,  München",,,,1,overpass_osm,,
+b243ebae8eee0c1c,Strobl's Bierstuben,Munich,"Pflaumstraße 10, 80995 München",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:15:11
+9b554f7ec0471a05,Stüberl,Munich,"Sankt-Wolfgangs-Platz 8b,  München",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:15:11
 2c9a21906362dd6d,Substanz,Munich,"Ruppertstraße 28, 80337 München",https://substanz-club.com/,,,1,overpass_osm,,
 dbd4fbfe1fea79d3,Südstadt,Munich,"Thalkirchner Straße 29, 80337 München",,,,1,overpass_osm,,
-26dcad363743ee02,The Moon Bar Lehel,Munich,"Thierschplatz 5, 80538 München",,,,1,overpass_osm,,
+26dcad363743ee02,The Moon Bar Lehel,Munich,"Thierschplatz 5, 80538 München",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:15:11
 77487b3a13200d0e,The Old Irish,Munich,"Giselastraße 11, 80802 München",https://www.irish-folk-pub.de/index.php/de/,,,1,overpass_osm,,
 df37fe9df3f69a00,The Potting Shed,Munich,"Occamstraße 11, 80802 München",https://www.the-potting-shed.de/,,,1,overpass_osm,,
-57d9107dac800c86,Tijuana,Munich,"Leopoldstraße 13a, 80802 München",https://tijuanabar-munich.de/,,,1,overpass_osm,,
+57d9107dac800c86,Tijuana,Munich,"Leopoldstraße 13a, 80802 München",https://tijuanabar-munich.de/,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:16:01
 cd9ce0bfa0a658b6,Tini's,Munich,,,,,1,overpass_osm,,
 d7f78c0c2f79ebb1,Tony's EssBar,Munich,"Georgenschwaigstraße 42, 80807 München",https://www.tonys-essbar.de,,,1,overpass_osm,,
 ddd2d2f8ed1d874c,Treffpunkt SportBar,Munich,"Schleißheimer Straße 125, 80797 München",https://treffpunkt-sportsbar.de/,,,1,overpass_osm,,
 319871972f643cf5,Tumult,Munich,"Blütenstraße 4, 80799 München",https://www.tumultmuc.de/,,,1,overpass_osm,,
 61217c8b57ae05e0,Valentin stüberl,Munich,"Dreimühlenstraße 28, 80469 München",https://www.valentinstueberl.com/,,,1,overpass_osm,,
 08ac46532a569eb6,Vega Bar,Munich,"Georgenstraße 56, 80799 München",https://www.vega-bar.de/,,,1,overpass_osm,,
-834e42464858884b,Ver o Peso,Munich,,,,,1,overpass_osm,,
+834e42464858884b,Ver o Peso,Munich,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:15:53
 cad781d7344e62fb,Vereinsheim,Munich,,https://www.vereinsheim.net/,,,1,overpass_osm,,
-2389589da6117c0d,Wintergarten,Munich,"Nordendstraße 37, 80796 München",https://www.wintergarten-schwabing.de/,,,1,overpass_osm,,
+2389589da6117c0d,Wintergarten,Munich,"Nordendstraße 37, 80796 München",https://www.wintergarten-schwabing.de/,https://www.wintergarten-schwabing.de/kopie-von-impressum,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 16:12:03
 ca009852deae4a61,Winz Bar,Munich,,,,,1,overpass_osm,,
 c8c31e46bcb5e774,Wirtshaus zum lustigen Bauern,Munich,,,,,1,overpass_osm,,
-a72b5068af235763,Zum Dachs,Munich,"Säbener Straße 173, 81547 München",,,,1,overpass_osm,,
+a72b5068af235763,Zum Dachs,Munich,"Säbener Straße 173, 81547 München",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:12:26
 6b481089248dde02,Zum Fiaker,Munich,"Josef-Beiser-Straße 25, 81737 München",,,,1,overpass_osm,,
-0cd93734167012d4,Zum Jennerwein,Munich,"Belgradstraße 27, 80796 München",,,,1,overpass_osm,,
-8659def31ca89e49,Zum Kuckuck Nochmal,Munich,Weitlstraße 115,https://zumkuckuck-nochmal.de/,,,1,overpass_osm,,
+0cd93734167012d4,Zum Jennerwein,Munich,"Belgradstraße 27, 80796 München",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:15:37
+8659def31ca89e49,Zum Kuckuck Nochmal,Munich,Weitlstraße 115,https://zumkuckuck-nochmal.de/,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:12:26
 a7934fd8637bec94,Zum neuen Hut,Munich,"Feilitzschstraße 11, 80802 München",https://zumneuenhut.de/,,,1,overpass_osm,,
 fb35a875261dd63f,Zur Glocke,Munich,,,,,1,overpass_osm,,
 245e994099c91226,bei Vaia,Munich,"Ruppertstraße 30, 80337 München",,,,1,overpass_osm,,
 5a38f66fcfab9b82,freebird Bar & Food,Munich,,http://www.freebird-munich.com/,,,1,overpass_osm,,
-85456c592f3edff1,s'Zwölferl,Munich,"Seitzstraße 12, 80538 München",,,,1,overpass_osm,,
+85456c592f3edff1,s'Zwölferl,Munich,"Seitzstraße 12, 80538 München",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:15:11
