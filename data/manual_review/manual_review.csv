@@ -121,3 +121,73 @@ c437a1ef-46aa-4336-8b2f-a2a1b876cb6d,MENU,Low confidence (0.4),2026-09-02 20:17:
 b418b98e-f75a-4136-9805-fe1539550d58,MENU,Candidates found but none validated,2026-09-02 20:17:54,03994448293fd5d2,Böse Buben Bar,Berlin,"Marienstraße 18, 10117 Berlin",http://www.boesebubenbar.de
 45f58f71-7183-40a9-a4eb-34a7b9bc67c9,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:17:54,1a5677fe7cb7dd84,Daffke,Berlin,"Herrfurthplatz 7, 12049 Berlin",
 46c4abfb-10fd-4043-898b-91d7968da660,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:17:54,8d7f3d6cd732db35,"Ick koof mir Dave Lombardo, wenn ick reich bin",Berlin,"Zionskirchstraße 34, 10119 Berlin",
+b64885c2-c2ce-499d-b30a-a69fa60201b1,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:16:22,12be10b3a9f5d55e,FC Magnet Bar,Berlin,"Veteranenstraße 26, 10119 Berlin",
+9503fdf8-bbd6-440f-b64a-99b44fcfd441,MENU,Candidates found but none validated,2026-09-03 00:16:50,8378e9602ce996e9,Schwarze Pumpe,Berlin,"Choriner Straße 76, 10119 Berlin",http://www.schwarzepumpe-berlin.de/
+6de6326b-8767-43cb-9ad7-4b6ed8168fc5,MENU,Candidates found but none validated,2026-09-03 00:17:03,29228378bed45100,Lass uns Freunde bleiben,Berlin,"Choriner Straße 12, 10119 Berlin",http://www.ruf-mich-nie-wieder-an.de/cafe.html
+b28211b3-edb9-417c-8750-34e304516211,MENU,Candidates found but none validated,2026-09-03 00:17:27,1e4fdf2e2c537878,Die Berliner Republik,Berlin,"Schiffbauerdamm 8, 10117 Berlin",https://www.die-berliner-republik.de/
+2fb14f0b-b314-4da1-bcc1-f180f76d1c27,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:17:32,c8489009216b361c,Pk Bar,Berlin,"Kreutzigerstraße 22, 10247 Berlin",
+38ce9d09-d3de-4334-b753-982c48739887,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:17:33,c03c110b23da2641,Krass böser Wolf,Berlin,"Markgrafendamm 36, 10245 Berlin",
+800fe627-bd1a-4d18-b377-8da06c0b7c8d,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:17:34,9935bfd4334a5432,Die Wampe,Berlin,,
+4578d26c-c0e8-4edc-8418-c50acf102330,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:17:48,c55312fc96115921,Queen's Pub,Berlin,"Hauptstraße 50, 10827 Berlin",
+73d88238-71de-424f-8fa9-e57296273591,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:17:48,18632b3265201c0f,Berliner Bürgerstuben,Berlin,"Stargarder Straße 64, 10437 Berlin",
+872a72af-c239-47a1-aa07-11bf81da4792,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:17:48,f74081d395a5785b,Glühlampe,Berlin,"Lehmbruckstraße 1, 10245 Berlin",
+e6ec189f-deb9-40c8-ba24-ae15402b5071,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:17:48,d55d4fc7639ab47f,Auguste,Berlin,,
+77e54f8b-a04e-484a-9f6c-5c20c2fab04f,MENU,Candidates found but none validated,2026-09-03 00:18:01,9f72091078e344d3,Bar Voyage,Berlin,"Nollendorfstraße 1, 10783 Berlin",https://www.barvoyage.de/
+8211308a-7a25-4f79-be71-70e09d280904,MENU,Candidates found but none validated,2026-09-03 00:18:15,1102be8fb85d5e53,Monster Ronson's Ichiban Karaoke,Berlin,"Warschauer Straße 34, 10243 Berlin",http://www.karaokemonster.de/
+a05db1b0-4800-464f-8cee-badcd235d4ba,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:18:15,aee289df5ee03ab2,Kornkammer,Berlin,"Raoul-Wallenberg-Straße 42, 12679 Berlin",
+401562d9-b246-4135-b29c-cc052f0a2c2a,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:18:15,99d08446b832f758,Sieben,Berlin,"Sonntagstraße 7, 10245 Berlin",
+918e729e-8313-4e26-8a5f-2d68aa264b99,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:18:15,f98c493ad5a1e092,Tonart,Berlin,"Sonntagstraße 7, 10245 Berlin",
+2cf3451c-54dc-4a2c-9dd2-4e445bd50d29,MENU,Candidates found but none validated,2026-09-03 00:18:29,cb592ba811484563,Dachkammer,Berlin,"Simon-Dach-Straße 39, 10245 Berlin",http://www.dachkammer.com/
+7e4d7b5f-5aca-46c6-ad89-aebefa32413b,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:18:29,7d6e6d82b372aa85,Bandito Rosso,Berlin,"Lottumstraße 10a, 10119 Berlin",
+406aebe0-f73f-435f-8cd0-c29ef268e0fd,WEBSITE,website_status=BLOCKED,2026-09-03 00:18:30,d433bc148dae7588,Grigri,Berlin,"Paul-Lincke-Ufer 11, 10999 Berlin",http://www.cafe-grigri.de
+bed1566d-e576-4411-bf9b-0a1c21cf162a,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:18:30,97748815ce2fc53a,Dietrich,Berlin,"Reichenberger Straße 103, 10999 Berlin",
+4473c7b7-3c7d-4e56-b82e-2bedeee3318a,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:18:35,03e4e5051611e6f4,Weiße Taube,Berlin,"Wiener Straße 15, 10999 Berlin",
+9ef159ba-b1d8-42b3-a7f9-b1e2b6ba0e63,MENU,Candidates found but none validated,2026-09-03 00:18:49,19917598022a6419,Wiener Blut,Berlin,"Wiener Straße 14, 10999 Berlin",https://www.wienerblut.org/
+41ee7871-aeb7-42e2-aef9-8ae35ff6a62a,MENU,Low confidence (0.53),2026-09-03 00:19:09,564b2abe13307e95,Madonna Bar,Berlin,"Wiener Straße 22, 10999 Berlin",https://www.madonnabar.de
+275f5322-b743-4012-864b-52206b989b6c,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:19:09,7d46970e806b1576,Zum Schinken,Berlin,"Luxemburger Straße 5, 13353 Berlin",
+166e15a4-8acd-4bff-8336-bcf737a0578f,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:19:09,5e3c837a72db8422,Kaulsdorfer Stube,Berlin,"Heinrich-Grüber-Straße 2, 12621 Berlin",
+b311372c-d227-4598-8775-6824e3385507,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:19:09,aef90ddc466920c7,X-Bar,Berlin,"Raumerstraße 17, 10437 Berlin",
+8c59a691-3cc2-4034-bfdb-90ce283a472c,MENU,Candidates found but none validated,2026-09-03 00:19:23,5baaca792c647395,Bräugier,Berlin,"Stubbenkammerstraße 6, 10437 Berlin",https://www.braeugier.de/
+313db539-8d6e-4b4e-b332-00b002008301,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:19:23,84c275d21882e8da,Dirty Velvet Drinkery,Berlin,"Lychener Straße 39, 10437 Berlin",http://www.dirtyvelvetberlin.com/
+8c9c5b98-7c96-4b05-aea7-3a6eef81241e,MENU,Low confidence (0.4),2026-09-03 00:19:28,ed03901af1db8172,Gottlob,Berlin,"Akazienstraße 17, 10823 Berlin",https://www.gottlob-berlin.de/
+c042c75c-5556-4cbe-8fa0-1d7730afca42,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:19:34,03dc5fd7c93cd6e1,Robbys Calypso Bar,Berlin,"Crellestraße 22, 10827 Berlin",
+b2397d85-72eb-40be-bdc2-3871b885f07d,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:19:34,5feebba39172d6fb,Chila X,Berlin,,
+3e216264-191f-4bbb-aae4-f442d59741a7,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:19:34,ca097d77a4d8d561,Stadtteilladen Zielona Góra,Berlin,"Grünberger Straße 73, 10245 Berlin",
+44ba0580-e563-43e3-b0cd-d9c626e207bf,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:19:34,1e847aa10ceb7f4f,Abstand,Berlin,"Rigaer Straße 78, 10247 Berlin",
+69590c45-b072-47a6-bcdc-18e3294b15b8,MENU,Low confidence (0.4),2026-09-03 00:20:43,0cdc8c548f5b67e6,ZGK,Berlin,"Scharnweberstraße 38, 10247 Berlin",http://www.myspace.com/scharni38
+9898d2ae-973f-4010-a69f-03e34b8a8a75,MENU,Candidates found but none validated,2026-09-03 00:20:59,ed36f07e6ab4a45c,Supamolly,Berlin,"Jessnerstraße 41, 10247 Berlin",http://www.supamolly.de
+8992230e-201c-4f8c-ac60-41346ca6d732,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:21:07,11ba97a4b75669ca,Bar Carlitos,Berlin,"Sybelstraße 16, 10629 Berlin",http://www.bar-carlitos.de
+b625dca3-6435-4676-8c10-4e4143ceee24,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:21:07,67ce8c0833f327d2,Zum Anker,Berlin,"Charlottenburger Ufer 6, 10587 Berlin",
+b3eeedcb-68e9-4107-87ea-15aa51039171,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:21:07,6356b3369233d8be,Zum Dorfkrug,Berlin,"Röntgenstraße 1, 10587 Berlin",
+2c18ccaa-e7ca-4f7c-8208-19755cc40caf,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:21:07,c179bddf4a15e791,Heinzelmännchen,Berlin,"Giselastraße 4, 10317 Berlin",
+1be59e38-9806-4797-a46f-18b9fbfd76fc,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:21:37,729d16b71fbfc21b,Oase Deluxe,Berlin,"Karl-Liebknecht-Straße 11, 10178 Berlin",http://oasecocktail-berlin.de/
+d738c0e0-d304-47ae-b81f-604ba3333744,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:21:37,9d5eac3d2cf209d7,Huttenklause,Berlin,"Huttenstraße 23, 10553 Berlin",
+be467896-75e0-42c7-912b-597166d2b651,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:21:37,c65ebba9f772c219,Eck-Kneipe,Berlin,,
+0bc375a7-4b27-4e09-b793-766c1cb61af9,MENU,Candidates found but none validated,2026-09-03 00:21:50,6fa75bcc4d9a2d45,Ringbar,Berlin,,https://www.ringbarberlin.de/
+c7e6ec44-6f64-4cf3-b9f6-d9c65fc3c8cd,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:21:50,76a8f1c07e098934,La Vida Bar,Berlin,"Sonnenallee 218, 12059 Berlin",
+d41cce19-be65-4153-bd23-37d405a4b4d9,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:21:50,fc89ac0422b62096,Bäreneck,Berlin,"Hermannstraße 37, 12049 Berlin",
+d0e0bea9-4389-4f37-9d52-b53886ad87ae,MENU,Candidates found but none validated,2026-09-03 00:22:04,e483602c24bcda37,Alter Roter Löwe Rein,Berlin,"Richardstraße 31, 12043 Berlin",https://redlion.berlin/
+ba131770-d482-418b-943d-b9ad5cc53558,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:22:04,c2ab00610ee7792b,Kaktus reloaded,Berlin,"Sonnenallee 180, 12059 Berlin",
+9720cc91-f02c-4d3c-930e-36dee967858d,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:22:04,2141b20adb6d8387,Bier Stübl,Berlin,"Mariendorfer Damm 86, 12109 Berlin",
+99b1caf3-12e1-4646-a502-76ce6c01cccf,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:22:04,94c3b603b39967b9,Zum Alten Krug,Berlin,"Juliusstraße 22, 12051 Berlin",
+258305c0-4d62-429a-bb85-80ffe4be6f82,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:22:04,36dd5184405e57e5,The Nautilus Lounge,Berlin,"Karl-Marx-Straße 258, 12057 Berlin",
+ce9765f2-5573-4400-895c-0aab2c150b0e,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:22:04,87f021615067c75d,Spandauer Altstadttreff,Berlin,"Breite Straße 12, 13597 Berlin",
+0ad23322-7e91-4ac6-8413-4ca44a53b81c,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:22:04,b8e4f48a4ac36a96,Zum Fäßchen,Berlin,"Prenzlauer Promenade 187, 13189 Berlin",
+b45f39ab-c735-4c4f-a36e-0c1e78c2192e,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:22:04,909eeaabe35cd401,Runde Ecke,Berlin,"Britzer Damm 83, 12347 Berlin",
+3e072218-8e77-4eb2-9782-7b24f6c5e105,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:22:04,676dfce7b01a661d,Palm Lounge,Berlin,"Britzer Damm 144, 12347 Berlin",
+b7f9b434-c7bd-402d-bd13-3b1ef831fa4a,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:22:04,13fc6e491fedbbb1,Adam's Eck,Berlin,"Germaniastraße 150a, 12099 Berlin",
+c2439971-86b5-47b0-b938-0a1b3f54b55d,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:22:04,0e6a0ceff26bb9dc,Britzer Klatsche,Berlin,"Britzer Damm 9, 12347 Berlin",
+40432eeb-7397-4de4-8fef-e400427dfdca,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:22:04,7f2b8ceeb7c122c7,Marktbörse,Berlin,"Bruno-Bauer-Straße 2, 12051 Berlin",
+282876c4-a74e-4357-882f-9e62d46a5b4a,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:22:04,1f5331beb0ff0a57,Kalli & Co,Berlin,"Oberlandstraße 4, 12099 Berlin",
+f2f517dc-47c1-46db-b3de-c078df860005,MENU,Candidates found but none validated,2026-09-03 00:22:17,ba2151a289e1a2ef,plan B,Berlin,"Wilhelmstraße 144, 13595 Berlin",http://www.planb-wohnzimmer.de
+6e5e24fd-858e-406b-8be5-05daefaa6097,MENU,Candidates found but none validated,2026-09-03 00:22:30,f792862efff8cd93,Billard Company Salon Treptow,Berlin,"Bouchéstraße 12, 12435 Berlin",http://www.billard-company.de/
+28f67937-4df9-4854-9ead-465e364bc9eb,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:22:30,ee0d2b257db1d8d7,By Cengiz,Berlin,"Karl-Marx-Straße 210, 12055 Berlin",
+2d789840-6577-496f-8c24-f05685487b4f,MENU,Candidates found but none validated,2026-09-03 00:22:44,ae3c3eae8388d58d,Roter Rabe,Berlin,"Kottbusser Straße 13, 10999 Berlin",https://www.roter-rabe.berlin/
+5cd7b462-d023-4d74-9726-c746195e186c,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:22:44,46f5e802ab348bb8,Prinzen-Eck,Berlin,"Wassertorstraße 59, 10969 Berlin",
+e5fc14b4-0374-42fc-83dd-5826c6b9aa55,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:22:44,d07f98d85d646a8c,Zum Gesundbrunner,Berlin,"Rügener Straße 6, 13355 Berlin",
+6279dead-6296-4e3d-a68a-558dd49e9bb1,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:22:44,005205c4a0fe0daa,Rudower Quelle,Berlin,,
+bd2b3402-4735-43c4-b120-5e5ebab7d5ed,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:22:44,adec3301bd04b8dc,Zimt und Zunder,Berlin,"Dolziger Straße 24, 10247 Berlin",
+d9199520-df6e-4a05-ab36-8169e65fec1a,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:22:44,0b2063a797ed0dd0,Schanki O Tannenbaum,Berlin,"Weserstraße 19-20, 12045 Berlin",
+8cf68b85-954c-4422-b74e-d522df298e8f,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:22:44,4a2b80946af34be7,Kleinod,Berlin,"Niemetzstraße 24, 12055 Berlin",
+7667f721-1a59-47dc-a38a-9398c4e68b74,MENU,Candidates found but none validated,2026-09-03 00:22:47,4c50b4a9635586b8,Linus,Berlin,"Hertzbergstraße 32, 12055 Berlin",https://www.cafelinus.de/
+0d371ed2-eb17-4994-a957-3c74f4319b46,WEBSITE,website_status=UNAVAILABLE,2026-09-03 00:22:47,619662899ffc84b2,Bierbaum 2,Berlin,"Sonnenallee 86, 12045 Berlin",
