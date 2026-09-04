@@ -353,59 +353,59 @@ f12ea2417a6cdb4d,meliá tapas,Berlin,Friedrichstraße 103,,,NONE,1,overpass_osm,
 ba2151a289e1a2ef,plan B,Berlin,"Wilhelmstraße 144, 13595 Berlin",http://www.planb-wohnzimmer.de,http://www.planb-wohnzimmer.de,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-03 00:22:17
 6afd88e45a73173a,Übereck,Berlin,"Prenzlauer Allee 47, 10405 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:13:20
 8f93746111973de7,"""L""",Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:16:26
-64539d22923e8de7,1460,Cologne,,https://www.14hundert60.de/,,,1,overpass_osm,,
+64539d22923e8de7,1460,Cologne,,https://www.14hundert60.de/,https://www.14hundert60.de/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-04 04:11:40
 d65cc3ac0d07b6ec,Alt Longerich,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:17:03
 38af5784c4a2e24f,Alt Neppes,Cologne,Neusser Straße 301,https://alt-neppes.geo.io/,,NONE,1,overpass_osm,BLOCKED,2026-09-04 00:17:32
-fc9daac935342fdf,Alt-Buchheim,Cologne,,,,,1,overpass_osm,,
-e31cbe7772a05b27,Am Wiener Platz,Cologne,,,,,1,overpass_osm,,
+fc9daac935342fdf,Alt-Buchheim,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:10:26
+e31cbe7772a05b27,Am Wiener Platz,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:10:40
 160ceb698c9efb0f,Backes,Cologne,"Darmstädter Straße 6,  Köln",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:19:17
 cb05d9ea126a4c70,Bar Botanik,Cologne,,https://www.wasserturm-hotel-cologne.com/de/bar-botanik,https://cdn.prod.website-files.com/614dc6a079880efb0b2e3cd8/6a7f0b6f87192c0c7925f276_Barkarte_Fr%C3%BChst%C3%BCck_DE.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-04 00:42:13
 18bf4f73551b2f94,Basils,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:17:24
-1986d1357c23bad2,Baustelle 4U,Cologne,"Vor St. Martin 12, 50667 Köln",https://www.baustelle4u.de/,,,1,overpass_osm,,
-26d6aabb27522148,Bei d'r Bunn,Cologne,Sebastianstraße 168,,,,1,overpass_osm,,
-b09eb17fb96dbf7c,Bei İSİ,Cologne,"Berliner Straße 27, 51063 Köln",,,,1,overpass_osm,,
+1986d1357c23bad2,Baustelle 4U,Cologne,"Vor St. Martin 12, 50667 Köln",https://www.baustelle4u.de/,https://www.baustelle4u.de/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-04 04:12:48
+26d6aabb27522148,Bei d'r Bunn,Cologne,Sebastianstraße 168,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:12:48
+b09eb17fb96dbf7c,Bei İSİ,Cologne,"Berliner Straße 27, 51063 Köln",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:10:40
 de99ed7bacee4887,Beim Dörfer,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:16:43
-12fbf36ac0caa66a,Belz Bierstuben,Cologne,"Adamsstraße 1, 51063 Köln",,,,1,overpass_osm,,
+12fbf36ac0caa66a,Belz Bierstuben,Cologne,"Adamsstraße 1, 51063 Köln",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:10:40
 8f5fa4ae5a893e9a,Bierstübchen Terasse,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:16:26
 4d77d14384cb4f57,Brauhaus Pütz,Cologne,"Engelbertstraße 67, 50674 Köln",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:18:50
 37be51c432345c93,Brauhaus ohne Namen,Cologne,Mathildenstraße 42,https://www.brauhaus-ohne-namen.de/,https://www.brauhaus-ohne-namen.de/Essen-Trinken/Getränkekarte,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-04 00:42:13
-febb1410e3f2346f,Brauhaus zur Schreckenskammer,Cologne,"Ursulagartenstraße 11-15, 50668 Köln",,,,1,overpass_osm,,
+febb1410e3f2346f,Brauhaus zur Schreckenskammer,Cologne,"Ursulagartenstraße 11-15, 50668 Köln",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:10:40
 348a6d54e42c2a81,Braustelle,Cologne,", 50825 Cologne",https://www.braustelle.com,https://braustelle.com/speise-getraenkekarte/,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-04 00:42:18
-6b895c4714e58e31,Cubana,Cologne,"Barbarossaplatz 5, 50674 Köln",,,,1,overpass_osm,,
+6b895c4714e58e31,Cubana,Cologne,"Barbarossaplatz 5, 50674 Köln",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:10:09
 1a983ae8f40b0360,Die Breddoille Weinbar,Cologne,,https://www.die-bredouille.de/,https://menucard.usetably.com/die-bredouille-weinbar-wein-speisen-2024-42,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-04 00:18:50
-a6aa4231306353ba,Dorfstube,Cologne,,,,,1,overpass_osm,,
+a6aa4231306353ba,Dorfstube,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:10:40
 308d0ff16681dd4a,EhrenGarten,Cologne,Subbelrather Straße 363,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:16:30
 17a947684f3969b4,Em Golde Kappes,Cologne,"Neusser Straße 295, 50733 Köln",https://www.emgoldekappes.de/,https://www.emgoldekappes.de/fileadmin/menus/Golde_Kappes/SpeisekarteKappes.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-04 00:42:17
-7d7c73863f0d6f72,Em drügge Pitter,Cologne,"Venloer Straße 216, 50825 Köln",https://edp-koeln.de/,,,1,overpass_osm,,
-4f6bb025c72c9fae,Eventgewölbe Köln,Cologne,"Pipinstraße 9, 50667 Köln",https://eventgewoelbe.koeln,,,1,overpass_osm,,
-a7c4c73b4bf4e87e,FC Gildentreff,Cologne,,,,,1,overpass_osm,,
+7d7c73863f0d6f72,Em drügge Pitter,Cologne,"Venloer Straße 216, 50825 Köln",https://edp-koeln.de/,https://edp-koeln.de/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-04 04:11:58
+4f6bb025c72c9fae,Eventgewölbe Köln,Cologne,"Pipinstraße 9, 50667 Köln",https://eventgewoelbe.koeln,https://eventgewoelbe.koeln,HTML_PAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-04 04:12:20
+a7c4c73b4bf4e87e,FC Gildentreff,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:10:25
 ff4db06cd024a86f,Fridolin-Eck,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:15:58
-2ad2b6c38b84f366,Furchtbar,Cologne,"Kyffhäuserstraße 24, 50674 Köln",https://www.furchtbar.de/,,,1,overpass_osm,,
+2ad2b6c38b84f366,Furchtbar,Cologne,"Kyffhäuserstraße 24, 50674 Köln",https://www.furchtbar.de/,https://www.furchtbar.de/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-04 04:10:40
 265a7ff196d54aaf,Fusswinkel,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:17:32
 d93afbe576b5e460,Försterstube,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:15:58
-a579d80e19a86c39,Gaffelstübchen,Cologne,"Im Weidenbruch 205, 51061 Köln",,,,1,overpass_osm,,
+a579d80e19a86c39,Gaffelstübchen,Cologne,"Im Weidenbruch 205, 51061 Köln",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:10:26
 870e45d5f4d83ecd,"Gasthaus ""Laternchen""",Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:16:44
 82cb16088c03c5fe,Gaststätte Siegfriedhof,Cologne,"Neue Kempener Straße 255, 50739 Köln",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:17:03
-c661c58cad557222,Gilbert's Pinte,Cologne,,http://gilbertspinte.de,,,1,overpass_osm,,
-51632c286cf62dd9,Grace and Grape,Cologne,"Kyffhäuserstraße 17, 50674 Köln",https://www.graceandgrape.de,,,1,overpass_osm,,
-acfac1f772513403,Haus Knüsener,Cologne,,,,,1,overpass_osm,,
+c661c58cad557222,Gilbert's Pinte,Cologne,,http://gilbertspinte.de,http://gilbertspinte.de/#mobile-menu-toggle,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-04 04:11:27
+51632c286cf62dd9,Grace and Grape,Cologne,"Kyffhäuserstraße 17, 50674 Köln",https://www.graceandgrape.de,https://www.graceandgrape.de/#getraenke,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-04 04:11:12
+acfac1f772513403,Haus Knüsener,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:10:26
 f300880d641af51d,Haus Thomas,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:16:43
-b874bcc4374ddd77,Havana,Cologne,Neusser Straße 41,,,,1,overpass_osm,,
-00c21d7660eed633,Hirtsiefer Hof,Cologne,,,,,1,overpass_osm,,
+b874bcc4374ddd77,Havana,Cologne,Neusser Straße 41,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:10:26
+00c21d7660eed633,Hirtsiefer Hof,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:10:40
 cbd9c10ff018ca9c,Hängende Gärten von Ehrenfeld,Cologne,"Vogelsanger Straße 140, 50823 Köln",http://www.haengendegaerten.de/,http://www.haengendegaerten.de/menu,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-04 00:17:56
 a479a9a4dbd0f9b3,Ihrefelder Eck,Cologne,"Subbelrather Straße 349, 50825 Köln",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:16:30
 2790602845a4bcbf,Iltis-Eck,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:16:26
 2b8ee4b7d53cb432,Im Rondellchen,Cologne,"Akazienweg 54 a, 50827 Köln",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:16:26
-455695b6d22f3a80,Im Schäfer,Cologne,"Dürener Straße, 50931 Köln",,,,1,overpass_osm,,
-417afe730e3afa0d,Kleine Freiheit,Cologne,,,,,1,overpass_osm,,
+455695b6d22f3a80,Im Schäfer,Cologne,"Dürener Straße, 50931 Köln",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:10:10
+417afe730e3afa0d,Kleine Freiheit,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:10:55
 3aebdc5bc5fc9359,Kreins,Cologne,"Vitalisstraße 303, 50933 Köln",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:17:19
 a960a414f11ceefe,Kuen,Cologne,,https://www.kuenkneipe.de/,https://www.kuenkneipe.de/wp-content/uploads/2025/06/kuene-Getraenke-2026.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-04 00:42:15
 dede965e78d95923,Lommerzheim,Cologne,"Siegesstraße 18, 50679 Köln",https://www.lommerzheim.koeln/,https://www.lommerzheim.koeln/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-04 00:17:03
-cb2c2bd0a69f46c3,Loreley,Cologne,"Lindenstraße 65, 50674 Köln",,,,1,overpass_osm,,
-d9f0952dc26b185c,Lost Level,Cologne,"Kyffhäuserstraße 39, 50674 Köln",https://lostlevel.bar,,,1,overpass_osm,,
-60b6404c5106ab58,Lotta,Cologne,"Kartäuserwall 12, 50678 Köln",https://www.lotta-koeln.de,,,1,overpass_osm,,
-210368875e81d4ed,Low Budget,Cologne,"Aachener Straße 47, 50674 Köln",,,,1,overpass_osm,,
-b4bcb1ea4ac0124e,Lux,Cologne,,,,,1,overpass_osm,,
+cb2c2bd0a69f46c3,Loreley,Cologne,"Lindenstraße 65, 50674 Köln",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:10:24
+d9f0952dc26b185c,Lost Level,Cologne,"Kyffhäuserstraße 39, 50674 Köln",https://lostlevel.bar,https://lostlevel.bar/drinks/,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-04 04:10:42
+60b6404c5106ab58,Lotta,Cologne,"Kartäuserwall 12, 50678 Köln",https://www.lotta-koeln.de,https://www.lotta-koeln.de,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-04 04:10:24
+210368875e81d4ed,Low Budget,Cologne,"Aachener Straße 47, 50674 Köln",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:10:26
+b4bcb1ea4ac0124e,Lux,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:10:55
 d6cbb1fbb77d3b95,Marcel‘s,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:16:26
 820f2a14153187dd,Markt-Klause,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:17:32
 b2454605b39a9586,Massimo,Cologne,"Alteburger Straße 41, 50678 Köln",https://www.rosticceria-massimo.de/,https://www.rosticceria-massimo.de/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-04 00:19:17
@@ -413,42 +413,42 @@ b2454605b39a9586,Massimo,Cologne,"Alteburger Straße 41, 50678 Köln",https://ww
 24068a607424b746,Metronom,Cologne,"Weyerstraße 59,  Köln",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:19:17
 e712470189ae9ec5,Monkeys,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:18:50
 28db4bd56275df77,Müllers Ehrenfeld,Cologne,"Subbelrather Straße 159, 50823 Köln",https://muellers.koeln/,https://muellers.koeln/,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-04 00:42:11
-67052a3192b6bed5,Nordschänke,Cologne,"Berliner Straße 137, 51063 Köln",,,,1,overpass_osm,,
+67052a3192b6bed5,Nordschänke,Cologne,"Berliner Straße 137, 51063 Köln",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:10:40
 4b8aafb68be39d9d,Op d'r Eck,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:17:32
-97aa68ed998e852d,Os Conquistadores,Cologne,,,,,1,overpass_osm,,
+97aa68ed998e852d,Os Conquistadores,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:10:26
 e08259e904d0d1ac,Ossendorfer-Stübchen,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:16:26
 d1827f3af129a420,Pütz,Cologne,,http://www.xn--ptz-bistro-9db.de/,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:17:19
 22f782a16a594ad6,Queens Bar,Cologne,"Am Bilderstöckchen 57, 50739 Köln",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:17:03
 1619327870914494,Rakete,Cologne,"Baudriplatz 2, 50733 Köln",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:17:24
-7f2f1be2e522155f,Reissdorf am Brunnen,Cologne,,,,,1,overpass_osm,,
+7f2f1be2e522155f,Reissdorf am Brunnen,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:11:27
 6384c12dbe639802,Relax,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:17:03
-49d1f3103fe7e324,Roter Platz,Cologne,"Zülpicher Platz 11, 50674 Köln",,,,1,overpass_osm,,
-ece2d1fa9bab8d0b,Sadie's Irish Pub,Cologne,,,,,1,overpass_osm,,
+49d1f3103fe7e324,Roter Platz,Cologne,"Zülpicher Platz 11, 50674 Köln",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:11:27
+ece2d1fa9bab8d0b,Sadie's Irish Pub,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:10:40
 86856ad6d29321b2,Schäfer's Eck,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:15:58
-9bc5a99a45730dbc,Schänke Dezernat 90,Cologne,"Johannisstraße 30, 50668 Cologne",,,,1,overpass_osm,,
-2cfcb3436ec8a847,Senn,Cologne,", 50937 Cologne",,,,1,overpass_osm,,
+9bc5a99a45730dbc,Schänke Dezernat 90,Cologne,"Johannisstraße 30, 50668 Cologne",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:10:26
+2cfcb3436ec8a847,Senn,Cologne,", 50937 Cologne",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:11:27
 a97d5cb791040bcb,Siedlerklause,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:17:17
-dfc02c5535355f9a,Six Pack,Cologne,"Aachener Straße 33, 50674 Köln",,,,1,overpass_osm,,
+dfc02c5535355f9a,Six Pack,Cologne,"Aachener Straße 33, 50674 Köln",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:10:26
 3a86ef7de5f3b281,Stiefel,Cologne,"Zülpicher Straße 18, 50674 Köln",https://stiefelkneipe.de,https://stiefelkneipe.de,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-04 00:19:04
-6dcad5063f678aee,Südkurve,Cologne,"Luxemburger Straße 228, 50937 Köln",https://www.koelner-suedkurve.de/,,,1,overpass_osm,,
-2edaffa927295099,Tankstelle Köln,Cologne,"Kyffhäuserstraße 19, 50674 Köln",https://www.tankstelle-koeln.de/,,,1,overpass_osm,,
+6dcad5063f678aee,Südkurve,Cologne,"Luxemburger Straße 228, 50937 Köln",https://www.koelner-suedkurve.de/,https://www.koelner-suedkurve.de/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-04 04:10:55
+2edaffa927295099,Tankstelle Köln,Cologne,"Kyffhäuserstraße 19, 50674 Köln",https://www.tankstelle-koeln.de/,https://www.tankstelle-koeln.de/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-04 04:11:09
 03fba1dc346f34df,Taverne im Pohlhof,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:16:44
 1d57b5f6ad5f4c60,Tennessee Bar,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:17:19
 b41db9d56e105d1b,Tennis-Klause,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:16:43
 66a253cb66a5f1c4,Trink-Genossin,Cologne,,https://trink-genosse.de/,https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Subbelrather+Str.+254+K%C3%B6ln+50825,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-04 00:16:30
 5ef90f0af70ab618,Umbruch,Cologne,"Zülpicher Straße 11, 50674 Köln",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:18:50
 3c0e6f3315a14434,Vintage54,Cologne,", 50733 Cologne",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:17:03
-b1563b19ad7b40c7,Waldstube,Cologne,,,,,1,overpass_osm,,
+b1563b19ad7b40c7,Waldstube,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:10:40
 4ad999997f41001b,Worringen Oriental,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:17:19
 3780891b29b48ff7,Zimmermanns Jassweetschaff,Cologne,"Subbelrather Straße 543, 50827 Köln",https://zimmermannskoeln.com/,https://zimmermannskoeln.com/wp-content/uploads/2026/03/KartenVVK.jpg,IMAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-04 00:42:12
 3f3c11d155501b7b,Zint Tönnes,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:17:19
 ea06f3b99216ac2d,Zum Alibi,Cologne,"Hackländerstraße 31, 50825 Köln",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:16:30
-adeb33299fa74932,Zum Kornbrenner,Cologne,"Neusser Straße 171, 50733 Köln",https://www.zumkornbrenner.koeln/,,,1,overpass_osm,,
+adeb33299fa74932,Zum Kornbrenner,Cologne,"Neusser Straße 171, 50733 Köln",https://www.zumkornbrenner.koeln/,https://drive.google.com/file/d/1IG-7nyfFht5_sdMrkuGABbbDxfXTl7jJ/view,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-04 04:10:09
 41190b16b18f6178,Zum Krug,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:17:56
-ba835ed7e780580a,Zum Schützenhof,Cologne,"Berliner Straße 43, 51063 Köln",,,,1,overpass_osm,,
+ba835ed7e780580a,Zum Schützenhof,Cologne,"Berliner Straße 43, 51063 Köln",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:10:40
 78c2eeb66a5fd2a2,Zum Treppchen,Cologne,Merkenicher Hauptstraße 136,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:17:17
 5cb06c36db3034eb,Zur Post,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:17:17
-d5033e4a1ac6d8a5,Zur Post,Cologne,"Adamsstraße 22, 51063 Köln",,,,1,overpass_osm,,
+d5033e4a1ac6d8a5,Zur Post,Cologne,"Adamsstraße 22, 51063 Köln",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:10:40
 533a858784598dcf,Zwergnase,Cologne,"Altonaer Straße 30, 50737 Köln",https://www.zwergnase-koeln.de/,https://www.zwergnase-koeln.de/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-04 00:17:17
 da2438c85b21d86a,Zwitscherhäuschen,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:16:26
 4583d771e741efb7,em Kölsche Klüngel,Cologne,Venloer Straße 696,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:16:30
@@ -457,11 +457,11 @@ e5979e5ef1201b0c,meyers,Cologne,"Subbelrather Straße 329, 50825 Köln",https://
 6ade07095281a50e,op d'r Höh,Cologne,"Sandweg 112, 50827 Köln",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:16:30
 53d0683c3c934ec7,zum Backstein,Cologne,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:16:26
 8d63128e7e30a994,zum Denkmal,Cologne,", 50733 Cologne",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:16:26
-de6d983fefdf0ad0,#Wallstreet Frankfurt,Frankfurt,"Berger Straße 83, 60316 Frankfurt am Main",,,,1,overpass_osm,,
-8a77319aac90aa72,12 Apostel,Frankfurt,Rosenbergerstraße 1,https://12aposteln-frankfurt.de/,,,1,overpass_osm,,
+de6d983fefdf0ad0,#Wallstreet Frankfurt,Frankfurt,"Berger Straße 83, 60316 Frankfurt am Main",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:13:35
+8a77319aac90aa72,12 Apostel,Frankfurt,Rosenbergerstraße 1,https://12aposteln-frankfurt.de/,https://12aposteln-frankfurt.de/getraenkekarte/,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-04 04:12:56
 01ac1133d84eaff7,4 Corners,Frankfurt,"Zeil 10, 60313 Frankfurt am Main",http://www.fourcornerspub.de,,,1,overpass_osm,,
 10b849aadd6a6b4e,"Alt Eckenheim ""Zum Büro""",Frankfurt,,,,,1,overpass_osm,,
-ff0dce8fc6ca4c6d,Alte Kneipe,Frankfurt,,,,,1,overpass_osm,,
+ff0dce8fc6ca4c6d,Alte Kneipe,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:14:18
 39072e746c9a1baf,Alte Turnhalle,Frankfurt,,,,,1,overpass_osm,,
 1626526c6d75fc64,Alten Limpurg,Frankfurt,,https://www.alten-limpurg.com/,,,1,overpass_osm,,
 1a7d193d04201bb6,Altes Haus,Frankfurt,,,,,1,overpass_osm,,
@@ -470,37 +470,37 @@ ff0dce8fc6ca4c6d,Alte Kneipe,Frankfurt,,,,,1,overpass_osm,,
 31831ed98dc41a80,Apfelweinwirtschaft Frank,Frankfurt,,,,,1,overpass_osm,,
 0efc3a798ef220de,Aruba,Frankfurt,"Mainzer Landstraße 269, 60326 Frankfurt am Main",,,,1,overpass_osm,,
 438ba39ee6ea2c48,Asian Bar,Frankfurt,,,,,1,overpass_osm,,
-d3c17e16e4587d7f,Baile Bar,Frankfurt,,,,,1,overpass_osm,,
-150b741b31c45ee0,Bei Susanne,Frankfurt,,,,,1,overpass_osm,,
+d3c17e16e4587d7f,Baile Bar,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:14:04
+150b741b31c45ee0,Bei Susanne,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:14:18
 e1e17c7e35978da2,Bernemer Fass,Frankfurt,"Ringelstraße 23, 60385 Frankfurt am Main",https://www.bernemer-fass.de/,,,1,overpass_osm,,
 7311c00087037ed1,Binding'sche,Frankfurt,,,,,1,overpass_osm,,
 094eafbe2d55dfe6,Birmingham Pub,Frankfurt,"Battonnstraße 50, 60311 Frankfurt am Main",,,,1,overpass_osm,,
-43ecc674ba151ca1,Bockenheimer Weinkontor,Frankfurt,,,,,1,overpass_osm,,
-a89009487e980807,Bonne Chance,Frankfurt,,,,,1,overpass_osm,,
-62c6ceb31245a3df,Bootshaus YACHTKLUB,Frankfurt,"Deutschherrnufer, 60594 Frankfurt am Main",http://www.yachtklub.org,,,1,overpass_osm,,
+43ecc674ba151ca1,Bockenheimer Weinkontor,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:14:04
+a89009487e980807,Bonne Chance,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:13:35
+62c6ceb31245a3df,Bootshaus YACHTKLUB,Frankfurt,"Deutschherrnufer, 60594 Frankfurt am Main",http://www.yachtklub.org,http://www.yachtklub.org,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-04 04:13:09
 968983707a5f2ce5,BornEnd,Frankfurt,,,,,1,overpass_osm,,
 640e8be6c85d287f,Bull and Bear,Frankfurt,"Schillerstraße 11, 60313 Frankfurt am Main",https://bullandbear.de,,,1,overpass_osm,,
-efdda5213d90344c,Central,Frankfurt,,,,,1,overpass_osm,,
+efdda5213d90344c,Central,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:14:18
 0170329e9209be73,Central Park Corner,Frankfurt,"Große Bockenheimer Straße 52, 60313 Frankfurt am Main",https://www.centralparkcorner.de,,,1,overpass_osm,,
 525aba002cecb32d,Chinaski Club,Frankfurt,"Bockenheimer Landstraße 3, 60325 Frankfurt am Main",https://chinaskiclub.de/,,,1,overpass_osm,,
 e004e4f26c1286b1,Ciao Ciao,Frankfurt,,,,,1,overpass_osm,,
 b8bebc629e5cc1aa,Cookys Club,Frankfurt,,http://www.cookys-club.de/,,,1,overpass_osm,,
-33e033eafcb2fa49,Crazy,Frankfurt,,,,,1,overpass_osm,,
-48a27be24e7a443d,Crazy Music Barr,Frankfurt,,,,,1,overpass_osm,,
-ccf5391e9e56f8e8,Cubanitas Cocktailbar,Frankfurt,,,,,1,overpass_osm,,
+33e033eafcb2fa49,Crazy,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:14:18
+48a27be24e7a443d,Crazy Music Barr,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:14:18
+ccf5391e9e56f8e8,Cubanitas Cocktailbar,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:14:18
 42a5a6e2705f5076,Dampflock Pilsstube,Frankfurt,,,,,1,overpass_osm,,
 01587b99eef9d7b5,Diamond Lounge,Frankfurt,"Mainzer Landstraße 412, 60326 Frankfurt am Main",https://diamond-lounge-frankfurt.de/,,,1,overpass_osm,,
 f4e80cf695000048,Die Weinbar,Frankfurt,"Jahnstraße 51, 60318 Frankfurt am Main",http://www.die-weinbar-frankfurt.de/,,,1,overpass_osm,,
 39d1aac6ab4f1143,Dreikönigskeller,Frankfurt,"Färberstraße 71, 60594 Frankfurt am Main",https://www.dreikoenigskeller.eu/,,,1,overpass_osm,,
 37f75fdfb00b73fa,Déjà Vu - Shisha Lounge,Frankfurt,"Mainkai 10, 60311 Frankfurt",http://dejavu-lounge.de,,,1,overpass_osm,,
 d0c0c76d3f5c7e73,Eckhaus,Frankfurt,,,,,1,overpass_osm,,
-9f1dcd6dd7c27d71,Eiserner Hahn,Frankfurt,,,,,1,overpass_osm,,
-08ce1b4aaae64bd7,Endstation 148,Frankfurt,"Ginnheimer Landstraße 148, 60431 Frankfurt am Main",,,,1,overpass_osm,,
+9f1dcd6dd7c27d71,Eiserner Hahn,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:14:18
+08ce1b4aaae64bd7,Endstation 148,Frankfurt,"Ginnheimer Landstraße 148, 60431 Frankfurt am Main",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:12:56
 2f1d137598cf9502,Envy,Frankfurt,"Große Bockenheimer Straße 54, 60313 Frankfurt am Main",,,,1,overpass_osm,,
 e4ee15d65dbc0357,Eppstein Eck,Frankfurt,,,,,1,overpass_osm,,
 44e37be8f2fd9859,Favorite,Frankfurt,,,,,1,overpass_osm,,
 8853136a7a3df7c1,Fenstergucker,Frankfurt,,,,,1,overpass_osm,,
-b09b1a492f1a978e,Gaststätte Moseleck,Frankfurt,"Moselstraße 21, 60329 Frankfurt am Main",http://www.moseleck-ffm.de/,,,1,overpass_osm,,
+b09b1a492f1a978e,Gaststätte Moseleck,Frankfurt,"Moselstraße 21, 60329 Frankfurt am Main",http://www.moseleck-ffm.de/,http://www.moseleck-ffm.de/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-04 04:13:48
 3f2d5f7c417c14ed,Gute Stute,Frankfurt,"Kölner Straße 42, 60327 Frankfurt am Main",https://gute-stute.com/,,,1,overpass_osm,,
 767e71300f2a1a6a,Ha.!-Ka.?,Frankfurt,,,,,1,overpass_osm,,
 6b3ab5b3bf464043,Hotelbar Amadeus,Frankfurt,,https://hotel-amadeus-frankfurt.de/,,,1,overpass_osm,,
@@ -509,57 +509,57 @@ b09b1a492f1a978e,Gaststätte Moseleck,Frankfurt,"Moselstraße 21, 60329 Frankfur
 9fb2514769e1a52f,Kaibo 75 Wein Bier Häppchen,Frankfurt,,,,,1,overpass_osm,,
 69e43383499b39a5,Kervan,Frankfurt,,,,,1,overpass_osm,,
 82b7ab83a69b1ed0,King,Frankfurt,"Zum Linnegraben 15, 65933 Frankfurt am Main",,,,1,overpass_osm,,
-0b8049154c707c6a,Klapper 33,Frankfurt,,,,,1,overpass_osm,,
+0b8049154c707c6a,Klapper 33,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:14:18
 278e42e743b5051a,Lebensfreude Pur,Frankfurt,"Mainkurstraße 19, 60385 Frankfurt am Main",http://lebensfreude-pur.com/,,,1,overpass_osm,,
 b140c4691431a8bc,Logenhaus,Frankfurt,,,,,1,overpass_osm,,
-1829035400cf8301,Long Island Cocktailbar,Frankfurt,,,,,1,overpass_osm,,
-52c8f4c621fe2c28,Lucky's Frankfurt,Frankfurt,"Große Friedberger Straße 26, 60313 Frankfurt am Main",http://www.luckys-manhattan.com/,,,1,overpass_osm,,
+1829035400cf8301,Long Island Cocktailbar,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:14:18
+52c8f4c621fe2c28,Lucky's Frankfurt,Frankfurt,"Große Friedberger Straße 26, 60313 Frankfurt am Main",http://www.luckys-manhattan.com/,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:14:04
 95a142f03c26f2be,Marketenderin,Frankfurt,,,,,1,overpass_osm,,
 3fb26c780e330d03,Memory Bar,Frankfurt,"Adalbertstraße 4, 60486 Frankfurt am Main",,,,1,overpass_osm,,
 53a1832e95d292fd,Mezze & More,Frankfurt,,,,,1,overpass_osm,,
 316a0390cf127a2e,Mosaik Jazz & Chanson,Frankfurt,"Freiligrathstraße 57, 60385 Frankfurt am Main",https://www.mosaik-jazzbar.de/,,,1,overpass_osm,,
 c4946eaf11cfcf2b,My Lounge,Frankfurt,"Triftstraße 16, 60528 Frankfurt am Main",,,,1,overpass_osm,,
 caef4cea3c1c2e75,NachBar,Frankfurt,,,,,1,overpass_osm,,
-f0f03d705f548cb6,New Rose,Frankfurt,,https://newrosefrankfurt.de/,,,1,overpass_osm,,
+f0f03d705f548cb6,New Rose,Frankfurt,,https://newrosefrankfurt.de/,https://newrosefrankfurt.de/wp-content/uploads/2025/10/getraenkekarte-2025.jpg,IMAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-04 04:14:04
 1c9655c035f5862a,O'Corner,Frankfurt,,,,,1,overpass_osm,,
 9f5b2c31bb0ec525,Oeserklause,Frankfurt,,,,,1,overpass_osm,,
 a521be8427c926ce,Panorama Bar,Frankfurt,,https://huber1911.de/locations/panoramabar,,,1,overpass_osm,,
 f809ab4702ad1879,Park Avenue,Frankfurt,,https://park-avenue-frankfurt.de/,,,1,overpass_osm,,
 362ce35a4804850d,Pilstreff,Frankfurt,,,,,1,overpass_osm,,
-00f01f163ca01a8e,Plateau,Frankfurt,,,,,1,overpass_osm,,
-425bbeb4df0ad283,Reh Zwanzig,Frankfurt,,,,,1,overpass_osm,,
+00f01f163ca01a8e,Plateau,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:14:18
+425bbeb4df0ad283,Reh Zwanzig,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:13:09
 3a29d2640aa95a01,Rot & Vogel Feines Trinken,Frankfurt,"Rotlintstraße 28, 60316 Frankfurt am Main",https://www.rotundvogel-frankfurt.de,,,1,overpass_osm,,
 d648a1ed6f4ba650,Rotaria Shisha Lounge,Frankfurt,"Dreieichstraße 12, 60594 Frankfurt am Main",,,,1,overpass_osm,,
-a2e68b7da535bbdc,Salon Jale,Frankfurt,,,,,1,overpass_osm,,
+a2e68b7da535bbdc,Salon Jale,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:14:18
 d5b44629d0ea21ad,Schampus,Frankfurt,"Konrad-Broßwitz-Straße 12, 60487 Frankfurt am Main",http://www.weinstube-s-frankfurt.de/,,,1,overpass_osm,,
 b9b9a803800213e4,Shishantash,Frankfurt,"An der Staufenmauer 7, 60311 Frankfurt am Main",https://www.shishantash.de/,,,1,overpass_osm,,
-141902270cfca75c,Sporteck,Frankfurt,,,,,1,overpass_osm,,
-8356a81ae574c427,Sprudl & Mett,Frankfurt,,,,,1,overpass_osm,,
-3c9325c00d3e9b5a,Stall,Frankfurt,"Stiftstraße 22, 60313 Frankfurt am Main",https://www.stall-frankfurt.com,,,1,overpass_osm,,
+141902270cfca75c,Sporteck,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:13:09
+8356a81ae574c427,Sprudl & Mett,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:12:48
+3c9325c00d3e9b5a,Stall,Frankfurt,"Stiftstraße 22, 60313 Frankfurt am Main",https://www.stall-frankfurt.com,,NONE,1,overpass_osm,BLOCKED,2026-09-04 04:14:18
 cbe20c4b163a1c46,Storchenstübchen,Frankfurt,,,,,1,overpass_osm,,
 a3a196b8c25720ba,Sugar,Frankfurt,"Berger Straße 235, 60385 Frankfurt am Main",http://www.sugar-bar.de/,,,1,overpass_osm,,
-c42fdfb767750925,The Anglo Irish,Frankfurt,,,,,1,overpass_osm,,
+c42fdfb767750925,The Anglo Irish,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:14:18
 939e6a79b086b453,The Drinksmith Neighbourhood Bar,Frankfurt,"Wallstraße 14, 60594 Frankfurt am Main",,,,1,overpass_osm,,
 d8401c0425826568,The Fox and Hound,Frankfurt,"Niedenau 2, 60325 Frankfurt am Main",https://www.foxpub.de/,,,1,overpass_osm,,
 bf9aa367f4c258cc,The Place To Be,Frankfurt,"Weißadlergasse 3, 60311 Frankfurt am Main",http://souper.de/,,,1,overpass_osm,,
-00a420827698e426,The Rock Times,Frankfurt,,,,,1,overpass_osm,,
+00a420827698e426,The Rock Times,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:14:18
 a3cd63526ee45ce0,Trinkhalle,Frankfurt,"Obermainanlage 24, 60314 Frankfurt am Main",http://www.trinkhalle-frankfurt.de/,,,1,overpass_osm,,
-a0a5e585049f5b83,Tropical,Frankfurt,,,,,1,overpass_osm,,
+a0a5e585049f5b83,Tropical,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:14:18
 2ddff8c26137cff9,Viva,Frankfurt,,,,,1,overpass_osm,,
-93f385bf94e4f6a9,Volkswirtschaft,Frankfurt,"Jordanstraße 13, 60486 Frankfurt am Main",,,,1,overpass_osm,,
+93f385bf94e4f6a9,Volkswirtschaft,Frankfurt,"Jordanstraße 13, 60486 Frankfurt am Main",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:14:04
 033b2b11cdb4fdec,Waxy's Irish Pub,Frankfurt,"Taubenstraße 11, 60313 Frankfurt am Main",https://www.waxys.de/,,,1,overpass_osm,,
-eeb3638f7e1f9a07,Whoka Lounge,Frankfurt,"Eckenheimer Landstraße 273, 60320 Frankfurt am Main",https://whoka-lounge.de/,,,1,overpass_osm,,
+eeb3638f7e1f9a07,Whoka Lounge,Frankfurt,"Eckenheimer Landstraße 273, 60320 Frankfurt am Main",https://whoka-lounge.de/,https://whoka-lounge.de/karte,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-04 04:13:35
 8e685bada74aac5d,Wir Komplizen,Frankfurt,"Egenolffstraße 17, 60316 Frankfurt am Main",https://www.wir-komplizen.de/,,,1,overpass_osm,,
 fa12eb63e4f6bfa1,Zum Bitburger,Frankfurt,,,,,1,overpass_osm,,
 ad0878dae06905ea,Zum Rad,Frankfurt,,,,,1,overpass_osm,,
-889a373dd4eb2e20,Zum Schwejk,Frankfurt,,http://www.schwejk-frankfurt.de,,,1,overpass_osm,,
+889a373dd4eb2e20,Zum Schwejk,Frankfurt,,http://www.schwejk-frankfurt.de,http://www.schwejk-frankfurt.de,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-04 04:14:18
 66f8e9e040e759eb,Zum alten Schlagbaum,Frankfurt,"Berger Straße 248, 60385 Frankfurt am Main",https://www.zumaltenschlagbaum.de/,,,1,overpass_osm,,
-a2a7460af603d921,Zum Tannenbaum,Frankfurt,,,,,1,overpass_osm,,
+a2a7460af603d921,Zum Tannenbaum,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:14:04
 6490e88357ab29a1,Zur Biertonne,Frankfurt,"Gutleutstraße 139, 60327 Frankfurt am Main",,,,1,overpass_osm,,
 78055ea1a52d8de3,Zur Erholung,Frankfurt,,https://www.gaststaette-zur-erholung.de/,,,1,overpass_osm,,
 3aeb2506e8a3800d,Zur Krone,Frankfurt,,,,,1,overpass_osm,,
-623ca35ea1f7f702,Zur Pilsstube,Frankfurt,,,,,1,overpass_osm,,
-0ee99f74a5fc8e75,Zur Post,Frankfurt,"Willibrachtstraße 1, 60431 Frankfurt am Main",,,,1,overpass_osm,,
+623ca35ea1f7f702,Zur Pilsstube,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:14:18
+0ee99f74a5fc8e75,Zur Post,Frankfurt,"Willibrachtstraße 1, 60431 Frankfurt am Main",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:14:04
 13cf7d056bbb4c4f,feelgood,Frankfurt,,,,,1,overpass_osm,,
 ed9a627cd9442d9a,o'reilly's irish pub,Frankfurt,"Am Hauptbahnhof 4, 60329 Frankfurt am Main",https://oreillys.com/frankfurt/,,,1,overpass_osm,,
 2e2d997533dbdce8,1 & Dreißig,Hamburg,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:14:12
