@@ -463,7 +463,7 @@ de6d983fefdf0ad0,#Wallstreet Frankfurt,Frankfurt,"Berger Straße 83, 60316 Frank
 10b849aadd6a6b4e,"Alt Eckenheim ""Zum Büro""",Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 08:14:14
 ff0dce8fc6ca4c6d,Alte Kneipe,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:14:18
 39072e746c9a1baf,Alte Turnhalle,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 08:16:36
-1626526c6d75fc64,Alten Limpurg,Frankfurt,,https://www.alten-limpurg.com/,https://www.alten-limpurg.com/downloads/Alte-Limpurg-Frankfurt_menu.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-04 08:13:16
+1626526c6d75fc64,Alten Limpurg,Frankfurt,,https://www.alten-limpurg.com/,https://www.alten-limpurg.com/downloads/Alte-Limpurg-Frankfurt_menu.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-04 08:43:32
 1a7d193d04201bb6,Altes Haus,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 08:11:18
 623562294c4f5c90,Ania's Treff,Frankfurt,Töngesgasse,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 08:12:22
 17d3d28bbed24c89,Antony´s,Frankfurt,"Berger Straße 14, 60316 Frankfurt am Main",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 08:12:30
@@ -481,8 +481,8 @@ a89009487e980807,Bonne Chance,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILAB
 968983707a5f2ce5,BornEnd,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 08:18:14
 640e8be6c85d287f,Bull and Bear,Frankfurt,"Schillerstraße 11, 60313 Frankfurt am Main",https://bullandbear.de,https://bullandbear.de#Speisekarte,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-04 08:18:14
 efdda5213d90344c,Central,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:14:18
-0170329e9209be73,Central Park Corner,Frankfurt,"Große Bockenheimer Straße 52, 60313 Frankfurt am Main",https://www.centralparkcorner.de,https://www.centralparkcorner.de/wp-content/uploads/2019/04/cpc_karte_fin_deutsch_23april18_k5-min.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-04 08:14:14
-525aba002cecb32d,Chinaski Club,Frankfurt,"Bockenheimer Landstraße 3, 60325 Frankfurt am Main",https://chinaskiclub.de/,https://chinaskiclub.de/#sidewidgetarea,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-04 08:12:25
+0170329e9209be73,Central Park Corner,Frankfurt,"Große Bockenheimer Straße 52, 60313 Frankfurt am Main",https://www.centralparkcorner.de,https://www.centralparkcorner.de/wp-content/uploads/2019/04/cpc_karte_fin_deutsch_23april18_k5-min.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-04 08:43:35
+525aba002cecb32d,Chinaski Club,Frankfurt,"Bockenheimer Landstraße 3, 60325 Frankfurt am Main",https://chinaskiclub.de/,https://chinaskiclub.de/#sidewidgetarea,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-04 08:42:32
 e004e4f26c1286b1,Ciao Ciao,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 08:18:42
 b8bebc629e5cc1aa,Cookys Club,Frankfurt,,http://www.cookys-club.de/,http://www.cookys-club.de/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-04 08:18:42
 33e033eafcb2fa49,Crazy,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:14:18
@@ -490,8 +490,9 @@ b8bebc629e5cc1aa,Cookys Club,Frankfurt,,http://www.cookys-club.de/,http://www.co
 ccf5391e9e56f8e8,Cubanitas Cocktailbar,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:14:18
 42a5a6e2705f5076,Dampflock Pilsstube,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 08:12:22
 01587b99eef9d7b5,Diamond Lounge,Frankfurt,"Mainzer Landstraße 412, 60326 Frankfurt am Main",https://diamond-lounge-frankfurt.de/,https://diamond-lounge-frankfurt.de/karte,HTML_PAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-04 08:16:36
-f4e80cf695000048,Die Weinbar,Frankfurt,"Jahnstraße 51, 60318 Frankfurt am Main",http://www.die-weinbar-frankfurt.de/,https://cdn.website.dish.co/media/a1/2c/10146878/Speisekarte.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-04 08:18:00
-39d1aac6ab4f1143,Dreikönigskeller,Frankfurt,"Färberstraße 71, 60594 Frankfurt am Main",https://www.dreikoenigskeller.eu/,https://www.dreikoenigskeller.eu/termine/ray-collins-trio,HTML_PAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-04 08:15:48
+01587b99eef9d7b5,Diamond Lounge,Frankfurt,"Mainzer Landstraße 412, 60326 Frankfurt am Main",https://diamond-lounge-frankfurt.de/,https://diamond-lounge-frankfurt.de/karte/,HTML_PAGE,1,overpass_osm,MANUAL_REVIEW,2026-09-04 08:43:48
+f4e80cf695000048,Die Weinbar,Frankfurt,"Jahnstraße 51, 60318 Frankfurt am Main",http://www.die-weinbar-frankfurt.de/,https://cdn.website.dish.co/media/a1/2c/10146878/Speisekarte.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-04 08:43:44
+39d1aac6ab4f1143,Dreikönigskeller,Frankfurt,"Färberstraße 71, 60594 Frankfurt am Main",https://www.dreikoenigskeller.eu/,https://www.dreikoenigskeller.eu/termine/ray-collins-trio,HTML_PAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-04 08:43:39
 37f75fdfb00b73fa,Déjà Vu - Shisha Lounge,Frankfurt,"Mainkai 10, 60311 Frankfurt",http://dejavu-lounge.de,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 08:16:17
 d0c0c76d3f5c7e73,Eckhaus,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 08:12:25
 9f1dcd6dd7c27d71,Eiserner Hahn,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:14:18
@@ -503,28 +504,28 @@ e4ee15d65dbc0357,Eppstein Eck,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILAB
 b09b1a492f1a978e,Gaststätte Moseleck,Frankfurt,"Moselstraße 21, 60329 Frankfurt am Main",http://www.moseleck-ffm.de/,http://www.moseleck-ffm.de/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-04 04:13:48
 3f2d5f7c417c14ed,Gute Stute,Frankfurt,"Kölner Straße 42, 60327 Frankfurt am Main",https://gute-stute.com/,https://gute-stute.com/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-04 08:13:29
 767e71300f2a1a6a,Ha.!-Ka.?,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 08:15:17
-6b3ab5b3bf464043,Hotelbar Amadeus,Frankfurt,,https://hotel-amadeus-frankfurt.de/,https://hotel-amadeus-frankfurt.de/,HTML_PAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-04 08:17:17
+6b3ab5b3bf464043,Hotelbar Amadeus,Frankfurt,,https://hotel-amadeus-frankfurt.de/,https://hotel-amadeus-frankfurt.de/,HTML_PAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-04 08:43:44
 94b6ffccc2a01462,Irish Pub Bornheim,Frankfurt,"Berger Straße 255, 60385 Frankfurt am Main",http://www.irishpubbornheim.com/,http://www.irishpubbornheim.com/menu,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-04 08:12:08
 012f67479f887e14,Jel me netko trazio?,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 08:17:55
 9fb2514769e1a52f,Kaibo 75 Wein Bier Häppchen,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 08:12:22
 69e43383499b39a5,Kervan,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 08:13:30
 82b7ab83a69b1ed0,King,Frankfurt,"Zum Linnegraben 15, 65933 Frankfurt am Main",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 08:13:30
 0b8049154c707c6a,Klapper 33,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:14:18
-278e42e743b5051a,Lebensfreude Pur,Frankfurt,"Mainkurstraße 19, 60385 Frankfurt am Main",http://lebensfreude-pur.com/,http://lebensfreude-pur.com/,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-04 08:16:15
+278e42e743b5051a,Lebensfreude Pur,Frankfurt,"Mainkurstraße 19, 60385 Frankfurt am Main",http://lebensfreude-pur.com/,http://lebensfreude-pur.com/,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-04 08:43:39
 b140c4691431a8bc,Logenhaus,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 08:17:55
 1829035400cf8301,Long Island Cocktailbar,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:14:18
 52c8f4c621fe2c28,Lucky's Frankfurt,Frankfurt,"Große Friedberger Straße 26, 60313 Frankfurt am Main",http://www.luckys-manhattan.com/,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:14:04
 95a142f03c26f2be,Marketenderin,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 08:12:22
 3fb26c780e330d03,Memory Bar,Frankfurt,"Adalbertstraße 4, 60486 Frankfurt am Main",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 08:11:22
 53a1832e95d292fd,Mezze & More,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 08:11:20
-316a0390cf127a2e,Mosaik Jazz & Chanson,Frankfurt,"Freiligrathstraße 57, 60385 Frankfurt am Main",https://www.mosaik-jazzbar.de/,https://www.mosaik-jazzbar.de/,HTML_PAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-04 08:15:11
+316a0390cf127a2e,Mosaik Jazz & Chanson,Frankfurt,"Freiligrathstraße 57, 60385 Frankfurt am Main",https://www.mosaik-jazzbar.de/,https://www.mosaik-jazzbar.de/,HTML_PAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-04 08:43:36
 c4946eaf11cfcf2b,My Lounge,Frankfurt,"Triftstraße 16, 60528 Frankfurt am Main",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 08:12:25
 caef4cea3c1c2e75,NachBar,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 08:13:30
 f0f03d705f548cb6,New Rose,Frankfurt,,https://newrosefrankfurt.de/,https://newrosefrankfurt.de/wp-content/uploads/2025/10/getraenkekarte-2025.jpg,IMAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-04 04:38:21
 1c9655c035f5862a,O'Corner,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 08:18:14
 9f5b2c31bb0ec525,Oeserklause,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 08:12:22
 a521be8427c926ce,Panorama Bar,Frankfurt,,https://huber1911.de/locations/panoramabar,https://huber1911.de/locations/panoramabar,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-04 08:14:34
-f809ab4702ad1879,Park Avenue,Frankfurt,,https://park-avenue-frankfurt.de/,https://b.fdr.li/pavenue/,HTML_PAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-04 08:11:29
+f809ab4702ad1879,Park Avenue,Frankfurt,,https://park-avenue-frankfurt.de/,https://b.fdr.li/pavenue/,HTML_PAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-04 08:42:30
 362ce35a4804850d,Pilstreff,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 08:14:14
 00f01f163ca01a8e,Plateau,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:14:18
 425bbeb4df0ad283,Reh Zwanzig,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:13:09
@@ -532,7 +533,7 @@ f809ab4702ad1879,Park Avenue,Frankfurt,,https://park-avenue-frankfurt.de/,https:
 d648a1ed6f4ba650,Rotaria Shisha Lounge,Frankfurt,"Dreieichstraße 12, 60594 Frankfurt am Main",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 08:16:36
 a2e68b7da535bbdc,Salon Jale,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:14:18
 d5b44629d0ea21ad,Schampus,Frankfurt,"Konrad-Broßwitz-Straße 12, 60487 Frankfurt am Main",http://www.weinstube-s-frankfurt.de/,http://www.weinstube-s-frankfurt.de/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-04 08:18:28
-b9b9a803800213e4,Shishantash,Frankfurt,"An der Staufenmauer 7, 60311 Frankfurt am Main",https://www.shishantash.de/,https://www.shishantash.de/#drinks,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-04 08:11:34
+b9b9a803800213e4,Shishantash,Frankfurt,"An der Staufenmauer 7, 60311 Frankfurt am Main",https://www.shishantash.de/,https://www.shishantash.de/#drinks,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-04 08:42:31
 141902270cfca75c,Sporteck,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:13:09
 8356a81ae574c427,Sprudl & Mett,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:12:48
 3c9325c00d3e9b5a,Stall,Frankfurt,"Stiftstraße 22, 60313 Frankfurt am Main",https://www.stall-frankfurt.com,,NONE,1,overpass_osm,BLOCKED,2026-09-04 04:14:18
@@ -550,11 +551,11 @@ a0a5e585049f5b83,Tropical,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2
 033b2b11cdb4fdec,Waxy's Irish Pub,Frankfurt,"Taubenstraße 11, 60313 Frankfurt am Main",https://www.waxys.de/,https://www.waxys.de/menu,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-04 08:15:34
 eeb3638f7e1f9a07,Whoka Lounge,Frankfurt,"Eckenheimer Landstraße 273, 60320 Frankfurt am Main",https://whoka-lounge.de/,https://whoka-lounge.de/karte,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-04 04:13:35
 eeb3638f7e1f9a07,Whoka Lounge,Frankfurt,"Eckenheimer Landstraße 273, 60320 Frankfurt am Main",https://whoka-lounge.de/,https://whoka-lounge.de/karte/,HTML_PAGE,1,overpass_osm,MANUAL_REVIEW,2026-09-04 04:38:32
-8e685bada74aac5d,Wir Komplizen,Frankfurt,"Egenolffstraße 17, 60316 Frankfurt am Main",https://www.wir-komplizen.de/,https://cdn.prod.website-files.com/693981f540b6c15bd693fcd0/6a7d900af278a72f4e4f4f8f_26-08_05_Karte_Getr%C3%A4nke.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-04 08:16:17
+8e685bada74aac5d,Wir Komplizen,Frankfurt,"Egenolffstraße 17, 60316 Frankfurt am Main",https://www.wir-komplizen.de/,https://cdn.prod.website-files.com/693981f540b6c15bd693fcd0/6a7d900af278a72f4e4f4f8f_26-08_05_Karte_Getr%C3%A4nke.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-04 08:43:40
 fa12eb63e4f6bfa1,Zum Bitburger,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 08:15:17
 ad0878dae06905ea,Zum Rad,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 08:18:28
 889a373dd4eb2e20,Zum Schwejk,Frankfurt,,http://www.schwejk-frankfurt.de,http://www.schwejk-frankfurt.de,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-04 04:38:22
-66f8e9e040e759eb,Zum alten Schlagbaum,Frankfurt,"Berger Straße 248, 60385 Frankfurt am Main",https://www.zumaltenschlagbaum.de/,https://www.zumaltenschlagbaum.de/media/GetrankekartenMaerz2025-k.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-04 08:15:17
+66f8e9e040e759eb,Zum alten Schlagbaum,Frankfurt,"Berger Straße 248, 60385 Frankfurt am Main",https://www.zumaltenschlagbaum.de/,https://www.zumaltenschlagbaum.de/media/GetrankekartenMaerz2025-k.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-04 08:43:38
 a2a7460af603d921,Zum Tannenbaum,Frankfurt,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:14:04
 6490e88357ab29a1,Zur Biertonne,Frankfurt,"Gutleutstraße 139, 60327 Frankfurt am Main",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 08:16:36
 78055ea1a52d8de3,Zur Erholung,Frankfurt,,https://www.gaststaette-zur-erholung.de/,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 08:17:55
